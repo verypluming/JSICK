@@ -1,0 +1,901 @@
+pair_ID	case_particles	rephrase_type	sentence_A_Ja	sentence_B_Ja	sentence_A_Ja_origin	entailment_label_origin	relatedness_score_Ja_origin	entailment_label_Ja	entailment_label_Ja1	entailment_label_Ja2	entailment_label_Ja3	relatedness_score_Ja	relatedness_score_Ja1	relatedness_score_Ja2	relatedness_score_Ja3	naturalness_Ja1	naturalness_Ja2	naturalness_Ja3
+5818_de_d	de	d	女性火の近くダンスをしている	火の近くでダンスをしている女性は一人もいない	女性が火の近くでダンスをしている	contradiction	3.7	contradiction	contradiction	contradiction	contradiction	4.0	4.0	4.0	4.0	文Ａが不自然。「女性」の後に「が」「は」が抜けている。	文Aが不自然	文Aが不自然
+5998_ni_d	ni	d	金色の毛をした犬水の中いる	茶色の犬が水の中で立っている	金色の毛をした犬が水の中にいる	neutral	3.3	neutral	neutral	neutral	contradiction	3.3	3.0	3.0	4.0	文Ａが不自然。「犬」の後に「が」「は」が抜けている。	文Aが不自然	文Aが不自然
+1296_de_c	de	c	男性でフルートが音楽を作っている	男性がフルートを吹いている	男性がフルートで音楽を作っている	neutral	2.5	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａが不自然。「フルート」が「音楽を作っている」の主語になっている。	文Aが不自然	文Aが不自然
+307_de_c	de	c	若いトップレスの女性でペイントが覆われている	裸の女性がボディペイントをした多くの人々の前を歩いている	若いトップレスの女性がペイントで覆われている	neutral	2.3	neutral	neutral	neutral	neutral	2.0	2.0	2.0	2.0	文Ａが不自然。	文Aが不自然	
+9929_wo_d	wo	d	猫ミルク皿からなめていない	犬が湖で泳いでいて、太陽がそれに照りつけている	猫はミルクを皿からなめていない	neutral	1	neutral	neutral	neutral	neutral	1.0	1.0	1.0	1.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+7354_ni_c	ni	c	何人かの子供たちに公園にある像がよじ登っている	何人かの子供が像の上で遊んでいる	何人かの子供たちが公園にある像によじ登っている	neutral	3.3	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａが不自然。	文Aが不自然	文Aが不自然
+9484_wo_c	wo	c	黒い犬と黄褐色の犬を喧嘩がしている	黒い犬と白い犬が地面の上で取っ組み合いをしている	黒い犬と黄褐色の犬が喧嘩をしている	neutral	3	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+6283_de_c	de	c	黒い犬で草地が走っていて、その舌が垂れ下がっている	黒い犬が草地で横たわっている	黒い犬が草地で走っていて、その舌が垂れ下がっている	contradiction	3	contradiction	neutral	contradiction	contradiction	2.3	2.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+4923_de_o	de	o	ナイフである人がニンニクを細かく切っている	ある人がナイフでニンニクを細かく薄切りにしている	ある人がナイフでニンニクを細かく切っている	neutral	4	neutral	neutral	neutral	neutral	4.0	4.0	4.0	4.0	薄切りとは限らないため	文Aが不自然	
+7562_ni_c	ni	c	小さい男の子に顔が微笑を浮かべて緑色のトンネルの中で座っている	緑色のシャツを着た幼少の男の子がスライディングチューブに縞模様をつけている	小さい男の子が顔に微笑を浮かべて緑色のトンネルの中で座っている	neutral	1.7	neutral	neutral	neutral	contradiction	1.3	2.0	1.0	1.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+3714_ni_d	ni	d	おもちゃの列車おもちゃの自動車ぶつかり損ねている	おもちゃの列車がおもちゃの自動車に衝突している	おもちゃの列車がおもちゃの自動車にぶつかり損ねている	contradiction	3	contradiction	contradiction	contradiction	contradiction	3.3	4.0	3.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+8851_de_c	de	c	革ひもにつながれた黒い犬で水場の中が歩いている	革ひもにつながれた犬が水場の中で歩いている	革ひもにつながれた黒い犬が水場の中で歩いている	entailment	4.7	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+7832_ni_c	ni	c	茶色の犬に空中がジャンプしている	茶色の犬が水の中に跳び込んでいる	茶色の犬は空中にジャンプしている	neutral	3	neutral	neutral	neutral	contradiction	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+3641_wo_o	wo	o	カエルを女性はいじっている	ある人がカエルをつかんでいる	女性はカエルをいじっている	neutral	2.5	neutral	neutral	neutral	neutral	3.0	3.0	3.0	3.0			
+3011_ni_c	ni	c	スーツを着た男性にマイクのところが立っていて、歌っている	男性はみごとなマイクさばきで歌っている	スーツを着た男性がマイクのところに立っていて、歌っている	neutral	3	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+6247_ni_c	ni	c	茶色の犬に空中が跳んでいる	栄養不良に見える犬が後ろ脚で立っていて、跳ぶ準備をしている	茶色の犬が空中に跳んでいる	neutral	2	neutral	neutral	neutral	contradiction	2.0	2.0	2.0	2.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+3139_wo_d	wo	d	その猿武術の訓練受けている	猿は武術を練習している	その猿は武術の訓練を受けている	neutral	3.5	entailment	entailment	entailment	entailment	4.7	5.0	4.0	5.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+2559_wo_d	wo	d	男性ギター弾いている	ある人がギターをかき鳴らしている	男性がギターを弾いている	neutral	3.5	neutral	neutral	neutral	entailment	4.0	4.0	4.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+3813_wo_o	wo	o	緑色のトウガラシを女性が薄切りにしている	緑色のトウガラシを薄切りにしている女性は一人もいない	女性が緑色のトウガラシを薄切りにしている	contradiction	4	contradiction	contradiction	contradiction	contradiction	4.0	4.0	4.0	4.0			
+9611_de_d	de	d	犬片脚立っていて、サッカーボールを待っている	ボールに跳びついている黒と白の犬は一匹もいない	犬が片脚で立っていて、サッカーボールを待っている	neutral	2	neutral	neutral	neutral	contradiction	2.7	3.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+3597_wo_d	wo	d	男性床運動している	運動をしている男性がまごついている	男性は床運動をしている	neutral	2.5	neutral	neutral	neutral	neutral	2.3	3.0	1.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+3403_wo_c	wo	c	男性をトルティーヤが折りたたんでいる	男性がトルティーヤを開いている	男性がトルティーヤを折りたたんでいる	contradiction	2.5	neutral	neutral	neutral	contradiction	3.3	3.0	3.0	4.0	文Ａの助詞が不自然。	文Aが不自然	
+2256_wo_c	wo	c	男性をギターがしまい込んでいる	男性がギターを弾いている	男性がギターをしまい込んでいる	contradiction	3	contradiction	contradiction	neutral	contradiction	3.0	3.0	2.0	4.0		文Aが不自然	
+8898_ni_o	ni	o	オートバイに二人の人が乗っている	バイク乗りが小道で走行している	二人の人がオートバイに乗っている	neutral	3	neutral	neutral	neutral	neutral	3.0	3.0	3.0	3.0			
+3055_ni_o	ni	o	鍋に男性がオイルを注ぎ込んでいる	オイルが男性によりフライパンに注ぎ込まれている	男性が鍋にオイルを注ぎ込んでいる	neutral	3.5	neutral	neutral	neutral	neutral	3.7	4.0	3.0	4.0			
+9608_de_c	de	c	犬で片脚が立っていて、ボールを待っている	黒と白の犬がボールに跳びついている	犬が片脚で立っていて、ボールを待っている	neutral	2.3	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0		文Aが不自然	
+4158_ni_c	ni	c	そのピアノに男性が弾かれている	男性が木管楽器を演奏している	そのピアノは男性に弾かれている	neutral	2.5	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+3399_wo_c	wo	c	女性をボウルの中の卵がかき混ぜている	誰かが卵を割っている	女性はボウルの中の卵をかき混ぜている	neutral	2.5	neutral	neutral	neutral	neutral	2.0	3.0	1.0	2.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+92_ni_o	ni	o	空中に孤独な自転車乗りがジャンプしている	男性が空っぽのスイミングプールの中に跳び込んでいる	孤独な自転車乗りが空中にジャンプしている	neutral	1.7	neutral	neutral	neutral	neutral	2.0	2.0	2.0	2.0			
+1893_wo_o	wo	o	その男性をギター奏者は情熱的に愛している	ある人が歌いながらギターを弾いている	ギター奏者はその男性を情熱的に愛している	neutral	2	neutral	neutral	neutral	neutral	2.0	2.0	2.0	2.0		文Aが不自然	
+8615_ni_d	ni	d	灰色のあごひげを生やした年を取った男性バイク乗っている	灰色をしたあごひげを生やした年を取った男性がバイクに乗っている	灰色のあごひげを生やした年を取った男性がバイクに乗っている	entailment	4.7	entailment	entailment	entailment	entailment	5.0	5.0	5.0	5.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+412_wo_o	wo	o	雪の積もった道路を二人の男性が歩くのを休んでいる	二人の男性が雪の積もった道路を歩いている	二人の男性が雪の積もった道路を歩くのを休んでいる	contradiction	3.3	neutral	contradiction	neutral	entailment	4.3	4.0	4.0	5.0			文Aが不自然
+8403_de_d	de	d	あるバンドの頭の禿げた男性スポットライトの中楽器を演奏している	男性がドラマーの隣でギターを弾いている	あるバンドの頭の禿げた男性がスポットライトの中で楽器を演奏している	neutral	2.3	neutral	neutral	neutral	neutral	2.3	3.0	2.0	2.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+4672_ni_c	ni	c	男性に木片が穴を開けている	男性が木片で穴を開けている	男性が木片に穴を開けている	neutral	3	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+6551_ni_c	ni	c	幼い子供に何本かの木の前が立っている	幼少の男の子が森の中で座っている	幼い子供が何本かの木の前に立っている	neutral	3	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	
+4935_wo_c	wo	c	陸軍将校を新兵がどやしつけている	陸軍将校は新兵を怒鳴りつけている	陸軍将校は新兵をどやしつけている	entailment	4.7	neutral	neutral	neutral	contradiction	3.0	3.0	2.0	4.0			
+2872_ni_d	ni	d	男性機械の雄牛乗っている	ある人が機械の雄牛に乗っている	男性が機械の雄牛に乗っている	entailment	4	entailment	neutral	entailment	entailment	4.0	4.0	4.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+5729_wo_o	wo	o	干し草を雌牛が食べている	雌牛が草を食べている	雌牛が干し草を食べている	entailment	4.7	entailment	entailment	entailment	entailment	4.3	4.0	4.0	5.0		文Aが不自然	
+92_ni_c	ni	c	孤独な自転車乗りに空中がジャンプしている	男性が空っぽのスイミングプールの中に跳び込んでいる	孤独な自転車乗りが空中にジャンプしている	neutral	1.7	neutral	neutral	neutral	neutral	1.7	2.0	1.0	2.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+7560_ni_d	ni	d	小さい男の子顔微笑を浮かべて緑色のトンネルの中で座っている	縞模様のシャツを着た小さな男の子が緑色のチューブから滑り出てきている	小さい男の子が顔に微笑を浮かべて緑色のトンネルの中で座っている	neutral	2.3	neutral	neutral	neutral	contradiction	2.0	2.0	2.0	2.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+9440_de_d	de	d	青いシャツとハイヒールを身に着けている女性歩道男性の隣に立っている	青いシャツとハイヒールを身に着けている女性が歩道でその男性の隣に立っている	青いシャツとハイヒールを身に着けている女性が歩道で男性の隣に立っている	entailment	5	entailment	entailment	neutral	entailment	5.0	5.0	5.0	5.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+600_wo_o	wo	o	赤いビーズをその十代の女の子は身に着けている	十代の女の子が赤いビーズを身に着けている	その十代の女の子は赤いビーズを身に着けている	entailment	4.3	entailment	entailment	entailment	entailment	5.0	5.0	5.0	5.0		文Aが不自然	
+8088_de_o	de	o	茶色の野原で破損したバレーボールで黒と白の犬が遊んでいる	黒と白の犬が茶色の野原で破れたバレーボールで遊んでいる	黒と白の犬が茶色の野原で破損したバレーボールで遊んでいる	entailment	4.3	entailment	entailment	entailment	entailment	5.0	5.0	5.0	5.0			
+5339_ni_d	ni	d	男性それらのソーセージ味付けをしていない	男性はそれらのソーセージに味付けをしている	男性はそれらのソーセージに味付けをしていない	contradiction	4	contradiction	contradiction	contradiction	contradiction	4.0	4.0	4.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+7992_de_o	de	o	プールの中で水着を着た子供たちが遊んでいる	水着を着た子供たちが水の中で遊んでいる	水着を着た子供たちがプールの中で遊んでいる	entailment	4.3	entailment	entailment	entailment	entailment	4.3	4.0	4.0	5.0			
+6841_de_o	de	o	街路で二人の幼少の子供がおもちゃの自動車で遊んでいる	二人の子供は幼少で、街路でおもちゃの自動車で遊んでいる	二人の幼少の子供が街路でおもちゃの自動車で遊んでいる	entailment	5	entailment	entailment	entailment	entailment	5.0	5.0	5.0	5.0			
+7024_de_o	de	o	プレイングハウスの中で二人の女の子がジャンプしている	明るい色の服を着た子供が両腕を外に広げて立っている	二人の女の子がプレイングハウスの中でジャンプしている	neutral	1.3	neutral	neutral	neutral	contradiction	1.7	2.0	1.0	2.0			
+1539_wo_c	wo	c	猫をキーボードが弾いている	キーボードを弾いている猫は一匹もいない	猫がキーボードを弾いている	contradiction	4	neutral	contradiction	neutral	neutral	3.3	4.0	2.0	4.0		文Aが不自然	文Aが不自然
+7325_wo_d	wo	d	三人の男性遠方の大きな緑の丘見つめている	三人の男性が遠方の大きな緑の丘を見つめていない	三人の男性が遠方の大きな緑の丘を見つめている	contradiction	4	contradiction	contradiction	contradiction	contradiction	4.0	4.0	4.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+1286_wo_d	wo	d	男性ダンスしている	男性が外を歩いている	男性がダンスをしている	neutral	2.5	neutral	neutral	neutral	contradiction	2.3	3.0	2.0	2.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+481_wo_o	wo	o	水鉄砲を笑っている子供が持っており、水を吹きかけられている	子供が水鉄砲を持っている	笑っている子供が水鉄砲を持っており、水を吹きかけられている	entailment	3.3	entailment	entailment	entailment	entailment	3.7	4.0	3.0	4.0			
+2335_ni_c	ni	c	ニンジンに女性が薄切りにされている	女性がニンジンを薄切りにしている	ニンジンが女性に薄切りにされている	entailment	5	neutral	neutral	neutral	contradiction	3.0	3.0	2.0	4.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+8615_ni_c	ni	c	灰色のあごひげを生やした年を取った男性にバイクが乗っている	灰色をしたあごひげを生やした年を取った男性がバイクに乗っている	灰色のあごひげを生やした年を取った男性がバイクに乗っている	entailment	4.7	neutral	neutral	neutral	contradiction	3.3	4.0	2.0	4.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+8984_de_o	de	o	砂丘でビキニを着た女の子が遊んでいる	ビキニを着た女の子が砂地で遊んでいる	ビキニを着た女の子が砂丘で遊んでいる	entailment	4	entailment	entailment	entailment	entailment	4.3	4.0	4.0	5.0			
+7928_ni_c	ni	c	ピンク色のジャケットを着た人にフィールドが走り出ている	ピンク色のジャケットを着た人がフィールドに走り出ていない	ピンク色のジャケットを着た人がフィールドに走り出ている	contradiction	4	neutral	neutral	neutral	neutral	2.7	4.0	2.0	2.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+9785_ni_d	ni	d	男性草地の上座っていて、水のボトルから飲んでいる	子供は屋外で嬉しそうにおもちゃで遊んでいる	男性が草地の上に座っていて、水のボトルから飲んでいる	neutral	1	neutral	neutral	neutral	neutral	1.0	1.0	1.0	1.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+5817_de_c	de	c	女性で火の近くがダンスをしている	女性が暖炉の近くでダンスをしている	女性が火の近くでダンスをしている	neutral	3.7	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0		文Aが不自然	文Aが不自然
+9813_wo_c	wo	c	女の子をＴシャツが着ていて、口を開けている	茶色と白の犬が野球のボールを口にくわえている	女の子がＴシャツを着ていて、口を開けている	neutral	1	neutral	neutral	neutral	neutral	1.0	1.0	1.0	1.0		文Aが不自然	文Aが不自然
+7071_de_c	de	c	ローラーブレーダーで斜面が芸を行っていない	インラインスケートをはいた男性がスケート場でスケートをしている	ローラーブレーダーは斜面で芸を行っていない	neutral	2	neutral	neutral	neutral	neutral	2.0	2.0	2.0	2.0	文Ａの助詞が不自然。	文Aが不自然	
+7409_wo_c	wo	c	アメリカ人のフットボール選手を赤と白のユニフォームが着ている	フットボール選手が黒い腕章を外している	アメリカ人のフットボール選手は赤と白のユニフォームを着ている	neutral	2.3	neutral	neutral	neutral	neutral	2.3	3.0	2.0	2.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+6837_de_c	de	c	子供たちで砂浜がお互いを追いかけている	地面の上を走っていて小さな女の子と遊んでいる小さな男の子は一人もいない	子供たちは砂浜でお互いを追いかけている	neutral	2	neutral	neutral	neutral	neutral	1.3	2.0	1.0	1.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+3612_ni_c	ni	c	自転車に男性が乗られている	猿がバイクに乗っている	自転車が男性に乗られている	neutral	2.5	neutral	neutral	neutral	neutral	1.3	2.0	1.0	1.0	文Ａの助詞が不自然。	文Aが不自然	
+9128_wo_c	wo	c	インドの服を着て手にヘンナを着けている女の子を書類作成がしている	男性がカラフルなシャツとたくさんの宝石を身に着けている	インドの服を着て手にヘンナを着けている女の子が書類作成をしている	neutral	1	neutral	neutral	neutral	neutral	1.0	1.0	1.0	1.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+2237_wo_d	wo	d	その男の子一人の男の子水の中に叩き込んでいる	男の子がその犬に水の中に叩き込まれている	その男の子は一人の男の子を水の中に叩き込んでいる	neutral	3.5	neutral	neutral	neutral	neutral	2.3	3.0	2.0	2.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+481_wo_c	wo	c	笑っている子供を水鉄砲が持っており、水を吹きかけられている	子供が水鉄砲を持っている	笑っている子供が水鉄砲を持っており、水を吹きかけられている	entailment	3.3	neutral	neutral	neutral	contradiction	2.3	3.0	2.0	2.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+5344_ni_c	ni	c	男性にボウルの中の水が調味料を加えている	男性はそれらのソーセージに味付けをしている	男性はボウルの中の水に調味料を加えている	neutral	2.7	neutral	neutral	neutral	neutral	2.3	3.0	2.0	2.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+8026_de_d	de	d	犬緑の草地の上眠っている	茶色と白の犬が草地の上で遊んでいる	犬が緑の草地の上で眠っている	neutral	2.7	neutral	neutral	neutral	contradiction	2.7	3.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+5837_ni_o	ni	o	男性にオートバイが乗られている	男性が崖からダイビングしている	オートバイが男性に乗られている	neutral	1.3	neutral	neutral	neutral	contradiction	1.7	2.0	2.0	1.0		文Aが不自然	
+5343_ni_o	ni	o	それらのソーセージに男性は味付けをしている	男性はボウルの中の水／いくらかの水に調味料を加えていない	男性はそれらのソーセージに味付けをしている	neutral	1.7	neutral	neutral	neutral	neutral	2.3	3.0	2.0	2.0			文Aが不自然　文Bが不自然
+6364_de_c	de	c	子供で屋外が嬉しそうにおもちゃで遊んでいる	子供は屋外でおもちゃで遊んでいる	子供は屋外で嬉しそうにおもちゃで遊んでいる	entailment	4.7	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+2901_ni_d	ni	d	木男性斧で切り倒されている	男性が木を斧で切っている	木が男性に斧で切り倒されている	entailment	3.5	neutral	neutral	neutral	contradiction	3.7	5.0	3.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+4215_wo_c	wo	c	女性をキツネザルが撫でている	ある人が動物の背中を掻いている	女性がキツネザルを撫でている	neutral	2.5	neutral	neutral	neutral	neutral	2.3	3.0	2.0	2.0		文Aが不自然	
+421_ni_o	ni	o	雪の積もった道路のわきに自転車を伴った二人の男性がいる	二人の男性が雪の積もった道路を歩くのを休んでいる	自転車を伴った二人の男性が雪の積もった道路のわきにいる	neutral	2.3	neutral	neutral	neutral	contradiction	3.3	4.0	2.0	4.0			
+6378_ni_o	ni	o	サーフボードにサーファーが寄りかかっている	サーフボードに寄りかかっているサーファーは一人もいない	サーファーがサーフボードに寄りかかっている	contradiction	4	contradiction	contradiction	contradiction	contradiction	4.0	4.0	4.0	4.0			
+8290_de_d	de	d	犬海辺走っている	海辺で走っている犬は一匹もいない	犬が海辺で走っている	contradiction	3.7	contradiction	contradiction	neutral	contradiction	3.7	4.0	3.0	4.0		文Aが不自然	文Aが不自然
+6960_de_o	de	o	ステージで白い帽子をかぶった男性がギターを弾いている	白い帽子をかぶった男性がステージから下りている	白い帽子をかぶった男性がステージでギターを弾いている	neutral	3	neutral	contradiction	neutral	neutral	3.0	4.0	2.0	3.0			
+6261_wo_o	wo	o	ビキニを二人の女性が着ていて砂の上を歩いている	二人の女性がビキニを着ていて、砂の上を歩いている	二人の女性がビキニを着ていて砂の上を歩いている	entailment	5	entailment	entailment	entailment	entailment	4.7	5.0	4.0	5.0			
+5516_ni_o	ni	o	デジタルホワイトボードに男性が絵を描いている	男性がボードに絵を描いている	男性がデジタルホワイトボードに絵を描いている	entailment	4	entailment	entailment	entailment	entailment	4.3	5.0	4.0	4.0			
+579_de_c	de	c	白と茶色の犬でやっとのことが水の中を歩いている	茶色と白の毛並みをしている犬が浅瀬を小走りに通っている	白と茶色の犬がやっとのことで水の中を歩いている	neutral	2.7	neutral	neutral	neutral	neutral	2.7	3.0	3.0	2.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+8765_wo_d	wo	d	子供黄色のジャケット着ていて、岩から跳び下りている	幼い子供が水の中に跳び込んでいる	子供が黄色のジャケットを着ていて、岩から跳び下りている	neutral	1.7	neutral	neutral	neutral	neutral	3.0	3.0	3.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+9962_wo_o	wo	o	ジャガイモの皮を一人の女性が剥いている	黄色の花が蜂にしがみつかれている	一人の女性がジャガイモの皮を剥いている	neutral	1	neutral	neutral	neutral	neutral	1.0	1.0	1.0	1.0			
+231_wo_c	wo	c	三人のアジア人の子供たちをダンスがしていて、一人の真面目な男性が見ている	三人のアジア人の子供たちがダンスをしていて、一人の男性が見ている	三人のアジア人の子供たちがダンスをしていて、一人の真面目な男性が見ている	entailment	4.3	entailment	entailment	neutral	entailment	4.3	5.0	3.0	5.0		文Aが不自然	
+610_wo_c	wo	c	十代の女の子を赤いビーズが保管している	薄茶色の髪をした若い女性が赤いネックレス、スウェットシャツ、そしてイヤリングを身に着けていて、微笑んでいる	十代の女の子が赤いビーズを保管している	neutral	1.5	neutral	neutral	neutral	neutral	1.0	1.0	1.0	1.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+8887_de_c	de	c	女性で街路が歩いている	女性が道路で歩いている	女性が街路で歩いている	entailment	3.7	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+325_wo_c	wo	c	男性をシルバーのセダンが指さしている	車を指さしている男性は一人もいない	男性がシルバーのセダンを指さしている	contradiction	3.3	neutral	neutral	neutral	neutral	2.3	3.0	2.0	2.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+8871_ni_c	ni	c	幼児に座席が座っている	幼児が腰を下ろしている	幼児が座席に座っている	entailment	4	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+4455_de_o	de	o	草原でサイは草を食べている	サイは草原で草を食べていない	サイは草原で草を食べている	contradiction	4	contradiction	contradiction	contradiction	contradiction	4.0	4.0	4.0	4.0			
+5808_de_d	de	d	男性銃発砲している	男性が武器で発砲している	男性が銃で発砲している	entailment	4.3	entailment	entailment	neutral	entailment	4.0	4.0	3.0	5.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+2904_ni_d	ni	d	男性木水をやっている	男性が木を斧で切り倒している	男性が木に水をやっている	neutral	2	neutral	neutral	neutral	contradiction	2.3	3.0	2.0	2.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+1779_de_c	de	c	チータで野原が獲物に引き離されている	チーターが野原で獲物を追っている	チータが野原で獲物に引き離されている	neutral	3.5	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+8020_de_d	de	d	犬緑の草地の上眠っている	犬が緑の草地の上で遊んでいる	犬が緑の草地の上で眠っている	neutral	3.3	contradiction	contradiction	neutral	contradiction	2.7	4.0	2.0	2.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+1850_ni_c	ni	c	男性に一切れのガーリック風味のパンがぞんざいにバターを塗っている	男性は一切れのガーリック風味のパンにぞんざいにバターを塗っている	男性が一切れのガーリック風味のパンにぞんざいにバターを塗っている	entailment	5	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+2209_de_c	de	c	二人の子供でスイミングプールの中で緑色をしたワニの浮き袋が遊んでいる	二人の子供が空気注入式のワニをプールから引っぱり出している	二人の子供がスイミングプールの中で緑色をしたワニの浮き袋で遊んでいる	neutral	2.5	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+571_de_o	de	o	やっとのことで白と茶色の犬が水の中を歩いている	水の中をやっとのことでゆっくり歩いている白と茶色の犬は一匹もいない	白と茶色の犬がやっとのことで水の中を歩いている	contradiction	2.7	contradiction	contradiction	contradiction	contradiction	4.0	4.0	4.0	4.0			
+1546_wo_d	wo	d	猫キーボード弾いている	男性が二台のキーボードを弾いている	猫がキーボードを弾いている	neutral	2.5	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+7759_wo_c	wo	c	人々を街路の群衆の中が通り抜けている	人々が混雑した街路を通って歩いている	人々が街路の群衆の中を通り抜けている	neutral	3.7	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+7818_de_c	de	c	何匹かの犬で小川の中が遊んでいる	二匹の猫が水の中で飛沫を飛ばしている何かを見ている	何匹かの犬が小川の中で遊んでいる	neutral	2.3	neutral	neutral	neutral	neutral	1.3	2.0	1.0	1.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+3954_de_c	de	c	男の子で金属で作られたフェンスの上がバイクに乗っている	男の子は金属のフェンスの上でバイクに乗っている	男の子は金属で作られたフェンスの上でバイクに乗っている	entailment	5	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+5893_wo_o	wo	o	指の爪を女の子が軽くたたいている	大きな犬が地面の上を走っている	女の子が指の爪を軽くたたいている	neutral	1.3	neutral	neutral	neutral	neutral	1.0	1.0	1.0	1.0		文Aが不自然	
+2665_ni_c	ni	c	フェレットに棚がよじ登っている	フェレットが棚から這い降りている	フェレットが棚によじ登っている	contradiction	3.5	neutral	neutral	neutral	contradiction	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+7730_ni_c	ni	c	子供に眠りがついている	傘の下の男の子が、青いコートを着ている父親に抱きしめられている	子供が眠りについている	neutral	1.7	neutral	neutral	neutral	neutral	1.0	1.0	1.0	1.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+2120_wo_o	wo	o	ミルクを猫は皿からなめている	いくらかのミルクが猫にむさぼるように飲まれている	猫はミルクを皿からなめている	neutral	3.5	neutral	neutral	neutral	neutral	3.7	3.0	4.0	4.0			
+5111_de_c	de	c	男性で水の中が水上玩具に乗っている	男性が水の中で水上玩具で遊んでいる	男性が水の中で水上玩具に乗っている	neutral	4.3	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+9553_wo_o	wo	o	ギターとタンバリンを教会の地下室にいる子供たちのグループが演奏している	子供たちのグループがタンバリンを鳴らしている	教会の地下室にいる子供たちのグループがギターとタンバリンを演奏している	entailment	3	entailment	entailment	entailment	entailment	3.3	4.0	3.0	3.0			
+9312_ni_o	ni	o	スノーボードにある人が乗ってアクロバットをしている	ある人がスノーボードに乗って芸をしている	ある人がスノーボードに乗ってアクロバットをしている	entailment	4	entailment	entailment	entailment	entailment	4.0	4.0	4.0	4.0			
+9421_ni_c	ni	c	犬に砂だらけのエリアがいて、かき回された砂に空中が飛び散っていて、いくつかの植物にその背後がある	猫が砂だらけのエリアにいて、かき回された砂が空中に飛び散っていて、いくつかの植物がその背後にある	犬が砂だらけのエリアにいて、かき回された砂が空中に飛び散っていて、いくつかの植物がその背後にある	neutral	3.3	neutral	neutral	neutral	neutral	3.3	4.0	2.0	4.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+5757_de_o	de	o	草原でサイは草を食べている	草地の上でゲームをしている男性は一人もいない	サイは草原で草を食べている	neutral	1	neutral	neutral	neutral	neutral	1.7	3.0	1.0	1.0			
+9115_de_o	de	o	緑の草地で二人の小さな男の子がサッカーボールで外で遊んでいる	緑の草地でサッカーボールで外で遊んでいる小さな男の子は一人もいない	二人の小さな男の子が緑の草地でサッカーボールで外で遊んでいる	contradiction	3.7	contradiction	contradiction	contradiction	entailment	4.0	4.0	4.0	4.0			
+1577_wo_o	wo	o	ギターを男性が弾いている	ある人がトランペットを吹いている	男性がギターを弾いている	neutral	2	neutral	neutral	neutral	contradiction	2.7	3.0	1.0	4.0			文Aが不自然
+8580_de_c	de	c	汚れた黄褐色の犬で水の中が転がっていて、カメラをまっすぐ見ている	汚れた黄褐色の犬が泥の中で転がっていて、カメラをまっすぐ見ている	汚れた黄褐色の犬が水の中で転がっていて、カメラをまっすぐ見ている	neutral	3.3	neutral	neutral	neutral	neutral	4.0	5.0	3.0	4.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+8666_de_o	de	o	道路でローラーブレーダーのグループが一列に並んでいる	ローラーブレーダーたちが隊列を組んで丘を滑り降りている	ローラーブレーダーのグループが道路で一列に並んでいる	neutral	2.3	neutral	neutral	neutral	neutral	3.3	4.0	3.0	3.0			
+5055_wo_c	wo	c	男性をタマネギが切っていない	男性がドアを開けている	男性がタマネギを切っていない	neutral	1	neutral	neutral	neutral	neutral	1.0	1.0	1.0	1.0	文Ａの助詞が不自然。	文Aが不自然	
+295_ni_o	ni	o	地面の上に二人の幼い女の子が立っている	何人かの子供たちが座って膝を立てている	二人の幼い女の子が地面の上に立っている	neutral	2.3	neutral	neutral	neutral	neutral	2.0	3.0	2.0	1.0		文Aが不自然	
+9834_wo_d	wo	d	男性ショットガン撃っている	ある人がギターを弾いている	男性がショットガンを撃っている	neutral	1	neutral	neutral	neutral	contradiction	1.0	1.0	1.0	1.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+6388_wo_c	wo	c	その人々を美しい滝のそばの道路が歩いている	その人々は滝のそばの道路を歩いていて、その滝は美しい	その人々は美しい滝のそばの道路を歩いている	entailment	4.7	neutral	neutral	neutral	neutral	3.0	5.0	2.0	2.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+5542_de_d	de	d	あるグループの人々コンサートダンスをしている	あるグループの人々が行進している	あるグループの人々がコンサートでダンスをしている	neutral	2.3	neutral	neutral	neutral	neutral	2.0	2.0	2.0	2.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+2071_de_c	de	c	一人の男性でインターネットカメラが女の子に話しかけている	十代の男の子がインターネットカメラで女の子に話しかけている	一人の男性がインターネットカメラで女の子に話しかけている	neutral	3.5	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+125_de_c	de	c	五人の子供たちで木が作られた小屋の前に立っている	五人の子供たちが寄り添って立っていて、一人の子供が銃を持っている	五人の子供たちが木で作られた小屋の前に立っている	neutral	2.3	neutral	neutral	neutral	neutral	2.0	2.0	2.0	2.0	文Ａの助詞が不自然。		文Aが不自然
+3698_wo_c	wo	c	男性たちをスーツケースが車のトランクの中に入れている	男性たちはスーツケースを車のトランクに詰め込んでいる	男性たちはスーツケースを車のトランクの中に入れている	neutral	3.5	neutral	neutral	neutral	contradiction	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+1362_ni_d	ni	d	鉛筆その機械削られている	機械が鉛筆を尖らせている	鉛筆がその機械に削られている	neutral	4	entailment	entailment	neutral	entailment	3.3	4.0	2.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+9174_de_d	de	d	茶色と白の犬歩道ジャンプしている	小さな茶色と白の犬が歩道で走っている	茶色と白の犬が歩道でジャンプしている	neutral	3	neutral	neutral	neutral	neutral	3.3	4.0	2.0	4.0		文Aが不自然	文Aが不自然
+4413_wo_o	wo	o	トラクターのタイヤを競争における二人の人がひっくり返している	二人の男性がタイヤ転がし競技会で競争している	競争における二人の人がトラクターのタイヤをひっくり返している	neutral	2.5	neutral	entailment	neutral	neutral	3.0	3.0	2.0	4.0		文Aが不自然	文Aが不自然
+3365_wo_d	wo	d	女性エビきれいに洗っている	エビをきれいに洗っている女性は一人もいない	女性がエビをきれいに洗っている	contradiction	4	contradiction	contradiction	neutral	contradiction	4.0	4.0	4.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+8723_ni_o	ni	o	サウンドミキシングテーブルの周りにあるグループの人々が立っている	あるグループの人々がサウンドミキシングコンソールの周りに立っている	あるグループの人々がサウンドミキシングテーブルの周りに立っている	neutral	4.3	entailment	entailment	neutral	entailment	4.7	5.0	4.0	5.0			
+2780_de_c	de	c	女性で街路がその犬を散歩させている	女性は街路でその犬を散歩させている	女性が街路でその犬を散歩させている	entailment	5	neutral	neutral	neutral	neutral	3.3	4.0	3.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+6369_de_o	de	o	屋外で子供はおもちゃで遊んでいる	子供は幼くて、白いコートを着ていて、ゲームをしている	子供は屋外でおもちゃで遊んでいる	neutral	3	neutral	neutral	neutral	neutral	2.0	1.0	2.0	3.0			
+6561_de_c	de	c	二人の若い男性で戸外の黄金の像の近くが遊んでいる	二人の人が黄金で作られた像を見ている	二人の若い男性が戸外の黄金の像の近くで遊んでいる	neutral	2.7	neutral	neutral	neutral	neutral	2.3	3.0	2.0	2.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+901_wo_c	wo	c	勇ましいパフォーマーをオートバイの後輪走行がして青いジャンプスーツを着た男性を飛び越えている	青いジャンプスーツを着た男性が勇ましくオートバイの後輪走行をやっている	勇ましいパフォーマーがオートバイの後輪走行をして青いジャンプスーツを着た男性を飛び越えている	neutral	3.5	neutral	neutral	neutral	neutral	2.3	3.0	2.0	2.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+4479_wo_o	wo	o	そのピアノを男の子は弾いている	男の子は楽器を演奏している	男の子はそのピアノを弾いている	entailment	4	entailment	entailment	entailment	entailment	4.0	4.0	4.0	4.0			
+1502_wo_c	wo	c	空手着を着た三人の男の子を組手がしている	空手着を着た三人の男の子が闘っている	空手着を着た三人の男の子が組手をしている	entailment	4	neutral	neutral	neutral	entailment	3.3	3.0	3.0	4.0	文Ａの助詞が不自然。		
+795_wo_o	wo	o	金色の毛並みを二人の人がした二匹の犬を雪の中で散歩させている	二人の人が雪の中で金色の毛並みをした二匹の犬を抱きしめている	二人の人が金色の毛並みをした二匹の犬を雪の中で散歩させている	contradiction	4	neutral	neutral	neutral	entailment	3.0	3.0	2.0	4.0	文Ａの「金色の毛並みを」「した」「二人の人が」の語順が不自然。	文Aが不自然	文Aが不自然
+8359_ni_c	ni	c	何人かの人々に暗い部屋がある小型のテーブルの席についている	人々が赤い部屋にある丸いテーブルの席についている	何人かの人々が暗い部屋にある小型のテーブルの席についている	neutral	2.3	neutral	neutral	neutral	neutral	2.3	3.0	2.0	2.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+6184_ni_c	ni	c	四人の人に低いセメントの出っ張りの上が立っている	四人の人が低いセメントの出っ張りの上に座っている	四人の人が低いセメントの出っ張りの上に立っている	neutral	3.7	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+5972_wo_o	wo	o	店の中を帽子をかぶった男性がゆっくり歩いている	帽子をかぶった男性が店の中を歩いている	帽子をかぶった男性が店の中をゆっくり歩いている	entailment	4.7	entailment	entailment	entailment	entailment	4.0	4.0	4.0	4.0			
+1540_wo_d	wo	d	ミュージシャン二台のキーボード弾いている	男性が二台のキーボードを弾いている	ミュージシャンが二台のキーボードを弾いている	neutral	3.5	neutral	neutral	neutral	neutral	3.3	4.0	3.0	3.0		文Aが不自然	文Aが不自然
+635_wo_d	wo	d	父親自分の娘スイミングプールの水の中に入れている	その男性は、海の近くにあるスイミングプールに子供を放り込んでいる	父親が自分の娘をスイミングプールの水の中に入れている	neutral	3	neutral	neutral	neutral	neutral	3.3	4.0	3.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+558_de_c	de	c	濃い黒色の犬と薄い茶色の犬で裏庭が遊んでいる	濃い黒色の犬と薄い茶色の犬が裏庭で喧嘩をしている	濃い黒色の犬と薄い茶色の犬が裏庭で遊んでいる	contradiction	3.7	neutral	neutral	neutral	contradiction	3.7	4.0	3.0	4.0	文Ａの助詞が不自然。		
+5469_wo_d	wo	d	男性草刈っている	芝生を刈っている男は一人もいない	男性が草を刈っている	neutral	3	neutral	neutral	neutral	contradiction	3.0	3.0	2.0	4.0	文Ａが不自然。助詞が抜けている。草が芝生とは限らないため中立を選択。	文Aが不自然	文Aが不自然
+2878_ni_c	ni	c	男性に機械の雄牛が乗っている	ある人が機械の雄牛に乗っている	男性は機械の雄牛に乗っている	entailment	4	neutral	neutral	neutral	contradiction	2.7	3.0	2.0	3.0		文Aが不自然	文Aが不自然
+1831_ni_o	ni	o	女性にいくつかの薄切りにされた豆腐が食べられている	豆腐が女性に薄切りにされている	いくつかの薄切りにされた豆腐が女性に食べられている	neutral	3	neutral	neutral	neutral	contradiction	2.7	3.0	2.0	3.0			
+7910_wo_d	wo	d	小型の黒い犬赤い首輪着けていて、葉っぱの中で青いボールと一緒にいる	犬が枯れ葉でいっぱいの野原でピカピカの青いサッカーボールに跳びついている	小型の黒い犬が赤い首輪を着けていて、葉っぱの中で青いボールと一緒にいる	neutral	3	neutral	neutral	neutral	neutral	2.7	2.0	3.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+5760_ni_o	ni	o	男の子に男性が話しかけている	男性が女性に話しかけている	男性が男の子に話しかけている	neutral	3	neutral	neutral	neutral	neutral	3.3	4.0	2.0	4.0			
+2211_de_o	de	o	スイミングプールの中で二人の子供が緑色のワニの浮き袋で遊んでいる	二人の子供がプールの中の空気注入式のワニを押している	二人の子供がスイミングプールの中で緑色のワニの浮き袋で遊んでいる	neutral	2.5	neutral	neutral	neutral	entailment	4.0	4.0	3.0	5.0	押しているかはわからないため。		
+8088_de_d	de	d	黒と白の犬茶色の野原で破損したバレーボール遊んでいる	黒と白の犬が茶色の野原で破れたバレーボールで遊んでいる	黒と白の犬が茶色の野原で破損したバレーボールで遊んでいる	entailment	4.3	entailment	entailment	neutral	entailment	4.7	5.0	4.0	5.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+9064_de_c	de	c	犬で山の上が立っている	白い犬が草で覆われた丘の中腹で立っている	犬が山の上で立っている	neutral	2.7	neutral	neutral	neutral	neutral	2.3	3.0	1.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+9304_ni_d	ni	d	スケートボーダー空中ジャンプしている	スケートボーダーが空中にジャンプしていない	スケートボーダーが空中にジャンプしている	contradiction	4	contradiction	contradiction	neutral	contradiction	4.0	4.0	4.0	4.0		文Aが不自然	文Aが不自然
+6441_ni_o	ni	o	テラスにカップルが座っていて、海を見つめている	二人の大人が椅子に座っていて、海を見ている	カップルがテラスに座っていて、海を見つめている	neutral	3.7	neutral	neutral	neutral	neutral	3.7	4.0	3.0	4.0			
+6537_ni_o	ni	o	黄色のジャージを着たホッケー選手にゴールは守られている	黄色のジャージを着たホッケー選手がゴールを守っている	ゴールは黄色のジャージを着たホッケー選手に守られている	entailment	5	entailment	entailment	entailment	entailment	5.0	5.0	5.0	5.0			
+3333_wo_d	wo	d	男性パン片付けている	女性はハーブを薄切りにしている	男性はパンを片付けている	neutral	1.5	neutral	neutral	neutral	neutral	1.3	2.0	1.0	1.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+6437_ni_o	ni	o	椅子に二人の大人が座っていて、海を見ている	何人かの大人が椅子に座っていて、海を見ている	二人の大人が椅子に座っていて、海を見ている	entailment	4.3	entailment	entailment	entailment	entailment	4.3	4.0	4.0	5.0			
+9509_ni_o	ni	o	地面に茶色の犬が差し込まれている金属製の柱をかじっている	茶色の子犬が柱に噛みついている	茶色の犬が地面に差し込まれている金属製の柱をかじっている	neutral	3	entailment	neutral	entailment	entailment	3.3	3.0	3.0	4.0	文Ａの語順が不自然。	文Aが不自然	文Aが不自然
+6283_de_d	de	d	黒い犬草地走っていて、その舌が垂れ下がっている	黒い犬が草地で横たわっている	黒い犬が草地で走っていて、その舌が垂れ下がっている	contradiction	3	neutral	neutral	neutral	contradiction	2.7	3.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+1436_wo_c	wo	c	男性をエレキギターが弾いている	男性がキーボードを弾いている	男性がエレキギターを弾いている	neutral	3.5	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+3726_wo_c	wo	c	その人をタマネギが薄切りにしている	タマネギの皮をむいている人は一人もいない	その人はタマネギを薄切りにしている	neutral	2	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+9724_wo_d	wo	d	女性レース用のオートバイ傾かせている	男性がレース用のオートバイを傾かせている	女性がレース用のオートバイを傾かせている	neutral	3.7	neutral	neutral	neutral	neutral	3.3	4.0	2.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+8736_de_o	de	o	ベッドで若いカップルが横たわっている	カップルがベッドの上で一緒に横たわっている	若いカップルがベッドで横たわっている	entailment	4.3	entailment	entailment	entailment	neutral	4.0	4.0	4.0	4.0			
+383_de_o	de	o	草の中で茶色と白の犬が一休みしている	茶色と白の犬が丈の高い草の中を走っている	茶色と白の犬が草の中で一休みしている	contradiction	3	contradiction	contradiction	neutral	contradiction	3.0	3.0	2.0	4.0			
+1439_ni_d	ni	d	男性地面唾を吐いている	男性が唾を吐いている	男性が地面に唾を吐いている	entailment	4	entailment	entailment	neutral	entailment	4.3	4.0	4.0	5.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+5551_ni_o	ni	o	蛇に男性はマウスを餌として与えている	男性がラップトップで仕事をしている	男性は蛇にマウスを餌として与えている	neutral	1.7	neutral	neutral	neutral	contradiction	1.0	1.0	1.0	1.0			
+5001_wo_o	wo	o	引き出しを猫が開けていて、中に跳び込んでいる	猫が引き出しを開けていて、中に潜り込んでいる	猫が引き出しを開けていて、中に跳び込んでいる	neutral	3.7	entailment	entailment	neutral	entailment	4.0	4.0	3.0	5.0			
+3066_wo_o	wo	o	車を女性が運転していて、横に座っている男性に話しかけている	その女性とその男性は車で旅行をしていない	女性が車を運転していて、横に座っている男性に話しかけている	neutral	2.5	neutral	neutral	neutral	neutral	2.0	2.0	2.0	2.0			
+7870_ni_c	ni	c	白い馬に青いカウボーイハットをかぶった男性が乗られている	青いカウボーイハットをかぶった男性が白い馬に乗っている	白い馬が青いカウボーイハットをかぶった男性に乗られている	entailment	4.7	neutral	neutral	neutral	neutral	3.0	3.0	3.0	3.0	文Ａの助詞が不自然。	文Aが不自然	
+9261_wo_c	wo	c	男性をきれいなビニールの縁なし帽とフェイスマスクが身に着けている	レンガの壁のそばにいる女性が口の周りにマスクを、そしてヘアネットを着けている	男性がきれいなビニールの縁なし帽とフェイスマスクを身に着けている	neutral	1.3	neutral	neutral	neutral	neutral	1.3	1.0	2.0	1.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+213_ni_c	ni	c	犬に空中が高く跳んでいて、別の犬が見ている	二匹の犬が植物のそばで遊んでいる	犬が空中に高く跳んでいて、別の犬が見ている	neutral	2.7	neutral	neutral	neutral	neutral	1.7	1.0	2.0	2.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+3456_de_d	de	d	男性斧木の幹をたたき切っていない	男性が斧で丸太をたたき切っている	男性は斧で木の幹をたたき切っていない	neutral	2.5	contradiction	contradiction	neutral	contradiction	3.3	4.0	2.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+2256_wo_d	wo	d	男性ギターしまい込んでいる	男性がギターを弾いている	男性がギターをしまい込んでいる	contradiction	3	contradiction	contradiction	neutral	contradiction	2.7	3.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+7943_de_d	de	d	男の子海辺海の中を走っている	男の子が海辺で水の中を走っている	男の子が海辺で海の中を走っている	entailment	4.7	entailment	entailment	neutral	entailment	4.0	4.0	4.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+7480_ni_d	ni	d	二人の男テーブルのそば立っていて、何本かのビールをその上に置いている	二人の男がテーブルの周りに座っていて、ビールを手に持っている	二人の男がテーブルのそばに立っていて、何本かのビールをその上に置いている	neutral	3.3	neutral	contradiction	neutral	neutral	3.3	4.0	3.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+6515_ni_o	ni	o	子供たちに茶色のドレスを着た女の子が囲まれていて、目を閉じている	子供たちが、目を閉じている茶色のドレスを着た女の子を囲んでいる	茶色のドレスを着た女の子が子供たちに囲まれていて、目を閉じている	entailment	5	entailment	entailment	entailment	entailment	4.7	4.0	5.0	5.0			
+724_de_d	de	d	競技会に出場している数人の男性外走っている	男性は先頭を目指して走っている	競技会に出場している数人の男性が外で走っている	neutral	2.5	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+2753_wo_d	wo	d	サッカーをしている何人かの人々サッカーボールゴールに蹴り込んでいる	サッカー選手たちがサッカーボールをゴールに蹴り込んでいる	サッカーをしている何人かの人々がサッカーボールをゴールに蹴り込んでいる	neutral	3.5	neutral	neutral	neutral	entailment	4.3	4.0	4.0	5.0	文Ａが不自然。助詞が抜けている。選手とは限らないため中立を選択。	文Aが不自然	文Aが不自然
+4010_wo_o	wo	o	ロープを男性がよじ登っている	男性が登山の前にロープで縛られている	男性がロープをよじ登っている	neutral	1.5	neutral	neutral	neutral	contradiction	2.0	2.0	2.0	2.0	文Ａの助詞が不自然。		
+7928_ni_o	ni	o	フィールドにピンク色のジャケットを着た人が走り出ている	ピンク色のジャケットを着た人がフィールドに走り出ていない	ピンク色のジャケットを着た人がフィールドに走り出ている	contradiction	4	contradiction	contradiction	contradiction	contradiction	4.0	4.0	4.0	4.0			
+2769_de_d	de	d	ある人オリーブ作られたオイルをストーブの上の鍋に注ぎ込んでいる	ある人がオリーブオイルをストーブの上の鍋に注ぎ込んでいる	ある人がオリーブで作られたオイルをストーブの上の鍋に注ぎ込んでいる	entailment	5	entailment	entailment	neutral	entailment	4.3	4.0	4.0	5.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+2373_wo_o	wo	o	ギターを男性が弾いている	男性はアコースティックのギターを弾いていない	男性がギターを弾いている	neutral	3.5	neutral	neutral	neutral	neutral	3.0	3.0	3.0	3.0			文Aが不自然
+9459_de_d	de	d	緑色のバイクに乗った男性ダート斜面芸をしている	緑色の自動車に乗った男性がダート斜面で芸をしている	緑色のバイクに乗った男性がダート斜面で芸をしている	neutral	3.3	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａが不自然。助詞が抜けている。		文Aが不自然
+3968_wo_c	wo	c	女性を大きなトウガラシが薄切りにしている	ひとかけらのニンニクを薄切りにしている女性は一人もいない	女性が大きなトウガラシを薄切りにしている	neutral	2.5	neutral	neutral	neutral	neutral	1.7	2.0	1.0	2.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+875_de_c	de	c	多くの人でアイスパークがスケートをしている	戸外にあるアイススケートリンクが人々でいっぱいになっている	多くの人がアイスパークでスケートをしている	neutral	3	neutral	neutral	neutral	neutral	2.3	3.0	2.0	2.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+1561_wo_c	wo	c	男性を木が運んでいる	男性が植物を植えている	男性が木を運んでいる	neutral	2.5	neutral	neutral	neutral	neutral	2.3	2.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+6808_de_c	de	c	紫、白、黒の服を着た選手でフィールドの端の近くがプレイをしている	男性がスポーツのユニフォームを着ていて、フィールドを走り下りている	紫、白、黒の服を着た選手がフィールドの端の近くでプレイをしている	neutral	1.7	neutral	neutral	neutral	neutral	2.3	2.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+7621_de_d	de	d	紫色のトップスを着た女性二本の石柱の間自転車を押して歩いている	裸の女の子が夜に自分のバイクのそばを歩いている	紫色のトップスを着た女性が二本の石柱の間で自転車を押して歩いている	neutral	2.3	neutral	neutral	neutral	contradiction	1.3	1.0	1.0	2.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+1226_wo_o	wo	o	赤いトマトを男性が薄切りにしている	男性がトマトを薄切りにしている	男性が赤いトマトを薄切りにしている	entailment	4.5	entailment	entailment	entailment	entailment	4.7	5.0	4.0	5.0		文Aが不自然	
+1684_ni_c	ni	c	男性に数個のトマトがオイルをかけている	いくらかのオイルをトマトにかけている男性は一人もいない	男性は数個のトマトにオイルをかけている	contradiction	3.5	neutral	neutral	neutral	neutral	2.3	2.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+8390_ni_d	ni	d	男性が遠方を見つめていて、人々後ろあるビルの間を歩いている	ある人が遠方を見つめていて、人々が後ろにあるビルの間を歩いている	男性が遠方を見つめていて、人々が後ろにあるビルの間を歩いている	entailment	4	entailment	entailment	neutral	entailment	4.3	4.0	4.0	5.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	
+9463_de_o	de	o	ダート斜面で緑色のバイクに乗った男性が芸をしている	バイクに乗った人が水域の近くの空中にいない	緑色のバイクに乗った男性がダート斜面で芸をしている	neutral	1.7	neutral	neutral	neutral	neutral	2.0	1.0	2.0	3.0			
+8539_de_c	de	c	黄褐色の犬で池の岸の水の中が飛沫を上げている	淡褐色の犬が草地で走っている	黄褐色の犬が池の岸の水の中で飛沫を上げている	neutral	2	neutral	neutral	neutral	neutral	2.0	1.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+9782_de_o	de	o	木製のブロックで男の子がゲームをしている	何人かのチアリーダーたちがダンスをしている	男の子が木製のブロックでゲームをしている	neutral	1	neutral	neutral	neutral	neutral	1.0	1.0	1.0	1.0			
+5606_wo_o	wo	o	キーボードを男性が弾いている	男性が楽器を演奏している	男性がキーボードを弾いている	entailment	4	entailment	entailment	entailment	entailment	3.7	3.0	4.0	4.0			
+2693_de_d	de	d	男性そのギター演奏している	男性がギターを弾いている	男性がそのギターで演奏している	entailment	4	entailment	entailment	entailment	entailment	4.7	5.0	4.0	5.0		文Aが不自然	文Aが不自然
+1078_de_o	de	o	その幼くてピンク色のシャツの中にある草の周りで大人しい女の子は横たわっている	女の子が白い文字があしらわれたピンク色のシャツを着て草の中で横たわっている	その幼くて大人しい女の子はピンク色のシャツの中にある草の周りで横たわっている	neutral	3	neutral	neutral	neutral	neutral	2.3	3.0	2.0	2.0	文Ａの語順が不自然。	文Aが不自然	文Aが不自然
+1492_wo_d	wo	d	男性オイルかき混ぜている	男性はチキン用のソースをかき混ぜている	男性はオイルをかき混ぜている	neutral	3	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+8897_de_o	de	o	小道でダートバイカーが走行していない	ダートバイカーが小道で走行している	ダートバイカーが小道で走行していない	contradiction	3.7	contradiction	contradiction	contradiction	contradiction	4.0	4.0	4.0	4.0			
+9690_de_o	de	o	きれいな壁の上でサイクリストが芸をしている	サイクリストがひどく黒鉛化した壁の上で芸をしている	サイクリストがきれいな壁の上で芸をしている	contradiction	3.3	neutral	neutral	neutral	neutral	3.3	4.0	2.0	4.0			
+7046_de_o	de	o	雪の中でピンク色の手袋をはめた若いアジア人の女性が立っている	女性は若くてアジア人で、ピンク色をした手袋をはめて、雪の中で立っている	ピンク色の手袋をはめた若いアジア人の女性が雪の中で立っている	entailment	5	entailment	entailment	entailment	entailment	5.0	5.0	5.0	5.0			
+9797_wo_c	wo	c	女性を野菜が切っている	男性が家の中にいて、近くの標的にナイフを投げている	女性が野菜を切っている	neutral	1	neutral	neutral	neutral	neutral	1.0	1.0	1.0	1.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+9339_de_o	de	o	山の尾根の雪の中で男性が立っている	ある人が山の尾根の雪の中で立っている	男性が山の尾根の雪の中で立っている	entailment	4.3	entailment	entailment	entailment	entailment	4.7	5.0	4.0	5.0		文Aが不自然	
+9755_de_o	de	o	コンクリートの上で犬が立っていて、青いボールをくわえている	大きな犬は外を歩いていて、カラフルなおもちゃを口にくわえて運んでいる	犬がコンクリートの上で立っていて、青いボールをくわえている	neutral	2.7	neutral	neutral	neutral	neutral	3.3	4.0	3.0	3.0		文Aが不自然	
+2337_wo_c	wo	c	東洋人の婦人をニンジンが細切りにしている	東洋人の婦人はニンジンを細く刻んでいる	東洋人の婦人はニンジンを細切りにしている	entailment	4	neutral	neutral	neutral	neutral	3.3	5.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+5066_wo_d	wo	d	男性ギター弾いている	そのギターは男性に弾かれている	男性がギターを弾いている	entailment	5	entailment	entailment	neutral	entailment	4.0	4.0	3.0	5.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+6848_de_o	de	o	街路で二人の幼少の子供がおもちゃの自動車で遊んでいる	女の子がゴーカートを押していて、娘が自分の父親を見ている	二人の幼少の子供が街路でおもちゃの自動車で遊んでいる	neutral	1.7	neutral	neutral	neutral	neutral	2.0	2.0	2.0	2.0		文Aが不自然	
+1638_ni_o	ni	o	それらの材料をミキサーのところにいる男性にある人が投げている	女性が二つの卵をボウルの中で割っている	ある人がそれらの材料をミキサーのところにいる男性に投げている	neutral	1	neutral	neutral	neutral	neutral	1.0	1.0	1.0	1.0			
+3786_de_o	de	o	ステージで女性がダンスをしている	女性はダンスをしていて、男性がキーボードを弾いている	女性がステージでダンスをしている	neutral	2.5	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0			
+8221_de_o	de	o	草で二匹の大きな犬が覆われた野原で遊び戯れている	二匹の動物が丈の高い草の中を走っている	二匹の大きな犬が草で覆われた野原で遊び戯れている	neutral	2.7	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａの語順が不自然。		
+9649_wo_o	wo	o	川の中を茶色と白の犬が走っていない	犬が湖から出てきている	茶色と白の犬が川の中を走っていない	neutral	1.3	neutral	neutral	neutral	neutral	1.7	1.0	1.0	3.0			
+5817_de_o	de	o	火の近くで女性がダンスをしている	女性が暖炉の近くでダンスをしている	女性が火の近くでダンスをしている	neutral	3.7	neutral	neutral	neutral	neutral	3.7	4.0	3.0	4.0			
+951_wo_d	wo	d	二人の子供アメリカンドッグ食べている	二人の幼い子供が断食している	二人の子供がアメリカンドッグを食べている	contradiction	2.5	neutral	neutral	neutral	contradiction	2.0	1.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+8864_ni_c	ni	c	赤いそりに緑色のコートを着た小さな女の子が抱えられていて、男の子が雪の中を歩いている	子供がコートを着ていて、緑色と黒のコートを着た子供の後ろで赤いそりを運んでいる	赤いそりが緑色のコートを着た小さな女の子に抱えられていて、男の子が雪の中を歩いている	neutral	3.3	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+2771_wo_c	wo	c	ある人をオリーブオイルがストーブの上の鍋に注ぎ込んでいる	ある人がオリーブオイルを鍋からストーブに注ぎ込んでいる	ある人がオリーブオイルをストーブの上の鍋に注ぎ込んでいる	neutral	2	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+5967_ni_c	ni	c	青いシャツを着た男の子に顔が泥をつけている	黄色のボトルを抱えているブロンドの子供は一人もいない	青いシャツを着た男の子が顔に泥をつけている	neutral	1	neutral	neutral	neutral	neutral	1.0	1.0	1.0	1.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+1667_ni_c	ni	c	そのギターにその男性が弾かれている	そのギターは男性に弾かれている	そのギターはその男性に弾かれている	entailment	5	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+4584_ni_c	ni	c	動物に女性が乗られている	女性が馬に乗っている	動物が女性に乗られている	neutral	3	neutral	neutral	neutral	neutral	2.3	2.0	2.0	3.0			文Aが不自然
+7191_ni_o	ni	o	赤いカーペットが敷かれた床の上にタキシードを着ている二人の幼少の男の子が座っている	二人の小さな男の子がタキシードを着ていない	タキシードを着ている二人の幼少の男の子が赤いカーペットが敷かれた床の上に座っている	contradiction	2.7	contradiction	contradiction	neutral	contradiction	2.3	3.0	2.0	2.0			文Aが不自然
+167_wo_d	wo	d	男の子野球のボール打っている	子供が野球のボールを打っている	男の子が野球のボールを打っている	neutral	4.3	entailment	entailment	neutral	entailment	4.0	4.0	3.0	5.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+8893_de_d	de	d	女性街路歩いている	女性が長くて黒いジャケットと茶色の帽子を身に着けていて、たくさんの開花している木々のある公園を歩き過ぎている	女性が街路で歩いている	neutral	2.3	neutral	neutral	neutral	neutral	1.7	1.0	2.0	2.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+6560_de_d	de	d	二人の若い男性戸外の黄金の像の近く座っている	二人の人が黄金の像を見ている	二人の若い男性が戸外の黄金の像の近くで座っている	neutral	2.7	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+6439_ni_d	ni	d	カップルテラス座っていて、海を見つめている	カップルがテラスに座っていて、海を見ている	カップルがテラスに座っていて、海を見つめている	entailment	4.7	entailment	entailment	neutral	entailment	4.3	5.0	3.0	5.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+3216_de_d	de	d	子猫青いロープのおもちゃ遊んでいる	小さい猫はおもちゃで遊んでいる	子猫が青いロープのおもちゃで遊んでいる	neutral	3	neutral	entailment	neutral	neutral	3.0	3.0	3.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+1693_wo_c	wo	c	子猫を新鮮なミルクが飲んでいる	小さな猫が新鮮なミルクを飲んでいる	子猫が新鮮なミルクを飲んでいる	entailment	4.5	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+455_ni_c	ni	c	二人の子供に大きな枝がぶら下がっている	二人の子供が木に登っている	二人の子供が大きな枝にぶら下がっている	neutral	3.3	neutral	neutral	neutral	neutral	2.3	3.0	2.0	2.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+8036_wo_c	wo	c	日焼けした肌の児童をカメラが見ている	よだれかけを着けた小さな男の子がカメラをじっと見ている	日焼けした肌の児童がカメラを見ている	neutral	2.3	neutral	neutral	neutral	neutral	2.3	3.0	2.0	2.0			
+6261_wo_d	wo	d	二人の女性ビキニ着ていて砂の上を歩いている	二人の女性がビキニを着ていて、砂の上を歩いている	二人の女性がビキニを着ていて砂の上を歩いている	entailment	5	entailment	entailment	neutral	entailment	5.0	5.0	5.0	5.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+6823_wo_d	wo	d	大きなカモ岩の多い小川の上飛んでいる	大きな小川が岩とカモとハエでいっぱいになっている	大きなカモが岩の多い小川の上を飛んでいる	neutral	2.7	neutral	neutral	neutral	neutral	2.3	3.0	2.0	2.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+4452_de_d	de	d	サイ野原草を食べている	動物が野原で草を食べている	サイが野原で草を食べている	entailment	4	entailment	entailment	neutral	entailment	4.0	4.0	4.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+9357_ni_o	ni	o	泡立つ波に黒いウェットスーツを着た男性が乗っている	黒いウェットスーツを着たサーファーが泡立つ波に乗っている	黒いウェットスーツを着た男性が泡立つ波に乗っている	neutral	4	neutral	neutral	neutral	neutral	4.0	4.0	4.0	4.0	サーファーとは限らないため中立を選択。		
+189_wo_c	wo	c	大きなアジア料理のレストランにいる人々のグループを食事がしている	様々な人々が紫色の照明のある混雑したレストランの赤いテーブルで食事をしている	大きなアジア料理のレストランにいる人々のグループが食事をしている	neutral	2	neutral	neutral	neutral	neutral	2.3	3.0	2.0	2.0	文Ａの助詞が不自然。		文Aが不自然
+7117_de_c	de	c	赤い服を着た子供でトランポリンの上がジャンプしている	赤で染められた服を着た小さな男の子が空中にジャンプしている	赤い服を着た子供がトランポリンの上でジャンプしている	neutral	3.3	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+1710_wo_d	wo	d	男性カエルぞんざいに掴んでいる	男性がプラスチック製の容器を満たしている	男性がカエルをぞんざいに掴んでいる	neutral	1	neutral	neutral	neutral	neutral	1.0	1.0	1.0	1.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+2849_wo_o	wo	o	卵を女性が料理している	女性は愛情をこめて何かを料理している	女性が卵を料理している	neutral	3	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0		文Aが不自然	
+4138_de_d	de	d	何人かの男の子トランポリンの上ジャンプしている	何人かの子供がトランポリンの上でジャンプしている	何人かの男の子がトランポリンの上でジャンプしている	entailment	4	entailment	entailment	neutral	entailment	4.0	4.0	4.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+7249_ni_d	ni	d	黒いシャツを着た女性蛍光性の緑色のバッグの隣座っている	女性が携帯電話で大声で話していて、財布と黄色のバッグを近くの棚に保持している	黒いシャツを着た女性が蛍光性の緑色のバッグの隣に座っている	neutral	1	neutral	neutral	neutral	neutral	2.0	3.0	1.0	2.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+3456_de_c	de	c	男性で斧が木の幹をたたき切っていない	男性が斧で丸太をたたき切っている	男性は斧で木の幹をたたき切っていない	neutral	2.5	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+1713_wo_d	wo	d	男性タマネギ薄切りにしている	タマネギを薄切りにしている男性は一人もいない	男性がタマネギを薄切りにしている	contradiction	3.5	neutral	contradiction	neutral	neutral	3.0	4.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+6474_de_o	de	o	草地で実に毛が長くて赤いベストを着た犬が走っている	赤いベストを着た犬は野原で走っている	実に毛が長くて赤いベストを着た犬が草地で走っている	entailment	3.7	entailment	entailment	neutral	entailment	3.7	4.0	3.0	4.0			
+6956_ni_d	ni	d	緑色の服を着たブロンドの男の子ブランコ座っている	ブロンドの髪をした小さな女の子が微笑んでいて、ブランコに座っている	緑色の服を着たブロンドの男の子がブランコに座っている	neutral	2.3	neutral	neutral	neutral	contradiction	2.7	3.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+7168_ni_d	ni	d	黒い犬岩の上よじ登っている	その野原にある岩の上に二本の前脚で立っている犬は一匹もいない	黒い犬は岩の上によじ登っている	neutral	2	neutral	neutral	neutral	neutral	2.0	2.0	2.0	2.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+3610_ni_d	ni	d	男性自転車乗っている	バイクに乗っている猿は一匹もいない	男性が自転車に乗っている	neutral	2	neutral	neutral	neutral	contradiction	1.3	1.0	1.0	2.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+7336_ni_d	ni	d	男性たち山登っていない	男性たちは山に登っている	男性たちは山に登っていない	contradiction	4	contradiction	contradiction	neutral	contradiction	4.0	4.0	4.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	　
+6601_ni_o	ni	o	一房の黄色の花の上に小さい蜂が降りている	蜂が黄色の花にしがみついている	小さい蜂が一房の黄色の花の上に降りている	neutral	3	neutral	neutral	neutral	neutral	3.3	4.0	3.0	3.0			
+8591_wo_o	wo	o	赤い服を白い帽子と茶色のシャツを身に着けた男性が着た女性の後ろにいて、右の方を見ている	アラビア人の男性が白い帽子をかぶっている	白い帽子と茶色のシャツを身に着けた男性が赤い服を着た女性の後ろにいて、右の方を見ている	neutral	2	neutral	neutral	neutral	neutral	1.3	1.0	1.0	2.0	文Ａの語順が不自然。	文Aが不自然	文Aが不自然
+2193_wo_o	wo	o	いくつかのガーリックを男性が薄切りにし、パンを片付けている	男性がいくつかのパンの薄切りにガーリックをかけている	男性がいくつかのガーリックを薄切りにし、パンを片付けている	neutral	2.5	neutral	neutral	neutral	contradiction	3.0	4.0	2.0	3.0			
+7168_ni_c	ni	c	黒い犬に岩の上がよじ登っている	その野原にある岩の上に二本の前脚で立っている犬は一匹もいない	黒い犬は岩の上によじ登っている	neutral	2	neutral	neutral	neutral	neutral	2.0	2.0	2.0	2.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+6989_de_d	de	d	二人の双子の思春期直前の男の子棒戦っている	二人の双子の思春期直前の男の子がトランプで遊んでいる	二人の双子の思春期直前の男の子が棒で戦っている	neutral	3.3	neutral	contradiction	neutral	neutral	2.0	3.0	1.0	2.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+2293_wo_c	wo	c	ティーンエイジャーをギターが弾いている	子供がギターを弾いている	ティーンエイジャーがギターを弾いている	neutral	3.5	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+2063_wo_o	wo	o	いくつかの肉を婦人が切り分けている	いくつかの肉が女性に細かく切られている	婦人がいくつかの肉を切り分けている	neutral	3.5	neutral	neutral	entailment	neutral	4.0	4.0	4.0	4.0	細かく切っているとは限らないため中立を選択。		
+4945_ni_o	ni	o	ゾウの赤ちゃんに小さな木が食べられている	ゾウの赤ちゃんが小さな木を食べている	小さな木がゾウの赤ちゃんに食べられている	entailment	5	entailment	entailment	entailment	entailment	4.7	5.0	5.0	4.0			
+2463_de_o	de	o	危険なやり方で男性がオートバイに乗って町を走り抜けている	男性がオートバイに乗っている	男性が危険なやり方でオートバイに乗って町を走り抜けている	entailment	3.5	entailment	entailment	entailment	entailment	3.3	3.0	4.0	3.0			
+9686_wo_d	wo	d	女の子オレンジ色のシャツと縞模様のネクタイ身に着けている	オレンジ色のシャツを着て道化師のメイクをした女の子が公園の中に立っていて、他の人たちが見物している	女の子がオレンジ色のシャツと縞模様のネクタイを身に着けている	neutral	2	neutral	neutral	neutral	neutral	2.3	3.0	3.0	1.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+8740_de_c	de	c	若いカップルでベッドが横たわっている	若いカップルがベッドの上で一緒に横たわっている	若いカップルがベッドで横たわっている	entailment	3.7	neutral	neutral	neutral	neutral	3.0	3.0	2.0	4.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+8570_ni_d	ni	d	大きな犬と小さな犬調理台の隣立っていて、匂いをかいでいる	大きな犬と小さな犬が調理台の隣に立っていて、探っている	大きな犬と小さな犬が調理台の隣に立っていて、匂いをかいでいる	entailment	3.7	neutral	entailment	neutral	neutral	3.7	4.0	3.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+2335_ni_d	ni	d	ニンジン女性薄切りにされている	女性がニンジンを薄切りにしている	ニンジンが女性に薄切りにされている	entailment	5	neutral	entailment	neutral	neutral	4.0	4.0	4.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+4051_de_d	de	d	男性道路ダンスをしている	ある人がダンスをしている	男性が道路でダンスをしている	entailment	3.5	neutral	entailment	neutral	neutral	3.3	3.0	3.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+3596_wo_c	wo	c	男性を床運動がしていない	男性は床運動をしている	男性は床運動をしていない	contradiction	4	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+7260_de_c	de	c	男性でマウンテンバイクが後輪走行をしている	バイクに乗った人が一つの車輪だけで走っている	男性はマウンテンバイクで後輪走行をしている	neutral	3	neutral	neutral	neutral	neutral	3.0	3.0	2.0	4.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+573_wo_d	wo	d	白と茶色の犬水の中やっとのことでゆっくり歩いている	茶色と白の毛並みをしている犬が浅瀬を小走りに通っている	白と茶色の犬が水の中をやっとのことでゆっくり歩いている	neutral	3	contradiction	contradiction	neutral	contradiction	3.0	3.0	3.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+3259_wo_o	wo	o	ギターを男性が弾いている	ギターが男性に弾かれている	男性がギターを弾いている	entailment	5	entailment	entailment	entailment	entailment	5.0	5.0	5.0	5.0		文Aが不自然	
+6839_de_o	de	o	砂浜で子供たちはお互いを追いかけていない	小さな男の子が地面の上を走っていて、小さな女の子と遊んでいる	子供たちは砂浜でお互いを追いかけていない	neutral	2	neutral	neutral	neutral	neutral	2.3	2.0	2.0	3.0			文Aが不自然
+2804_de_d	de	d	男性自信満々ニンジンをナイフで薄切りにしている	女性はタマネギを薄切りにしている	男性が自信満々でニンジンをナイフで薄切りにしている	neutral	2.5	neutral	neutral	neutral	neutral	2.3	2.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+4895_wo_c	wo	c	男性を懸垂がしている	男性は運動をしている	男性が懸垂をしている	entailment	4.3	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+4995_wo_d	wo	d	ある人バナナの皮むいていない	男性が電子メールを読んでいる	ある人がバナナの皮をむいていない	neutral	1	neutral	neutral	neutral	neutral	1.0	1.0	1.0	1.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+3975_ni_o	ni	o	眠りに女の子がついている	女の子が目を覚ましている	女の子が眠りについている	contradiction	2.5	contradiction	contradiction	neutral	contradiction	3.3	3.0	3.0	4.0		文Aが不自然	
+2914_ni_d	ni	d	女の子顔化粧をしている	女性が化粧をしている	女の子は顔に化粧をしている	neutral	3.5	neutral	neutral	neutral	entailment	4.3	4.0	4.0	5.0	文Ａが不自然。助詞が抜けている。女の子が女性といえる年齢かわからないため中立を選択。	文Aが不自然	文Aが不自然
+2880_ni_d	ni	d	男性機械の雄牛乗っている	男性は機械の雄牛に乗っている	男性が機械の雄牛に乗っている	entailment	4.5	entailment	entailment	neutral	entailment	4.3	4.0	4.0	5.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+3149_de_c	de	c	男性でサッカーボールが芸をしている	男性がサッカーボールでいくつかの芸をしている	男性がサッカーボールで芸をしている	entailment	4	neutral	neutral	neutral	neutral	3.3	4.0	2.0	4.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+9404_de_o	de	o	プラスチック製のおもちゃで草地の上にいる二匹の犬が遊んでいる	芝生の上にいる二匹の犬がプラスチック製のおもちゃで遊んでいる	草地の上にいる二匹の犬がプラスチック製のおもちゃで遊んでいる	neutral	3.7	neutral	neutral	neutral	neutral	4.0	4.0	4.0	4.0	芝生とは限らないため中立を選択。		
+8353_ni_o	ni	o	赤い部屋にある丸いテーブルの席に人々がついている	人々が赤い部屋にある四角いテーブルの席についている	人々が赤い部屋にある丸いテーブルの席についている	neutral	3.3	neutral	neutral	neutral	contradiction	3.7	4.0	3.0	4.0			
+314_ni_o	ni	o	門のところに制服を着た子供たちのグループが立っていて、母親にキスしている子供は一人もいない	制服を着た子供たちのグループが門のところに立っていて、一人が母親にキスしている	制服を着た子供たちのグループが門のところに立っていて、母親にキスしている子供は一人もいない	contradiction	3.3	contradiction	contradiction	contradiction	contradiction	4.0	4.0	4.0	4.0		文Aが不自然	
+8694_wo_d	wo	d	三人の児童丘走り上がっている	三人の児童が草の多い山腹を走り下りている	三人の児童が丘を走り上がっている	neutral	2.3	neutral	neutral	neutral	contradiction	2.3	3.0	2.0	2.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+7261_de_o	de	o	マウンテンバイクで男性は後輪走行をしている	一つの車輪だけで走っている自転車に乗った男性は一人もいない	男性はマウンテンバイクで後輪走行をしている	contradiction	2.7	contradiction	contradiction	neutral	contradiction	2.3	3.0	2.0	2.0			
+36_de_c	de	c	ジャージを着た男性でバスケットボールの試合がボールをダンクしている	その選手はバスケットを外し、群衆が後ろの方にいる	ジャージを着た男性がバスケットボールの試合でボールをダンクしている	neutral	2.7	neutral	neutral	neutral	neutral	2.0	2.0	2.0	2.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然　文Bが不自然
+6926_de_d	de	d	スノーボーダー雪のマウンドの上宙返りをしている	スノーボーダーが雪のマウンドの上で宙返りをしている	スノーボーダーは雪のマウンドの上で宙返りをしている	entailment	5	entailment	entailment	neutral	entailment	4.3	4.0	4.0	5.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+8522_de_c	de	c	五人の人で道路のそばの緑の野原が三匹の犬と一緒に立っている	五人の人が三匹の犬と一緒に草地に立っている	五人の人が道路のそばの緑の野原で三匹の犬と一緒に立っている	entailment	3.7	neutral	neutral	neutral	neutral	3.7	4.0	4.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+5709_wo_o	wo	o	ショットガンを男性が発砲している	男性が武器を撃っている	男性がショットガンを発砲している	entailment	4.3	entailment	entailment	entailment	entailment	4.0	4.0	4.0	4.0			
+8279_de_o	de	o	外で二匹の犬が遊んでいる	二匹の茶色と白の犬が木の前にある草で覆われたエリアで喧嘩をしている	二匹の犬が外で遊んでいる	neutral	2.3	neutral	neutral	neutral	neutral	2.3	2.0	2.0	3.0			
+3877_de_d	de	d	男性部屋の天井板の上ダンスをしている	男性が床の上でダラダラと過ごしている	男性が部屋の天井板の上でダンスをしている	neutral	2.5	neutral	neutral	neutral	neutral	2.0	1.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+4144_de_c	de	c	何人かの子供でトランポリンの上がジャンプしている	男性がトランポリンの上でバク転をしている	何人かの子供がトランポリンの上でジャンプしている	neutral	2.5	neutral	neutral	neutral	neutral	2.7	4.0	2.0	2.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+4830_wo_o	wo	o	ジャガイモを男性が薄切りにしている	男性がジャガイモを細かく薄切りにしている	男性がジャガイモを薄切りにしている	neutral	4.3	entailment	entailment	neutral	entailment	4.3	4.0	4.0	5.0			
+8565_ni_o	ni	o	緑色のジープの外側に帽子をかぶった男性が立っている	男性が黒い自動車の隣にあるダートヒルの上に立っている	帽子をかぶった男性が緑色のジープの外側に立っている	neutral	2.3	neutral	neutral	neutral	neutral	2.0	3.0	2.0	1.0			
+8402_de_d	de	d	あるバンドの頭の禿げた男性スポットライトの中ギターを弾いている	ドラマーの隣でギターを弾いている男性は一人もいない	あるバンドの頭の禿げた男性がスポットライトの中でギターを弾いている	neutral	1.7	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+8391_wo_o	wo	o	遠方を女性が見つめていて、人々が後ろにあるビルの間を歩いている	男性が遠方を見つめていて、人々が後ろにあるビルの間を歩いている	女性が遠方を見つめていて、人々が後ろにあるビルの間を歩いている	neutral	3.7	neutral	neutral	neutral	neutral	3.3	4.0	2.0	4.0			
+2603_ni_o	ni	o	その犬に猿がブラシをかけている	その犬にブラシをかけている猿は一匹もいない	猿がその犬にブラシをかけている	contradiction	4	contradiction	contradiction	contradiction	contradiction	4.0	4.0	4.0	4.0			
+5451_wo_c	wo	c	女性を魚が油で炒めている	魚を調理している女性は一人もいない	女性が魚を油で炒めている	contradiction	3.3	neutral	neutral	neutral	neutral	2.3	3.0	2.0	2.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+4999_de_c	de	c	大きな猫でプラスチックが作られた引き出しを足で開けていて、中に跳び込んでいる	大きな猫がプラスチック製の引き出しを足で開けていて、中に跳び込んでいる	大きな猫がプラスチックで作られた引き出しを足で開けていて、中に跳び込んでいる	entailment	5	neutral	neutral	neutral	neutral	4.0	5.0	3.0	4.0	文Ａの助詞が不自然。文Ａの主語がわからないため中立を選択。	文Aが不自然	文Aが不自然
+9404_de_d	de	d	草地の上にいる二匹の犬プラスチック製のおもちゃ遊んでいる	芝生の上にいる二匹の犬がプラスチック製のおもちゃで遊んでいる	草地の上にいる二匹の犬がプラスチック製のおもちゃで遊んでいる	neutral	3.7	neutral	neutral	neutral	neutral	4.3	5.0	4.0	4.0	文Ａが不自然。助詞が抜けている。芝生とは限らないため中立を選択。	文Aが不自然	文Aが不自然
+8397_de_d	de	d	あるバンドの頭の禿げた男性スポットライトの中ギターを弾いている	あるバンドの頭の禿げた男性がスポットライトの中で楽器を演奏している	あるバンドの頭の禿げた男性がスポットライトの中でギターを弾いている	entailment	4	entailment	entailment	neutral	entailment	4.3	5.0	4.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+4868_wo_o	wo	o	運動を女性がしている	男性がダンスをしている	女性が運動をしている	neutral	2.3	neutral	neutral	neutral	neutral	1.7	1.0	1.0	3.0			
+4907_wo_d	wo	d	猫寄せ木細工の床の上歩いている	猫が堅木張りの床の上を歩いている	猫が寄せ木細工の床の上を歩いている	neutral	4	neutral	neutral	neutral	neutral	3.3	5.0	2.0	3.0	文Ａが不自然。助詞が抜けている。寄木の木材が堅木とは限らない可能性を考え中立を選択。	文Aが不自然	文Aが不自然
+6167_wo_c	wo	c	水着を着た男の子と女の子を腕用の浮輪が着けている	男の子と女の子は遊んでいて、腕浮輪を着けている	水着を着た男の子と女の子が腕用の浮輪を着けている	neutral	3.3	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+8164_ni_d	ni	d	二人の人がジープを運転していて、一人の婦人その上座っている	二人の人がボートを運転していて、一人の婦人がその上に座っている	二人の人がジープを運転していて、一人の婦人がその上に座っている	neutral	3	neutral	neutral	neutral	contradiction	3.0	4.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+5998_ni_c	ni	c	金色の毛をした犬に水の中がいる	茶色の犬が水の中で立っている	金色の毛をした犬が水の中にいる	neutral	3.3	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+8652_ni_d	ni	d	あるグループの人々品評会のスタンド集まっている	人々のグループが品評会のスタンドにスタンドに集まっていない	あるグループの人々が品評会のスタンドに集まっている	contradiction	3	contradiction	contradiction	neutral	contradiction	3.0	3.0	2.0	4.0	文Ａが不自然。助詞が抜けている。文B「スタンド」重複。	文AとBが不自然	文Aが不自然
+193_ni_c	ni	c	誰かに黒と白のオートバイが乗り、シートの上で立ち上がっている	ライダーが黒と白のバイクに乗り、シートの上で立ち上がっている	誰かが黒と白のオートバイに乗り、シートの上で立ち上がっている	entailment	4.3	neutral	neutral	neutral	neutral	3.3	4.0	2.0	4.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+1267_de_o	de	o	ステージでバンドが演奏していない	バンドがステージ上で楽器を弾いている	バンドがステージで演奏していない	neutral	3.5	contradiction	contradiction	contradiction	contradiction	4.0	4.0	4.0	4.0			
+2618_wo_o	wo	o	タマネギを女性は投げ捨てている	女性がタマネギを切っている	女性はタマネギを投げ捨てている	neutral	2.5	neutral	neutral	neutral	contradiction	2.7	3.0	2.0	3.0			
+9120_de_d	de	d	二人の小さな男の子緑の草地サッカーボールで外で遊んでいる	二人の子供が公園でサッカーをしている	二人の小さな男の子が緑の草地でサッカーボールで外で遊んでいる	neutral	3.3	neutral	neutral	neutral	neutral	3.3	3.0	3.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+6494_ni_c	ni	c	女性がスノーボードで斜面を滑り降りていて、別の女性に彼女の後ろが立っている	ブロンドの男の子がスケートボードに乗って砂丘を滑り降りている	女性がスノーボードで斜面を滑り降りていて、別の女性が彼女の後ろに立っている	neutral	2.7	neutral	neutral	neutral	neutral	2.0	2.0	2.0	2.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+9626_wo_c	wo	c	男性を青いシャツが着ていて、テニスコートの上を裸足で歩いている	パジャマを着た裸足の男性が星に目を向けていて、テニスコートの上を歩いている	男性が青いシャツを着ていて、テニスコートの上を裸足で歩いている	neutral	3.3	neutral	neutral	neutral	neutral	2.0	2.0	1.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+3792_de_d	de	d	女性野菜用のブラシズッキーニをゴシゴシとこすっている	女性が野菜用ブラシでズッキーニをゴシゴシとこすっている	女性が野菜用のブラシでズッキーニをゴシゴシとこすっている	entailment	5	entailment	entailment	neutral	entailment	4.3	5.0	3.0	5.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+9705_de_c	de	c	大きな枝を持った黒と白の犬で野原が走っている	大きな枝を持った黒と白の犬が草地で走っている	大きな枝を持った黒と白の犬が野原で走っている	entailment	4.7	neutral	neutral	neutral	neutral	4.0	5.0	3.0	4.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+8554_de_c	de	c	灰色の毛の柔らかな犬で草地が横たわっていて、茶色の犬が見つめている	茶色の犬は乾いた野原で横たわっている黒い犬を見つけている	灰色の毛の柔らかな犬が草地で横たわっていて、茶色の犬が見つめている	neutral	2.7	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+1367_de_c	de	c	男性で公園がキーボードを弾いている	男性がキーボードを弾いている	男性が公園でキーボードを弾いている	entailment	4	neutral	neutral	neutral	neutral	3.3	4.0	3.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+155_wo_d	wo	d	鹿囲い跳び越えている	鹿がフェンスを跳び越えている	鹿が囲いを跳び越えている	entailment	4.3	neutral	neutral	neutral	neutral	3.7	4.0	3.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+8754_ni_c	ni	c	何人かの人々に一列がなって橋を渡っている	四人の人が水域の上に架かる橋の上を歩いている	何人かの人々が一列になって橋を渡っている	neutral	3.3	neutral	neutral	neutral	neutral	2.3	3.0	2.0	2.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+9399_wo_d	wo	d	モデル紫色のシャツと黒革のチャップス着ていて、カメラに向かってポーズをとっている	革のチャップスと紫色のシャツを着ている男性は何人かの見物人の前に立っている	モデルが紫色のシャツと黒革のチャップスを着ていて、カメラに向かってポーズをとっている	neutral	3	neutral	neutral	neutral	neutral	3.0	4.0	3.0	2.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+7443_ni_o	ni	o	公園に幼少の子供が設置されたブランコに乗って興奮を示している	幼少の子供が公園に設置されたブランコに乗って退屈を示している	幼少の子供が公園に設置されたブランコに乗って興奮を示している	contradiction	3.3	contradiction	contradiction	neutral	contradiction	3.7	4.0	3.0	4.0	文Ａの語順が不自然。	文Aが不自然	
+7748_wo_o	wo	o	急勾配の丘を大きな犬がよじ登っている	大きな犬が急勾配の丘を降りている	大きな犬が急勾配の丘をよじ登っている	contradiction	3.3	neutral	neutral	neutral	contradiction	3.3	4.0	2.0	4.0			
+1726_ni_o	ni	o	その女性にその象は乗られている	その象はその女性に乗られていない	その象はその女性に乗られている	contradiction	4	contradiction	contradiction	contradiction	contradiction	4.0	4.0	4.0	4.0			
+118_ni_c	ni	c	五人の子供たちに木造小屋の前が立っている	五人の子供たちが木で作られた小屋の前に立っている	五人の子供たちが木造小屋の前に立っている	entailment	5	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+2975_de_o	de	o	そのフィールドで様々なチームがフットボールをしている	様々なチームがフィールドでフットボールをしている	様々なチームがそのフィールドでフットボールをしている	entailment	4.5	entailment	entailment	entailment	entailment	4.3	4.0	4.0	5.0			
+74_wo_c	wo	c	小さな女の子をコスチュームを着た女性が見ている	幼い女の子がコスチュームを着た女性を見ている	小さな女の子がコスチュームを着た女性を見ている	entailment	4.7	neutral	neutral	neutral	neutral	3.3	4.0	2.0	4.0			
+1744_wo_o	wo	o	電子レンジのボタンを男性が押している	電子レンジのボタンを押している男性は一人もいない	男性が電子レンジのボタンを押している	contradiction	4	contradiction	contradiction	contradiction	contradiction	4.0	4.0	4.0	4.0			
+3815_ni_c	ni	c	トウガラシに女性がナイフで薄切りにされている	ナイフを持った女性はトウガラシを薄切りにしている	トウガラシが女性にナイフで薄切りにされている	entailment	4.5	neutral	neutral	neutral	contradiction	2.3	3.0	2.0	2.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+7195_ni_d	ni	d	男性歩道立っている	男性が歩道に立っている	男性は歩道に立っている	entailment	5	entailment	entailment	neutral	entailment	4.0	4.0	3.0	5.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+8661_de_o	de	o	街路でローラーブレーダーのグループが一列に並んでいる	ローラーブレーダーのグループが街路で散らばっている	ローラーブレーダーのグループが街路で一列に並んでいる	contradiction	3.3	contradiction	contradiction	neutral	contradiction	3.7	3.0	4.0	4.0			
+5662_ni_o	ni	o	その猫にボトルが舐められている	猫はボトルを舐めている	ボトルがその猫に舐められている	entailment	4.3	entailment	entailment	entailment	entailment	4.7	4.0	5.0	5.0		文Aが不自然	
+3323_wo_d	wo	d	女性パン粉のついたポークチョップ油で炒めている	女性がパン粉をつけられたポークチョップを調理している	女性はパン粉のついたポークチョップを油で炒めている	entailment	3	entailment	entailment	neutral	entailment	3.7	3.0	4.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+6461_de_d	de	d	二人の男性海岸オレンジ色のいかだに乗っている	二人の男性が海岸でオレンジ色の服を着たライダーの近くでいかだに乗っている	二人の男性が海岸でオレンジ色のいかだに乗っている	neutral	3.3	neutral	neutral	neutral	neutral	3.3	3.0	3.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+726_ni_o	ni	o	カメラを持った男性にその被写体は観察されている	カメラを持った男性がその被写体を観察している	その被写体はカメラを持った男性に観察されている	entailment	5	entailment	entailment	entailment	entailment	5.0	5.0	5.0	5.0			
+9116_de_d	de	d	二人の子供公園サッカーをしている	子供たちが緑の草地でサッカーボールで外で遊んでいる	二人の子供が公園でサッカーをしている	neutral	3	neutral	neutral	neutral	neutral	3.3	4.0	3.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+1603_ni_d	ni	d	男性速記用使われる機械でタイプしている	男性は操作する速記タイプライターを必要としている	男性が速記用に使われる機械でタイプしている	neutral	3	neutral	entailment	neutral	neutral	2.3	3.0	2.0	2.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+4374_wo_c	wo	c	ある人をピアノが弾いている	ピアノを弾いている人は一人もいない	ある人がピアノを弾いている	contradiction	4	neutral	contradiction	neutral	neutral	2.3	3.0	2.0	2.0		文Aが不自然	文Aが不自然
+6391_ni_o	ni	o	浅い池の中に滝が流れ込んでいる	その人々は美しい滝のそばの道路を歩いていない	滝が浅い池の中に流れ込んでいる	neutral	1	neutral	neutral	neutral	neutral	1.7	2.0	2.0	1.0		文Aが不自然	
+168_wo_o	wo	o	野球のボールを子供が打っている	子供が野球のボールを打ちそこなっている	子供が野球のボールを打っている	contradiction	3.3	contradiction	contradiction	neutral	contradiction	3.7	3.0	4.0	4.0			
+181_de_o	de	o	紫色の照明のある混雑したレストランの赤いテーブルで様々な人々が食事をしている	様々な客が紫色の照明のある混雑したレストランで食事をしている	様々な人々が紫色の照明のある混雑したレストランの赤いテーブルで食事をしている	entailment	4	entailment	entailment	neutral	entailment	4.0	4.0	4.0	4.0			
+4204_wo_o	wo	o	一片のパンをある人が薄切りにしている	誰も一片のパンを薄切りにしていない	ある人が一片のパンを薄切りにしている	contradiction	4	contradiction	contradiction	contradiction	contradiction	3.7	3.0	4.0	4.0			
+8485_ni_o	ni	o	石造りのピラミッドにbmx自転車に乗っている若い男性が跳び乗っている	自転車乗りがピラミッド形状の斜面に跳び乗っている	bmx自転車に乗っている若い男性が石造りのピラミッドに跳び乗っている	neutral	3.7	neutral	neutral	neutral	neutral	3.3	4.0	3.0	3.0			
+5915_ni_d	ni	d	ある人馬乗っている	ある人がオートバイに乗っている	ある人が馬に乗っている	neutral	3.7	neutral	neutral	neutral	contradiction	2.7	3.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+3578_wo_d	wo	d	男性そのギター弾いていない	男性はギターを弾いている	男性はそのギターを弾いていない	contradiction	4	contradiction	contradiction	neutral	contradiction	4.0	4.0	4.0	4.0		文Aが不自然	文Aが不自然
+2537_wo_c	wo	c	ある人をトマトが薄切りにしている	ある人がトマトを切っている	ある人がトマトを薄切りにしている	entailment	4	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+9954_wo_o	wo	o	ベッドをある人が整えている	誰かがトマトを切っている	ある人がベッドを整えている	neutral	1	neutral	neutral	neutral	contradiction	1.0	1.0	1.0	1.0			
+2895_wo_c	wo	c	男性を重いものが上げていない	男性はバーベルを上げている	男性は重いものを上げていない	neutral	3	neutral	neutral	neutral	contradiction	2.0	2.0	2.0	2.0	文Ａの助詞が不自然。	文Aが不自然	
+6976_de_c	de	c	赤いユニフォームを着た男性でダートバイクのレースがジャンプをしている	男性がモトクロスのレースに参加している	赤いユニフォームを着た男性がダートバイクのレースでジャンプをしている	neutral	2.7	neutral	neutral	neutral	neutral	1.7	2.0	2.0	1.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+478_wo_d	wo	d	子供水鉄砲持っている	水鉄砲を持っているか、または水を吹きかけられている子供は一人もいない	子供が水鉄砲を持っている	contradiction	3	contradiction	contradiction	neutral	contradiction	2.3	2.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+8912_wo_c	wo	c	カップルを路上案内が見ている	カップルが地図を見ている	カップルが路上案内を見ている	entailment	3.7	neutral	neutral	neutral	neutral	2.7	4.0	2.0	2.0	文Ａの助詞が不自然。	文Aが不自然	
+2605_ni_c	ni	c	猿にブルドッグがブラシをかけている	猿はブルドッグにブラシをかけていない	猿はブルドッグにブラシをかけている	contradiction	4	neutral	neutral	neutral	contradiction	3.3	4.0	2.0	4.0			
+6850_de_o	de	o	街路で二人の幼少の子供がぶらぶら遊んでいる	父親が娘を押してゴーカートに乗せていて、別の女の子が見ている	二人の幼少の子供が街路でぶらぶら遊んでいる	neutral	1	neutral	neutral	neutral	neutral	2.0	2.0	2.0	2.0			
+2507_de_o	de	o	ケージの中で女性がダンスをしている	ケージの中でダンスをしている女性は一人もいない	女性がケージの中でダンスをしている	contradiction	4	contradiction	contradiction	contradiction	contradiction	4.0	4.0	4.0	4.0			
+9511_ni_c	ni	c	茶色の子犬に地面が差し込まれている金属製の柱をかじっている	茶色の子犬が柱に噛みついている	茶色の子犬が地面に差し込まれている金属製の柱をかじっている	entailment	3	neutral	neutral	neutral	neutral	3.3	4.0	3.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+9969_wo_c	wo	c	男性をハープが弾いている	男性が電子レンジのボタンの方へ押されている	男性がハープを弾いている	neutral	1	neutral	neutral	neutral	neutral	1.0	1.0	1.0	1.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+3119_ni_d	ni	d	女性まぶた化粧品を塗っている	女性がまぶたから化粧品を取り除いている	女性がまぶたに化粧品を塗っている	contradiction	2.5	contradiction	contradiction	neutral	contradiction	3.0	3.0	2.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+3035_de_d	de	d	その子犬プラスチックの容器遊んでいる	その子犬はプラスチックで作られた容器で遊んでいる	その子犬はプラスチックの容器で遊んでいる	entailment	5	neutral	entailment	neutral	neutral	3.7	4.0	3.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+3946_de_d	de	d	誰リングの中拳での殴り合いをしていない	二人の男性がリングの中で拳での殴り合いをしている	誰もリングの中で拳での殴り合いをしていない	contradiction	4	neutral	contradiction	neutral	neutral	2.7	3.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+7994_ni_c	ni	c	男の子たちは水着を着ていて、水に周りが飛び散っている	子供たちは水着を着ていて、水が周りに飛び散っている	男の子たちは水着を着ていて、水が周りに飛び散っている	entailment	4	neutral	neutral	neutral	neutral	3.7	5.0	2.0	4.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+4175_wo_c	wo	c	女性をナスが薄切りにしている	ナスを薄切りにしている女性は一人もいない	女性がナスを薄切りにしている	contradiction	4	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+664_wo_o	wo	o	屋内にあるロッククライミングウォールを幼い児童が登っている	幼い男の子が岩でできた壁を登っている	幼い児童が屋内にあるロッククライミングウォールを登っている	neutral	4	neutral	neutral	neutral	neutral	3.7	4.0	3.0	4.0			
+8933_ni_d	ni	d	二人の男の人崖っぷち立っていて、一人が水の中に跳び込んでいる	二人の男の人が崖っぷちに立っていて、どちらも水の中に跳び込んでいない	二人の男の人が崖っぷちに立っていて、一人が水の中に跳び込んでいる	contradiction	3	contradiction	contradiction	contradiction	contradiction	4.0	4.0	4.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+5837_ni_d	ni	d	オートバイ男性乗られている	男性が崖からダイビングしている	オートバイが男性に乗られている	neutral	1.3	neutral	contradiction	neutral	neutral	1.0	1.0	1.0	1.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+2950_de_d	de	d	女性ペンシルアイシャドウを塗っている	女性がまぶたに化粧品をつけている	女性がペンシルでアイシャドウを塗っている	neutral	3.5	entailment	entailment	neutral	entailment	3.0	3.0	2.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+4400_ni_d	ni	d	紙皿その男性切られている	男性は紙皿を切っている	紙皿がその男性に切られている	entailment	5	entailment	entailment	neutral	entailment	3.7	4.0	2.0	5.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+4995_wo_c	wo	c	ある人をバナナの皮がむいていない	男性が電子メールを読んでいる	ある人がバナナの皮をむいていない	neutral	1	neutral	neutral	neutral	neutral	1.0	1.0	1.0	1.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+7631_ni_c	ni	c	赤いジャケットを着た男性に海のそばのいくつかの岩の上にある黄色のカヤックの隣が立っている	男性が後ろに水があるいくつかの岩の上の黄色のカヌーのそばで胸を露わにして立っている	赤いジャケットを着た男性が海のそばのいくつかの岩の上にある黄色のカヤックの隣に立っている	neutral	3.3	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+7017_de_o	de	o	プレイングハウスの中で二人の女の子がジャンプしている	二人の女の子がジャンパーハウスの中で遊んでいる	二人の女の子がプレイングハウスの中でジャンプしている	neutral	3.7	neutral	neutral	neutral	neutral	3.3	4.0	3.0	3.0		文Aが不自然	
+8392_wo_d	wo	d	ある人遠方見つめていて、人々が後ろにあるビルの間を歩いている	黒人の男性が大きな都市にあるビルの近くを歩いている	ある人が遠方を見つめていて、人々が後ろにあるビルの間を歩いている	neutral	2	neutral	neutral	neutral	neutral	2.0	2.0	2.0	2.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+6976_de_o	de	o	ダートバイクのレースで赤いユニフォームを着た男性がジャンプをしている	男性がモトクロスのレースに参加している	赤いユニフォームを着た男性がダートバイクのレースでジャンプをしている	neutral	2.7	neutral	neutral	neutral	neutral	2.3	3.0	2.0	2.0			
+314_ni_d	ni	d	制服を着た子供たちのグループ門のところ立っていて、母親にキスしている子供は一人もいない	制服を着た子供たちのグループが門のところに立っていて、一人が母親にキスしている	制服を着た子供たちのグループが門のところに立っていて、母親にキスしている子供は一人もいない	contradiction	3.3	contradiction	contradiction	neutral	contradiction	4.0	4.0	4.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+4150_wo_d	wo	d	女性タマネギ切っている	女性が肉を切っていない	女性がタマネギを切っている	neutral	2.5	neutral	neutral	neutral	entailment	2.7	3.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+4334_wo_o	wo	o	缶を男性が拾っている	女性が缶を拾っている	男性が缶を拾っている	neutral	3.5	neutral	neutral	neutral	neutral	3.7	4.0	3.0	4.0			
+6892_ni_o	ni	o	一人の女の子が岩から跳び下りていて、その上に別の女の子が立っている	冬用のコートを着た幼い女の子が丸石から海辺の砂浜に跳び下りている	一人の女の子が岩から跳び下りていて、別の女の子がその上に立っている	neutral	2.7	neutral	neutral	neutral	neutral	2.0	1.0	2.0	3.0			
+1107_wo_d	wo	d	男性ヘッドホンの入っているパッケージ開けている	男性がヘッドホンの入っていないパッケージを開けている	男性がヘッドホンの入っているパッケージを開けている	contradiction	4	contradiction	contradiction	neutral	contradiction	4.0	4.0	4.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+1327_de_c	de	c	男の子でおもちゃの武器が男性をたたいている	男の子が刀で男性を強くたたいている	男の子がおもちゃの武器で男性をたたいている	neutral	3.5	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+8667_de_c	de	c	ローラーブレーダーのグループで街路が散らばっている	ローラーブレーダーたちが隊列を組んで丘を滑り降りている	ローラーブレーダーのグループが街路で散らばっている	neutral	1.3	neutral	neutral	neutral	contradiction	2.7	3.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+2568_wo_d	wo	d	男性ダンスしている	数人の女性がダンスをしている	男性はダンスをしている	neutral	3	neutral	neutral	neutral	neutral	2.7	2.0	2.0	4.0		文Aが不自然	文Aが不自然
+9118_de_d	de	d	二人の小さな男の子緑の草地サッカーボールで外で遊んでいる	二人の子供が公園でボールで遊んでいる	二人の小さな男の子が緑の草地でサッカーボールで外で遊んでいる	neutral	3	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+8218_de_d	de	d	二匹の大きな犬草覆われた野原で遊び戯れている	二匹の大きな犬が駐車場で遊び戯れている	二匹の大きな犬が草で覆われた野原で遊び戯れている	neutral	3.3	neutral	neutral	neutral	contradiction	3.3	4.0	2.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+6601_ni_d	ni	d	小さい蜂一房の黄色の花の上降りている	蜂が黄色の花にしがみついている	小さい蜂が一房の黄色の花の上に降りている	neutral	3	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+1349_de_d	de	d	動物庭左右に転がっている	犬が左右に転がっている	動物が庭で左右に転がっている	neutral	4	neutral	neutral	neutral	neutral	3.3	4.0	2.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+5029_de_o	de	o	電話で男性はしゃべっていない	男性は電話でしゃべっている	男性は電話でしゃべっていない	contradiction	4	contradiction	contradiction	contradiction	contradiction	4.0	4.0	4.0	4.0			
+8694_wo_o	wo	o	丘を三人の児童が走り上がっている	三人の児童が草の多い山腹を走り下りている	三人の児童が丘を走り上がっている	neutral	2.3	neutral	neutral	neutral	contradiction	3.0	4.0	2.0	3.0			
+8442_ni_d	ni	d	二人の男性一緒立っていて、一人は遠くを見ている	二人の男性が一緒に立っていて、一人は双眼鏡を通して見ている	二人の男性が一緒に立っていて、一人は遠くを見ている	neutral	3.7	neutral	neutral	neutral	neutral	3.3	4.0	2.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+9217_de_d	de	d	男森の中空中に飛び跳ねている	シャツなしの男性が丸太を跳び越えている	男が森の中で空中に飛び跳ねている	neutral	2.3	neutral	neutral	neutral	neutral	2.0	1.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+8782_de_o	de	o	丘の上で三人の男性が座っていて、海を見ている	三人のハイカーが山腹に座っていて、一対の双眼鏡で景色を見ている	三人の男性が丘の上で座っていて、海を見ている	neutral	3.3	neutral	neutral	neutral	neutral	2.0	2.0	1.0	3.0			
+7342_ni_o	ni	o	山に男性たちは登っている	一人の登山者が岩を抱えていて、別の男性が壁をロープで縛っている	男性たちは山に登っている	neutral	2.3	neutral	neutral	neutral	neutral	2.0	2.0	1.0	3.0			
+6774_de_c	de	c	犬で雪の中がフリスビーに向かってジャンプしている	犬は雪の中でフリスビーに向かってジャンプしている	犬が雪の中でフリスビーに向かってジャンプしている	entailment	5	neutral	neutral	neutral	neutral	3.3	4.0	3.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+7175_de_o	de	o	顔の前で子供がカメラを持っている	カメラが子供の顔の前で持たれている	子供が顔の前でカメラを持っている	entailment	5	entailment	entailment	entailment	entailment	4.7	4.0	5.0	5.0			
+9061_de_o	de	o	草で白い犬が覆われた丘の中腹で立っている	黒い犬が草で覆われた丘の中腹で立っている	白い犬が草で覆われた丘の中腹で立っている	neutral	3.7	neutral	neutral	neutral	neutral	3.3	4.0	3.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+8023_de_d	de	d	茶色と白の犬芝生の上遊んでいる	犬が緑の草地の上で遊んでいる	茶色と白の犬が芝生の上で遊んでいる	neutral	3.7	entailment	entailment	neutral	entailment	3.7	4.0	3.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+3070_wo_d	wo	d	女性車運転していて、横に座っている男性に話しかけている	その女性とその男性は車で旅行をしている	女性が車を運転していて、横に座っている男性に話しかけている	neutral	2.5	neutral	neutral	neutral	neutral	2.0	2.0	2.0	2.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+8693_wo_d	wo	d	三人の児童草の多い山腹走り下りている	三人の子供が丘を走り下りている	三人の児童が草の多い山腹を走り下りている	neutral	3.3	entailment	entailment	neutral	entailment	3.7	4.0	3.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+9573_ni_o	ni	o	ベンチに若い男性が座っている	高齢の女性がベンチに座っていて、灰色のジャケットと黒いズボンを着ている	若い男性がベンチに座っている	neutral	2.3	neutral	neutral	neutral	neutral	2.0	1.0	2.0	3.0		文Aが不自然	
+149_wo_c	wo	c	鹿をフェンスが跳び越えている	鹿が囲いを跳び越えている	鹿がフェンスを跳び越えている	entailment	4.7	neutral	entailment	neutral	neutral	3.0	4.0	2.0	3.0		文Aが不自然	文Aが不自然
+819_de_c	de	c	自転車用の衣服を着た人でいくつかの山々の前がしっかりと立っている	山々の前でしっかりと立っている自転車用の衣服を着た人は一人もいない	自転車用の衣服を着た人がいくつかの山々の前でしっかりと立っている	contradiction	3.5	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+9063_de_o	de	o	山腹で犬が立っている	黒い犬が草で覆われた丘の中腹で立っている	犬が山腹で立っている	neutral	3	neutral	neutral	neutral	neutral	3.0	3.0	3.0	3.0			
+8583_de_c	de	c	汚れた黄褐色の犬で泥の中が転がっていて、カメラをまっすぐ見ている	犬が地面の上で遊んでいる	汚れた黄褐色の犬が泥の中で転がっていて、カメラをまっすぐ見ている	neutral	2	neutral	neutral	neutral	neutral	2.0	2.0	2.0	2.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+5721_de_c	de	c	男性で天井板の上がダンスをしている	天井板の上でダンスをしている有名な歌手は一人もいない	男性が天井板の上でダンスをしている	neutral	2.7	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	
+2653_ni_c	ni	c	婦人にミキサーが入れるために卵を割っている	婦人がミキサーに入れるために卵を割っている	婦人がミキサーに入れるために卵を割っている	entailment	5	neutral	neutral	neutral	neutral	3.3	4.0	2.0	4.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+2395_wo_o	wo	o	ジャガイモの薄切りをその男性は調理している	その男性はジャガイモを薄切りにしている	その男性はジャガイモの薄切りを調理している	neutral	3	neutral	neutral	neutral	contradiction	3.0	3.0	2.0	4.0			
+2511_de_d	de	d	女性ケージの中ダンスをしている	婦人はダンスをしている	女性がケージの中でダンスをしている	neutral	3.5	neutral	entailment	neutral	neutral	3.3	3.0	3.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+27_de_o	de	o	後輪走行である人がその自転車に乗っている	バイクに乗って芸をしている黒いジャケットを着た男性は一人もいない	ある人が後輪走行でその自転車に乗っている	neutral	1.3	neutral	neutral	neutral	contradiction	1.7	2.0	1.0	2.0			文Aが不自然
+575_de_d	de	d	白人の男性やっとのこと犬を茶色の水の中で歩かせている	茶色と白の毛並みをしている犬が浅瀬を小走りに通っている	白人の男性がやっとのことで犬を茶色の水の中で歩かせている	neutral	3	neutral	neutral	neutral	neutral	2.0	2.0	2.0	2.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+7250_ni_c	ni	c	黒いシャツを着た女性に蛍光性の緑色のバッグの隣が座っている	女性が黙っていて、財布と黄色のバッグを近くの棚に置き忘れている	黒いシャツを着た女性が蛍光性の緑色のバッグの隣に座っている	neutral	1	neutral	neutral	neutral	contradiction	2.3	2.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+6451_de_c	de	c	黄色のシャツを着た幼少の男の子で海辺が笑っている	小さな男の子は黄色のタンクトップを着ていて、笑っている	黄色のシャツを着た幼少の男の子が海辺で笑っている	neutral	3.7	neutral	neutral	neutral	neutral	3.0	3.0	2.0	4.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+1855_ni_d	ni	d	男性一切れのガーリック風味のパンぞんざいにバターを塗っている	男性が大きな一片のパンからバターを取り除いている	男性は一切れのガーリック風味のパンにぞんざいにバターを塗っている	contradiction	3.5	contradiction	contradiction	neutral	contradiction	2.7	3.0	2.0	3.0	文Ａが不自然。助詞が抜けている。違う男性であるという可能性は考えないで判断。	文Aが不自然	文Aが不自然
+5967_ni_o	ni	o	顔に青いシャツを着た男の子が泥をつけている	黄色のボトルを抱えているブロンドの子供は一人もいない	青いシャツを着た男の子が顔に泥をつけている	neutral	1	neutral	neutral	neutral	neutral	1.0	1.0	1.0	1.0		文Aが不自然	文Aが不自然
+6900_ni_c	ni	c	茶色の髪をしてサングラスをかけた若い男性にいくつかのソーダの缶の前が座っている	いくつかのソーダの缶の前に座っている茶色の髪をしてサングラスをかけた若い男性は一人もいない	茶色の髪をしてサングラスをかけた若い男性がいくつかのソーダの缶の前に座っている	contradiction	4	neutral	neutral	neutral	contradiction	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+7871_ni_o	ni	o	黒い馬に青いカウボーイハットをかぶった男性が乗っている	青いカウボーイハットをかぶった男性が白い馬に乗っている	青いカウボーイハットをかぶった男性が黒い馬に乗っている	neutral	3.7	neutral	neutral	neutral	contradiction	3.7	4.0	3.0	4.0	青いカウボーイハットをかぶった男性がひとりとは限らないと考え中立を選択。		
+7112_ni_o	ni	o	赤と黄色のおもちゃの自動車の中に子供が座っている	幼少の女の子がおもちゃの自動車に乗っている	子供が赤と黄色のおもちゃの自動車の中に座っている	neutral	3.3	neutral	neutral	neutral	neutral	3.3	4.0	3.0	3.0			
+1920_wo_c	wo	c	男性を自動車が運転している	男性は自分をきれいにするための時間帯を持っている	男性は自動車を運転している	neutral	2	neutral	neutral	neutral	neutral	1.0	1.0	1.0	1.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+6633_wo_d	wo	d	馬ハードル跳んでいて、背中に騎手を乗せている	騎手のいない馬がハードルの上に落ちている	馬がハードルを跳んでいて、背中に騎手を乗せている	neutral	2.3	neutral	neutral	neutral	contradiction	2.3	2.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+4804_de_d	de	d	犬動物園猿をいじめている	猿が動物園で犬をいじめている	犬が動物園で猿をいじめている	contradiction	3	neutral	neutral	neutral	contradiction	3.0	4.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	
+6441_ni_c	ni	c	カップルにテラスが座っていて、海を見つめている	二人の大人が椅子に座っていて、海を見ている	カップルがテラスに座っていて、海を見つめている	neutral	3.7	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+3377_ni_d	ni	d	男の子三輪車乗っている	男の子は三輪車に乗っていない	男の子は三輪車に乗っている	contradiction	4	contradiction	contradiction	neutral	contradiction	4.0	4.0	4.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+8364_ni_d	ni	d	男の子ビルの前にある石造りの噴水の側面跳び乗っている	男の子がビルの前にある石造りの噴水の側面から跳び下りている	男の子がビルの前にある石造りの噴水の側面に跳び乗っている	neutral	3.3	neutral	neutral	neutral	contradiction	3.7	4.0	3.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+8023_de_c	de	c	茶色と白の犬で芝生の上が遊んでいる	犬が緑の草地の上で遊んでいる	茶色と白の犬が芝生の上で遊んでいる	neutral	3.7	neutral	neutral	neutral	entailment	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+5655_wo_o	wo	o	ベッドを男性が整えている	ある人がテーブルで食事をしている	男性がベッドを整えている	neutral	2.3	neutral	neutral	neutral	neutral	1.0	1.0	1.0	1.0			
+8735_de_o	de	o	ベッドの上で若いカップルが一緒に横たわっている	若いカップルがカウチの上で一緒に横たわっている	若いカップルがベッドの上で一緒に横たわっている	contradiction	3.7	neutral	neutral	neutral	neutral	3.7	4.0	3.0	4.0			
+865_ni_d	ni	d	たくさんの人アイススケートパークいる	アイススケートパークに多くの人はいない	たくさんの人がアイススケートパークにいる	contradiction	3.5	contradiction	contradiction	neutral	contradiction	3.7	3.0	4.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+33_wo_d	wo	d	プレイしている男性バスケットボールダンクしネットの中に入れ、群衆が後ろの方にいる	その選手はバスケットボールをダンクしネットの中に入れ、群衆が後ろの方にいる	プレイしている男性がバスケットボールをダンクしネットの中に入れ、群衆が後ろの方にいる	entailment	4.7	entailment	entailment	neutral	entailment	4.3	4.0	4.0	5.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+3178_de_c	de	c	男性で森の中が元気よくハイキングをしている	男性は森の中でハイキングをしている	男性は森の中で元気よくハイキングをしている	entailment	4	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+1685_ni_o	ni	o	数個のトマトに男性はオイルをかけている	誰かがトマト油をその男性にかけている	男性は数個のトマトにオイルをかけている	neutral	3	neutral	neutral	neutral	neutral	2.3	3.0	2.0	2.0		文Aが不自然	文Aが不自然
+7799_ni_c	ni	c	テニス選手に左の方が突進している	緑色のヘッドバンドを着けたテニス選手はボールを打っている	テニス選手が左の方に突進している	neutral	2.7	neutral	neutral	neutral	neutral	2.3	2.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+2054_ni_c	ni	c	いくつかの肉に女性が縫い合わされている	いくつかの肉が女性に細かく切られている	いくつかの肉が女性に縫い合わされている	contradiction	3.5	neutral	neutral	neutral	neutral	2.0	2.0	2.0	2.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+8445_wo_d	wo	d	二人の男性外見ていて、彼らの一人双眼鏡持っている	二人の男性が外を見ていて、一人が小型望遠鏡を持っている	二人の男性が外を見ていて、彼らの一人が双眼鏡を持っている	neutral	4	neutral	neutral	neutral	neutral	3.0	4.0	3.0	2.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+6743_de_d	de	d	三人の人何本かのヤシの木の下にあるベンチのそば立っている	その人々はレストランの前にあるベンチに座っている	三人の人が何本かのヤシの木の下にあるベンチのそばで立っている	neutral	1.7	neutral	neutral	neutral	contradiction	2.3	3.0	1.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+7674_de_c	de	c	男性で海辺の水際の濡れた砂地が逆立ちをしている	男性が海辺で逆立ちを行っている	男性は海辺の水際の濡れた砂地で逆立ちをしている	entailment	4	neutral	neutral	neutral	contradiction	2.7	3.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	
+5529_wo_d	wo	d	女性豆腐薄切りにしている	女性がタマネギを切っている	女性が豆腐を薄切りにしている	neutral	3.3	neutral	neutral	neutral	contradiction	3.0	3.0	2.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+1078_de_c	de	c	その幼くて大人しい女の子でピンク色のシャツの中にある草の周りが横たわっている	女の子が白い文字があしらわれたピンク色のシャツを着て草の中で横たわっている	その幼くて大人しい女の子はピンク色のシャツの中にある草の周りで横たわっている	neutral	3	neutral	neutral	neutral	neutral	2.7	4.0	1.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+1243_wo_d	wo	d	女性ジャガイモの皮むいている	ジャガイモの皮をむいている女性は一人もいない	女性がジャガイモの皮をむいている	contradiction	4	contradiction	contradiction	neutral	contradiction	3.7	3.0	4.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+7879_wo_o	wo	o	ATVを三人の人が運転している	ATVを運転している人はいない	三人の人がATVを運転している	contradiction	3.7	contradiction	contradiction	contradiction	contradiction	3.3	3.0	3.0	4.0			
+6374_wo_c	wo	c	幼い子供を白いコートが着ていて、ゲームをしている	子供は屋外でおもちゃで遊んでいる	幼い子供が白いコートを着ていて、ゲームをしている	neutral	3	neutral	neutral	neutral	neutral	2.0	2.0	2.0	2.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+5283_de_o	de	o	ぬいぐるみのウサちゃんでウサちゃんが遊んでいる	ぬいぐるみのウサちゃんで遊んでいるウサちゃんは一匹もいない	ウサちゃんがぬいぐるみのウサちゃんで遊んでいる	contradiction	4	contradiction	contradiction	contradiction	contradiction	3.7	3.0	4.0	4.0			
+4658_wo_c	wo	c	男性をタマネギの皮が取り除いている	男性が荒野を通る細道に沿って歩いている	男性がタマネギの皮を取り除いている	neutral	1	neutral	neutral	neutral	neutral	1.7	1.0	1.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+4500_wo_c	wo	c	医師をその患者が助けていない	医師はその患者を助けている	医師はその患者を助けていない	contradiction	4	neutral	neutral	neutral	neutral	3.0	3.0	2.0	4.0		文Aが不自然	
+195_ni_o	ni	o	黒と白のバイクにライダーが乗り、シートの上で立ち上がっている	オートバイ乗りが白いオートバイのシートの上で立ち上がっている	ライダーが黒と白のバイクに乗り、シートの上で立ち上がっている	neutral	3.3	neutral	neutral	neutral	entailment	4.0	4.0	4.0	4.0			
+519_ni_c	ni	c	シルバーのバンツ、ピンク色のベルボトム、そしてピンク色のスカーフを身に着けている女性に自転車が乗っていない	シルバーのバンツ、ピンク色のベルボトム、そしてピンク色のスカーフを身に着けている女性は自転車に乗っている	シルバーのバンツ、ピンク色のベルボトム、そしてピンク色のスカーフを身に着けている女性は自転車に乗っていない	contradiction	3.3	neutral	neutral	neutral	neutral	3.7	4.0	3.0	4.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+7960_ni_d	ni	d	バスケットボール選手コートの床の上いて、別の選手がボールをつかんでいる	二人のバスケットボール選手がコートでボールを奪い合っている	バスケットボール選手がコートの床の上にいて、別の選手がボールをつかんでいる	entailment	3.7	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+4698_wo_d	wo	d	男性小さな動物片手で抱いている	男性が小さな猿を見せびらかしている	男性が小さな動物を片手で抱いている	neutral	2.7	neutral	neutral	neutral	neutral	2.3	3.0	2.0	2.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+9415_de_d	de	d	コスチュームを着た男性たち街路歩き回っている	緑と赤のコスチュームを着ている二人の人が外の歩道にいる	コスチュームを着た男性たちが街路で歩き回っている	neutral	2.7	neutral	neutral	neutral	entailment	2.7	3.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+7299_de_o	de	o	戸外で一人の幼い子供がいくらかの落ち葉の上を走っている	幼い子供が枯れ葉で覆われた砂利道を走っている	一人の幼い子供が戸外でいくらかの落ち葉の上を走っている	neutral	3.7	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0			
+214_ni_d	ni	d	犬空中高く跳んでいて、別の犬が見ている	二匹の犬が木のそばで眠っている	犬が空中に高く跳んでいて、別の犬が見ている	neutral	2.3	neutral	neutral	neutral	neutral	2.3	3.0	2.0	2.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+563_de_c	de	c	茶色の犬と黒い犬で草原が競争をしている	濃い黒色の犬と薄い茶色の犬が裏庭で遊んでいる	茶色の犬と黒い犬が草原で競争をしている	neutral	2	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+6459_de_o	de	o	海辺で二人の男性がオレンジ色のいかだに乗っている	二人の男性が海岸でオレンジ色のいかだに乗っている	二人の男性が海辺でオレンジ色のいかだに乗っている	neutral	4	entailment	entailment	neutral	entailment	4.7	5.0	4.0	5.0			
+4993_wo_d	wo	d	ある人バナナの皮むいている	ある人がバナナの皮をむいていない	ある人がバナナの皮をむいている	contradiction	4	contradiction	contradiction	neutral	contradiction	4.0	4.0	4.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+1684_ni_d	ni	d	男性数個のトマトオイルをかけている	いくらかのオイルをトマトにかけている男性は一人もいない	男性は数個のトマトにオイルをかけている	contradiction	3.5	contradiction	contradiction	neutral	contradiction	3.3	3.0	3.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+7633_wo_d	wo	d	男性赤いジャケット着ていて、背後に水があるいくつかの岩の上の黄色のカヌーのそばで立っている	海のそばのいくつかの岩の上にある黄色のカヤックの隣に立っている赤いジャケットを着た男性は一人もいない	男性が赤いジャケットを着ていて、背後に水があるいくつかの岩の上の黄色のカヌーのそばで立っている	neutral	3	neutral	neutral	neutral	contradiction	3.3	4.0	2.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+8595_de_d	de	d	小さな男の子たち多くの人の前にある噴水の中遊んでいる	小さな子供たちが多くの人の前にある噴水の中で遊んでいる	小さな男の子たちが多くの人の前にある噴水の中で遊んでいる	entailment	4.3	entailment	entailment	neutral	entailment	4.3	5.0	4.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+1497_wo_d	wo	d	男性ギターかき鳴らしている	男性がギターを弾いている	男性はギターをかき鳴らしている	entailment	4	entailment	entailment	neutral	entailment	4.7	5.0	4.0	5.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+1485_wo_d	wo	d	男性オイルかき混ぜていない	男性はオイルをかき混ぜている	男性はオイルをかき混ぜていない	contradiction	4	contradiction	contradiction	neutral	contradiction	3.7	4.0	3.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+5935_wo_d	wo	d	誰材料鍋に注ぎ込んでいない	ある人が材料を鍋に注ぎ込んでいる	誰も材料を鍋に注ぎ込んでいない	contradiction	3.7	contradiction	contradiction	neutral	contradiction	3.3	4.0	3.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+6719_ni_d	ni	d	黒い鳥葉のない木の中止まっている	鳥は黒くて、枯れた木に止まっている	黒い鳥は葉のない木の中に止まっている	neutral	3.7	neutral	neutral	neutral	entailment	4.3	4.0	4.0	5.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+3863_de_d	de	d	男性道路の真ん中立ち止まっている	男性は荒野を通る細道に沿って歩いている	男性が道路の真ん中で立ち止まっている	neutral	1.5	neutral	neutral	neutral	contradiction	2.7	2.0	2.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+6437_ni_c	ni	c	二人の大人に椅子が座っていて、海を見ている	何人かの大人が椅子に座っていて、海を見ている	二人の大人が椅子に座っていて、海を見ている	entailment	4.3	neutral	neutral	neutral	neutral	2.3	2.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+3401_wo_o	wo	o	ボウルの中の卵を女性はかき混ぜている	ある人が卵を割っている	女性はボウルの中の卵をかき混ぜている	neutral	2.5	neutral	neutral	neutral	contradiction	2.7	3.0	2.0	3.0			
+9970_de_c	de	c	女性で野菜用のブラシがズッキーニをゴシゴシとこすっている	男性がスケートボードに乗って芸をしている	女性が野菜用のブラシでズッキーニをゴシゴシとこすっている	neutral	1	neutral	neutral	neutral	neutral	1.0	1.0	1.0	1.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+8761_wo_c	wo	c	男の子を黄色のジャケットが着ていて、岩から跳び下りている	子供が黄色のジャケットを着ていて、岩から跳び下りている	男の子が黄色のジャケットを着ていて、岩から跳び下りている	entailment	4.3	neutral	neutral	neutral	neutral	3.7	4.0	3.0	4.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+6949_ni_c	ni	c	緑色の服を着たブロンドの男の子にブランコが座っている	緑色の服を着たブロンドの男の子がブランコの上に立っている	緑色の服を着たブロンドの男の子がブランコに座っている	neutral	3.7	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+533_wo_d	wo	d	一人の男性黒いヘルメットかぶっていて、自転車を押している	男性が黒い自転車に乗っている別の男性の方にヘルメットを押している	一人の男性が黒いヘルメットをかぶっていて、自転車を押している	neutral	1.7	neutral	neutral	neutral	neutral	2.7	4.0	2.0	2.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+8776_ni_c	ni	c	幼児にプラスチック製のスクーターのおもちゃが乗っている	幼い子供が三輪スクーターに乗って歩道を走っている	幼児がプラスチック製のスクーターのおもちゃに乗っている	neutral	3	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+5146_wo_c	wo	c	男性をトランプの手品がしている	男性が水遊びをしている	男性がトランプの手品をしている	neutral	1.7	neutral	neutral	neutral	neutral	1.0	1.0	1.0	1.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+2437_de_c	de	c	キーボードに向かっている男性で鼻が弾いている	男性がキーボードを鼻で弾いている	キーボードに向かっている男性が鼻で弾いている	neutral	3.5	neutral	neutral	neutral	neutral	2.7	4.0	2.0	2.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+3307_wo_c	wo	c	飛行機を空が飛んでいる	飛行機が地上に配置されている	飛行機が空を飛んでいる	neutral	2.5	neutral	neutral	neutral	neutral	2.0	2.0	2.0	2.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+101_de_o	de	o	戸外で四人の女の子たちがバックエンドをして遊んでいる	四人の女の子たちが屋内でバックエンドをして遊んでいる	四人の女の子たちが戸外でバックエンドをして遊んでいる	contradiction	4	neutral	neutral	neutral	contradiction	4.0	4.0	4.0	4.0			文Aが不自然　文Bが不自然
+1058_de_d	de	d	その人砂地の走路オートバイに乗っている	その人は砂地の上の走路でオートバイに乗っている	その人は砂地の走路でオートバイに乗っている	entailment	5	entailment	entailment	neutral	entailment	4.3	4.0	4.0	5.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+9585_de_d	de	d	婦人その画家の画架の隣絵筆を持っている	その画家の画架の隣で絵筆を持っている婦人は一人もいない	婦人はその画家の画架の隣で絵筆を持っている	contradiction	3.7	contradiction	contradiction	neutral	contradiction	3.7	4.0	3.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+1916_ni_o	ni	o	男性に窓は掃除されている	男性は自動車を運転していない	窓は男性に掃除されている	neutral	2	neutral	neutral	neutral	neutral	1.0	1.0	1.0	1.0		文Aが不自然	
+8513_ni_o	ni	o	ベンチに白と黒の服を着ている二人の女性が座っている	二人の人が晴れた日に公園のベンチに座っている	白と黒の服を着ている二人の女性がベンチに座っている	neutral	2.7	neutral	neutral	neutral	neutral	3.0	3.0	2.0	4.0			
+3817_ni_d	ni	d	トウガラシ女性ナイフで薄切りにされている	女性が緑色のトウガラシを薄切りにしている	トウガラシが女性にナイフで薄切りにされている	neutral	3.5	neutral	neutral	neutral	neutral	3.7	4.0	3.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+4389_ni_d	ni	d	男馬乗っている	馬が男に乗られている	男が馬に乗っている	entailment	5	entailment	entailment	neutral	entailment	4.3	4.0	4.0	5.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+8655_de_o	de	o	パレードでその人々は立っている	あるグループの人々が品評会のスタンドに集まっている	その人々はパレードで立っている	neutral	1	neutral	neutral	neutral	neutral	1.3	1.0	1.0	2.0			
+6245_ni_c	ni	c	茶色い犬に空中が跳んでいる	栄養不良に見える犬が後ろ脚で立っていて、跳ぶ準備をしている	茶色い犬が空中に跳んでいる	neutral	2	neutral	neutral	neutral	neutral	2.0	2.0	2.0	2.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+4039_ni_o	ni	o	シードゥーに女性が乗っている	女性がシードゥーを停めている	女性がシードゥーに乗っている	neutral	2.5	neutral	neutral	neutral	contradiction	3.3	4.0	2.0	4.0			
+9590_wo_o	wo	o	絵をその青いカバーオールを着た男の子は描いている	婦人はその画家の画架の隣で絵筆を持っている	その青いカバーオールを着た男の子は絵を描いている	neutral	1.7	neutral	neutral	neutral	neutral	1.3	1.0	1.0	2.0			
+5001_wo_c	wo	c	猫を引き出しが開けていて、中に跳び込んでいる	猫が引き出しを開けていて、中に潜り込んでいる	猫が引き出しを開けていて、中に跳び込んでいる	neutral	3.7	neutral	neutral	neutral	neutral	3.3	4.0	3.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+7956_ni_o	ni	o	コートの床の上にバスケットボール選手がいて、別の選手にボールがつかまれている	二人のバスケットボール選手がコートでボールを奪い合っている	バスケットボール選手がコートの床の上にいて、ボールが別の選手につかまれている	entailment	3.7	neutral	neutral	neutral	entailment	3.3	3.0	3.0	4.0			
+8261_de_d	de	d	高齢の男性と女性海の近くの遊歩道バイクに乗っている	中年の男性と女性がバイクに乗って水域のそばの道路を走っている	高齢の男性と女性が海の近くの遊歩道でバイクに乗っている	neutral	2.7	neutral	neutral	neutral	neutral	3.3	4.0	2.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+7945_de_c	de	c	白いＴシャツを着た男の子で浅い水の中が飛沫を飛ばしている	白いＴシャツを着た子供が浅い水の中で飛沫を飛ばしている	白いＴシャツを着た男の子が浅い水の中で飛沫を飛ばしている	entailment	4.3	neutral	entailment	neutral	neutral	3.3	4.0	2.0	4.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+3035_de_o	de	o	プラスチックの容器でその子犬は遊んでいる	その子犬はプラスチックで作られた容器で遊んでいる	その子犬はプラスチックの容器で遊んでいる	entailment	5	entailment	entailment	entailment	entailment	4.7	4.0	5.0	5.0			
+5638_wo_c	wo	c	子供をそのギターが弾いている	歌いながらギターを弾いている幼い男の子は一人もいない	子供がそのギターを弾いている	neutral	2.7	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+9382_wo_c	wo	c	選手たちをバスケットボールを奪うための駆け引きが行っている	緑色の服を着た男性がサッカーボールを蹴っていて、紫色と白の服を着た男性が転んでいる	選手たちはバスケットボールを奪うための駆け引きを行っている	neutral	2.3	neutral	neutral	neutral	neutral	1.7	1.0	2.0	2.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+2446_wo_c	wo	c	サイの赤ちゃんを大人のサイの後が追っている	小さなサイが大人のサイの後を追っている	サイの赤ちゃんが大人のサイの後を追っている	neutral	4	neutral	neutral	neutral	contradiction	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+2892_wo_c	wo	c	男性を重いものが上げている	重いものがその男性に上げられている	男性は重いものを上げている	entailment	5	neutral	neutral	neutral	contradiction	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+5057_ni_c	ni	c	ジャガイモに男性が切られている	男性がジャガイモを切っている	ジャガイモが男性に切られている	entailment	5	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+6465_de_c	de	c	二人の男性で海岸がオレンジ色のいかだに乗っている	救助ボートはオレンジ色で、水の上を突進している	二人の男性が海岸でオレンジ色のいかだに乗っている	neutral	2	neutral	neutral	neutral	neutral	2.0	3.0	2.0	1.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+1141_wo_o	wo	o	クルマエビを女性が衣に浸けている	女性がエビを衣に浸けている	女性がクルマエビを衣に浸けている	entailment	4	entailment	entailment	entailment	entailment	4.3	4.0	4.0	5.0			
+972_wo_c	wo	c	紫色に染められたシャツを着た男性を黒いシャツを着て滑稽な表情をしている男性が見ている	ポーズをとっている男性が別の男性に見られている	紫色に染められたシャツを着た男性が黒いシャツを着て滑稽な表情をしている男性を見ている	neutral	2	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0			
+7112_ni_d	ni	d	子供赤と黄色のおもちゃの自動車の中座っている	幼少の女の子がおもちゃの自動車に乗っている	子供が赤と黄色のおもちゃの自動車の中に座っている	neutral	3.3	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+1243_wo_c	wo	c	女性をジャガイモの皮がむいている	ジャガイモの皮をむいている女性は一人もいない	女性がジャガイモの皮をむいている	contradiction	4	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+7249_ni_o	ni	o	蛍光性の緑色のバッグの隣に黒いシャツを着た女性が座っている	女性が携帯電話で大声で話していて、財布と黄色のバッグを近くの棚に保持している	黒いシャツを着た女性が蛍光性の緑色のバッグの隣に座っている	neutral	1	neutral	neutral	neutral	neutral	1.7	2.0	1.0	2.0			
+9047_de_d	de	d	大きな白い犬雪の中跳び上がっている	大きな黒い犬が雪の多いエリアの上の空中にジャンプしている	大きな白い犬が雪の中で跳び上がっている	neutral	2.7	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+8357_ni_d	ni	d	人々赤い部屋ある四角いテーブルの席についている	何人かの人々が明るい部屋にある小型のテーブルの席についている	人々が赤い部屋にある四角いテーブルの席についている	neutral	2.7	neutral	neutral	neutral	neutral	2.7	4.0	2.0	2.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+8250_wo_c	wo	c	何人かの若いダートバイカーをダートバイクが砂地の丘に上げている	若い男性がモトクロスバイクをダートヒルに上げている	何人かの若いダートバイカーがダートバイクを砂地の丘に上げている	neutral	3.7	neutral	neutral	neutral	neutral	2.0	3.0	2.0	1.0	文Ａの助詞が不自然。		文Aが不自然
+8256_de_o	de	o	海の近くの遊歩道で若い男性と女性がバイクに乗っている	高齢の男性と女性が海の近くの遊歩道でバイクに乗っている	若い男性と女性が海の近くの遊歩道でバイクに乗っている	neutral	3.3	neutral	neutral	neutral	neutral	3.3	4.0	2.0	4.0			
+9835_de_o	de	o	青いマットの上で二人の子供が武道をやっている	黄褐色の犬がやぶを走り抜けている	二人の子供が青いマットの上で武道をやっている	neutral	1	neutral	neutral	neutral	neutral	1.0	1.0	1.0	1.0			
+6787_wo_d	wo	d	黒い服を着た男性精巧なマスク着けている	マスクが男性により彼の上げた手に持たれている	黒い服を着た男性が精巧なマスクを着けている	neutral	2.3	neutral	neutral	neutral	contradiction	2.3	3.0	2.0	2.0	文Ａが不自然。助詞が抜けている。		文Aが不自然
+7500_wo_o	wo	o	赤いジャケットをある人が着ていて、ビールを持っている	女性は赤いジャケットを着ていて、白いＴシャツを着た男性の前でグラスを持っている	ある人が赤いジャケットを着ていて、ビールを持っている	neutral	2.7	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0			
+710_ni_d	ni	d	二人の大きな人公園のベンチの近く立っていて、彼らの間には何も置いてない	一人の男性と一人の女性が心地よさそうにベンチに座っている	二人の大きな人が公園のベンチの近くに立っていて、彼らの間には何も置いてない	neutral	2	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+5344_ni_d	ni	d	男性ボウルの中の水調味料を加えている	男性はそれらのソーセージに味付けをしている	男性はボウルの中の水に調味料を加えている	neutral	2.7	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+9353_de_c	de	c	三人の女性で村が走っている	三人の女性が金網の壁の近くで一緒に座っている	三人の女性が村で走っている	neutral	2.3	neutral	neutral	neutral	contradiction	1.7	2.0	1.0	2.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+8667_de_o	de	o	街路でローラーブレーダーのグループが散らばっている	ローラーブレーダーたちが隊列を組んで丘を滑り降りている	ローラーブレーダーのグループが街路で散らばっている	neutral	1.3	neutral	neutral	neutral	contradiction	2.7	2.0	3.0	3.0		文Aが不自然	
+9959_wo_o	wo	o	赤い色を犬がしたボールの近くにいて、そのボールは空中にある	男性がギターを弾いている	犬が赤い色をしたボールの近くにいて、そのボールは空中にある	neutral	1	neutral	neutral	neutral	neutral	1.0	1.0	1.0	1.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+9063_de_d	de	d	犬山腹立っている	黒い犬が草で覆われた丘の中腹で立っている	犬が山腹で立っている	neutral	3	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+4827_wo_c	wo	c	男性をジャガイモが細かく薄切りにしている	ジャガイモを細かく薄切りにしている男性は一人もいない	男性がジャガイモを細かく薄切りにしている	contradiction	4	neutral	neutral	neutral	neutral	2.3	3.0	2.0	2.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+9978_wo_c	wo	c	抜け目のないアナグマを土が掘っている	女性が豆腐を薄切りにしている	抜け目のないアナグマが土を掘っている	neutral	1	neutral	neutral	neutral	neutral	1.0	1.0	1.0	1.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+3842_de_d	de	d	男性小川のそば馬に乗っている	男性が馬に乗っている	男性は小川のそばで馬に乗っている	entailment	3.5	entailment	entailment	neutral	entailment	4.0	4.0	4.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+6850_de_d	de	d	二人の幼少の子供街路ぶらぶら遊んでいる	父親が娘を押してゴーカートに乗せていて、別の女の子が見ている	二人の幼少の子供が街路でぶらぶら遊んでいる	neutral	1	neutral	neutral	neutral	neutral	2.0	2.0	1.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+165_wo_o	wo	o	カラフルな建物の前を数人の人々が歩いている	人々が、たくさんの壁画がある建物の内側を歩いている	数人の人々がカラフルな建物の前を歩いている	neutral	2.3	neutral	neutral	neutral	neutral	2.3	3.0	2.0	2.0		文Aが不自然	
+5004_wo_o	wo	o	引き出しを犬が開けていて、中に潜り込んでいる	大きな猫がプラスチック製の引き出しを足で開けていて、中に跳び込んでいる	犬が引き出しを開けていて、中に潜り込んでいる	neutral	3	neutral	neutral	neutral	neutral	2.3	2.0	2.0	3.0			
+4064_ni_d	ni	d	男性家の中いて、近くの標的にナイフを投げている	男性は戸外にいて、近くの標的ナイフを投げている	男性が家の中にいて、近くの標的にナイフを投げている	neutral	3.5	neutral	neutral	neutral	contradiction	3.7	4.0	3.0	4.0	文Ａが不自然。助詞が抜けている。	文Bが不自然	文Aが不自然
+6842_de_d	de	d	二人の幼少の子供街路おもちゃの自動車で遊んでいる	二人の幼少の子供が街路でぶらぶら遊んでいる	二人の幼少の子供が街路でおもちゃの自動車で遊んでいる	neutral	3.7	neutral	entailment	neutral	neutral	3.0	4.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+3377_ni_o	ni	o	三輪車に男の子は乗っている	男の子は三輪車に乗っていない	男の子は三輪車に乗っている	contradiction	4	contradiction	contradiction	contradiction	contradiction	4.0	4.0	4.0	4.0			
+9523_ni_c	ni	c	二人の男性に海の中が立っている	二人の男性が深い水の中に立っている	二人の男性が海の中に立っている	neutral	3.3	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+2143_wo_o	wo	o	ジャガイモの皮を女性がむいている	男性はジャガイモを薄切りにしていない	女性がジャガイモの皮をむいている	neutral	2.5	neutral	neutral	neutral	neutral	2.0	1.0	2.0	3.0			
+8286_de_d	de	d	水フィールド座っているサッカー選手に飲まれている	男性が草地の上に座っていて、水のボトルから飲んでいる	水がフィールドで座っているサッカー選手に飲まれている	neutral	3.3	neutral	neutral	neutral	neutral	2.0	3.0	2.0	1.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+8904_ni_c	ni	c	女性に柱が寄りかかっていて、人々に囲まれている	男性が柱に寄りかかっていて、人々に囲まれている	女性が柱に寄りかかっていて、人々に囲まれている	neutral	3.7	neutral	neutral	neutral	neutral	3.3	4.0	2.0	4.0		文Aが不自然	
+2558_wo_o	wo	o	ギターをある人が片付けている	ある人がギターを弾いている	ある人がギターを片付けている	neutral	2.5	neutral	neutral	neutral	contradiction	2.7	3.0	2.0	3.0		文Aが不自然	
+8508_ni_d	ni	d	白と黒の服を着ている二人の女性ベンチ座っている	白と黒の服を着ている二人の男性がベンチに座っている	白と黒の服を着ている二人の女性がベンチに座っている	neutral	3.7	neutral	neutral	neutral	contradiction	3.7	4.0	3.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+9933_ni_c	ni	c	その人に白い氷の上が立っていない	女性がジャガイモの皮をむいている	その人は白い氷の上に立っていない	neutral	1	neutral	neutral	neutral	neutral	1.0	1.0	1.0	1.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+8390_ni_o	ni	o	男性が遠方を見つめていて、後ろに人々があるビルの間を歩いている	ある人が遠方を見つめていて、人々が後ろにあるビルの間を歩いている	男性が遠方を見つめていて、人々が後ろにあるビルの間を歩いている	entailment	4	entailment	entailment	neutral	entailment	4.3	4.0	4.0	5.0		文Aが不自然	
+6652_ni_d	ni	d	白いドレスを着た女性と青いドレスを着た女性ステージのそば立っている	白いドレスを着た女性と青いドレスを着た女性がステージに立っている	白いドレスを着た女性と青いドレスを着た女性がステージのそばに立っている	neutral	3.3	neutral	neutral	neutral	entailment	4.0	4.0	3.0	5.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+5332_ni_d	ni	d	男性プール潜っている	男性がプールから跳び出している	男性がプールに潜っている	neutral	2.7	contradiction	contradiction	neutral	contradiction	3.0	3.0	2.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+3328_wo_d	wo	d	女性ハーブ薄切りにしている	女性がハーブを薄切りにしている	女性はハーブを薄切りにしている	entailment	5	entailment	entailment	neutral	entailment	4.3	4.0	4.0	5.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+2301_de_o	de	o	湖で女性がウェイクボーディングをしている	女性が湖を見ている	女性が湖でウェイクボーディングをしている	neutral	3	neutral	neutral	neutral	neutral	2.3	3.0	2.0	2.0		文Aが不自然	
+9568_ni_d	ni	d	高齢の女性ベンチ座っていて、灰色のジャケットと黒いズボンを着ている	女性はベンチに座っていて、灰色のジャケットと黒いズボンを着ている	高齢の女性がベンチに座っていて、灰色のジャケットと黒いズボンを着ている	entailment	3.7	entailment	entailment	neutral	entailment	4.7	4.0	5.0	5.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+4493_ni_o	ni	o	髪に女の子がブラシをかけている	男の子が髪を整えている	女の子が髪にブラシをかけている	neutral	2	neutral	neutral	neutral	neutral	3.3	3.0	3.0	4.0			
+8526_wo_d	wo	d	金色と紫色の服を着た女の子レインボーアフガンつかんでいる	金色と紫色の服を着た男性がレインボーアフガンをつかんでいる	金色と紫色の服を着た女の子がレインボーアフガンをつかんでいる	neutral	3.7	neutral	neutral	neutral	neutral	3.7	4.0	3.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+4180_wo_d	wo	d	女性ナス薄切りにしている	女性が野菜を切っている	女性がナスを薄切りにしている	entailment	3	entailment	entailment	neutral	entailment	3.7	3.0	4.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+9124_wo_c	wo	c	インドの服を着て手にヘンナを着けている男性を書類作成がしている	インドの服を着て手にヘンナを着けている女の子が書類作成をしている	インドの服を着て手にヘンナを着けている男性が書類作成をしている	neutral	3.7	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+9852_ni_c	ni	c	怖がっている小さな男の子にクライミングウォールの上がいる	男性は鳥かごの隣に座っている	怖がっている小さな男の子がクライミングウォールの上にいる	neutral	1	neutral	neutral	neutral	neutral	1.0	1.0	1.0	1.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+1926_ni_o	ni	o	フライパンに女性はオイルを注ぎ込んでいない	女性はフライパンにオイルを注ぎ込んでいる	女性はフライパンにオイルを注ぎ込んでいない	contradiction	4	contradiction	contradiction	contradiction	contradiction	3.7	3.0	4.0	4.0			
+8962_de_c	de	c	五人の年を取った大人のグループで屋内がダラダラ過ごしている	少人数のグループの人々が立っていて、二人がカウチに座っている	五人の年を取った大人のグループが屋内でダラダラ過ごしている	neutral	2.3	neutral	neutral	neutral	neutral	1.7	3.0	1.0	1.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+6803_de_o	de	o	フィールドの端の近くで紫、白、黒の服を着た選手はプレイをしている	黒人の選手は白人の選手に紫色のフィールドの端の近くでプレイをさせている	紫、白、黒の服を着た選手はフィールドの端の近くでプレイをしている	neutral	3	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0			文Aが不自然
+7231_de_c	de	c	緑色のシャツを着ていない人で緑の草地の上が高くジャンプしている	幼い男の子が両膝を曲げ両腕を広げて空中にジャンプしている	緑色のシャツを着ていない人が緑の草地の上で高くジャンプしている	neutral	2	neutral	neutral	neutral	neutral	2.0	2.0	2.0	2.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+8557_wo_c	wo	c	茶色の犬を乾いた草地で横たわっている黒い犬が見つけている	灰色の毛の柔らかな犬が草地で走っていて、茶色の犬が見つめている	茶色の犬は乾いた草地で横たわっている黒い犬を見つけている	neutral	2.3	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0			文Aが不自然
+8807_de_c	de	c	犬で水域の中が泳いでいない	犬が水域の中で泳いでいる	犬が水域の中で泳いでいない	contradiction	4	neutral	neutral	neutral	contradiction	2.7	3.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+3160_wo_o	wo	o	箱の上のテープを男性は切っている	男性は切られた箱にテープを貼っている	男性は箱の上のテープを切っている	neutral	2.5	neutral	neutral	neutral	contradiction	2.7	3.0	2.0	3.0			
+199_ni_c	ni	c	誰かに黒と白のオートバイが乗り、シートの上で立ち上がっている	オートバイ乗りが白いオートバイのシートの上で立ち上がっている	誰かが黒と白のオートバイに乗り、シートの上で立ち上がっている	neutral	3.3	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+8260_de_o	de	o	海の近くの遊歩道で高齢の男性と女性がバイクに乗っている	中年の男性と女性が馬に乗って水域のそばの道路を走っている	高齢の男性と女性が海の近くの遊歩道でバイクに乗っている	neutral	2	neutral	neutral	neutral	neutral	2.0	2.0	1.0	3.0			
+7366_ni_o	ni	o	山の頂上にある人が立っている	誰かが山の頂上に立っている	ある人が山の頂上に立っている	entailment	5	entailment	entailment	entailment	entailment	4.3	4.0	4.0	5.0			
+694_ni_o	ni	o	裏の庭に毛のふわふわした黒い犬がいて、パスケットを口にくわえて運んでいる	裏庭にいる犬が、黒い毛皮を口にくわえたバスケットの中に入れて運んでいる	毛のふわふわした黒い犬が裏の庭にいて、パスケットを口にくわえて運んでいる	neutral	2.5	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0			
+2101_ni_d	ni	d	綱男性上られている	ロープが男性によじ登られている	綱が男性に上られている	entailment	4	entailment	entailment	neutral	entailment	4.0	4.0	3.0	5.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+1666_ni_o	ni	o	穏やかな水面にボートの帆が映っている	ボートが水の上を穏やかに進んでいる	ボートの帆が穏やかな水面に映っている	neutral	3	neutral	neutral	neutral	neutral	3.3	4.0	2.0	4.0		文Aが不自然	
+7570_wo_c	wo	c	バイクに乗っている人を空中が跳んでいて、太陽がバイクのフレームを通して美しく揺らめいている	その人は自転車に乗って空中を飛んでいる	バイクに乗っている人が空中を跳んでいて、太陽がバイクのフレームを通して美しく揺らめいている	neutral	3	neutral	neutral	neutral	neutral	2.0	3.0	1.0	2.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+8260_de_d	de	d	高齢の男性と女性海の近くの遊歩道バイクに乗っている	中年の男性と女性が馬に乗って水域のそばの道路を走っている	高齢の男性と女性が海の近くの遊歩道でバイクに乗っている	neutral	2	neutral	neutral	neutral	neutral	2.3	3.0	1.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+128_ni_c	ni	c	五人の子供たちに木造小屋の前が立っている	五人の子供たちが寄り添って立っていて、一人の子供が銃を持っている	五人の子供たちが木造小屋の前に立っている	neutral	2	neutral	neutral	neutral	neutral	1.7	2.0	1.0	2.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+2611_ni_c	ni	c	猿にブルドッグがブラシをかけている	その犬にブラシをかけている猿は一匹もいない	猿はブルドッグにブラシをかけている	neutral	3	neutral	neutral	neutral	contradiction	2.7	2.0	2.0	4.0			
+9486_de_o	de	o	茶色の草の野原で四匹の茶色の犬の群れが遊んでいる	茶色の草の野原で遊んでいる犬は一匹もいない	四匹の茶色の犬の群れが茶色の草の野原で遊んでいる	contradiction	3.7	contradiction	contradiction	contradiction	contradiction	3.3	3.0	3.0	4.0		文Aが不自然	
+8840_de_c	de	c	小さな白い犬で芝生が走っている	小さな白い犬が芝生を走り抜けている	小さな白い犬が芝生で走っている	entailment	4	neutral	neutral	neutral	neutral	3.3	4.0	2.0	4.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+519_ni_d	ni	d	シルバーのバンツ、ピンク色のベルボトム、そしてピンク色のスカーフを身に着けている女性自転車乗っていない	シルバーのバンツ、ピンク色のベルボトム、そしてピンク色のスカーフを身に着けている女性は自転車に乗っている	シルバーのバンツ、ピンク色のベルボトム、そしてピンク色のスカーフを身に着けている女性は自転車に乗っていない	contradiction	3.3	contradiction	contradiction	neutral	contradiction	4.0	4.0	4.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+4894_wo_d	wo	d	男性運動している	懸垂をしている男性は一人もいない	男性は運動をしている	neutral	2.7	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+69_de_d	de	d	二人の子供たち雪の中寝そべってスノーエンジェルを作っている	雪の中で寝そべってスノーエンジェルを作っているスノースーツを着た人は一人もいない	二人の子供たちが雪の中で寝そべってスノーエンジェルを作っている	neutral	2.7	neutral	neutral	neutral	contradiction	3.0	4.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+1490_wo_d	wo	d	男性チキン用のソースかき混ぜている	オイルが男性にかき混ぜられている	男性はチキン用のソースをかき混ぜている	neutral	3	neutral	neutral	neutral	neutral	3.3	4.0	2.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+459_ni_o	ni	o	木の大枝のそばに三人の人々が立っている	二人の子供が大きな枝にぶら下がっている	三人の人々が木の大枝のそばに立っている	neutral	2	neutral	neutral	neutral	neutral	2.3	3.0	2.0	2.0		文Aが不自然	
+8204_wo_o	wo	o	下を白いベールを着けた花嫁が見ている	男の子が下を見ていて、ウェディングベールを着けている	白いベールを着けた花嫁が下を見ている	neutral	3	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0			
+6493_ni_c	ni	c	女性がスノーボードで斜面を滑り降りていて、別の女性に彼女の後ろが立っている	ブロンドの男の子がスケートボードを持って砂丘を歩いて上がっている	女性がスノーボードで斜面を滑り降りていて、別の女性が彼女の後ろに立っている	neutral	2	neutral	neutral	neutral	neutral	1.7	2.0	2.0	1.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+6413_de_c	de	c	黒人男性で歩道がブレイクダンスを踊っている	黄色いヤシの木がビルの前にあり、一人の浅黒い肌の男性がその隣に立っている	黒人男性が歩道でブレイクダンスを踊っている	neutral	1.3	neutral	neutral	neutral	neutral	1.0	1.0	1.0	1.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+642_de_o	de	o	ピンク色のロープである人が岩を登っている	岩が、ある人にピンク色のロープで登られている	ある人がピンク色のロープで岩を登っている	entailment	4	entailment	entailment	entailment	entailment	4.7	4.0	5.0	5.0		文Aが不自然	
+6441_ni_d	ni	d	カップルテラス座っていて、海を見つめている	二人の大人が椅子に座っていて、海を見ている	カップルがテラスに座っていて、海を見つめている	neutral	3.7	neutral	neutral	neutral	neutral	3.7	4.0	4.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+63_de_c	de	c	二人の子供たちで雪の中が寝そべってエンジェルを描いている	二人の子供たちが雪の中で寝そべってスノーエンジェルを作っている	二人の子供たちが雪の中で寝そべってエンジェルを描いている	neutral	4	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+3354_de_c	de	c	ある人でキーボードがタイプしている	ある人がタイプしている	ある人がキーボードでタイプしている	entailment	3.5	neutral	entailment	neutral	neutral	3.7	3.0	4.0	4.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+743_wo_o	wo	o	通路を結婚したばかりのカップルが歩いている	花嫁と花婿がウェディングの後で出発している	結婚したばかりのカップルが通路を歩いている	neutral	2	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0			
+700_ni_o	ni	o	裏の庭に毛のふわふわした黒い犬がいて、パスケットを口にくわえて運んでいる	バケツの中にいる犬が、たぶん松である木に噛みついている	毛のふわふわした黒い犬が裏の庭にいて、パスケットを口にくわえて運んでいる	neutral	1.5	neutral	neutral	neutral	neutral	1.3	2.0	1.0	1.0			
+488_de_o	de	o	赤いボールで二匹のダックスフントが遊んでいる	二匹の茶色の犬が赤いおもちゃを奪い合って草原で遊んでいる	二匹のダックスフントが赤いボールで遊んでいる	neutral	2.3	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0			
+9852_ni_d	ni	d	怖がっている小さな男の子クライミングウォールの上いる	男性は鳥かごの隣に座っている	怖がっている小さな男の子がクライミングウォールの上にいる	neutral	1	neutral	neutral	neutral	neutral	1.0	1.0	1.0	1.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+9742_wo_o	wo	o	カメラを二人の幼い女の子が見上げていて、舌を一人が突き出している	二人の幼い男の子がカメラを見上げていて、一人が舌を突き出している	二人の幼い女の子がカメラを見上げていて、一人が舌を突き出している	neutral	3.3	neutral	neutral	neutral	contradiction	3.3	4.0	2.0	4.0			
+8821_wo_o	wo	o	公園を二匹の犬がすばやく走り抜けている	二匹の犬がその公園を走り抜けている	二匹の犬が公園をすばやく走り抜けている	neutral	4.3	entailment	entailment	neutral	entailment	4.3	4.0	4.0	5.0			
+5240_ni_c	ni	c	女性に熱い湯の入った鍋が食べ物を入れている	女性が冷たい水の入った鍋に食べ物を入れている	女性が熱い湯の入った鍋に食べ物を入れている	contradiction	3.3	neutral	neutral	neutral	contradiction	2.7	4.0	2.0	2.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+3034_de_d	de	d	その犬プラスチックの容器遊んでいない	その犬はプラスチックの容器で遊んでいる	その犬はプラスチックの容器で遊んでいない	contradiction	4	contradiction	contradiction	neutral	contradiction	3.7	4.0	3.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+2771_wo_d	wo	d	ある人オリーブオイルストーブの上の鍋に注ぎ込んでいる	ある人がオリーブオイルを鍋からストーブに注ぎ込んでいる	ある人がオリーブオイルをストーブの上の鍋に注ぎ込んでいる	neutral	2	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+3601_wo_c	wo	c	男性を床運動がしている	ある人が運動をしている	男性は床運動をしている	entailment	3	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+157_wo_o	wo	o	フェンスを鹿が跳び越えている	鹿がフェンスを跳んでいる	鹿がフェンスを跳び越えている	entailment	4	entailment	entailment	entailment	neutral	4.0	5.0	4.0	3.0			文Aが不自然
+9812_de_c	de	c	小さな男性でミリタリーアクセサリーの店が座っている	その人はタマネギを薄切りにしている	小さな男性がミリタリーアクセサリーの店で座っている	neutral	1	neutral	neutral	neutral	neutral	1.0	1.0	1.0	1.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+1234_de_o	de	o	雨の中で女性がダンスをして歌っている	雨の中でダンスをして歌っている女性は一人もいない	女性が雨の中でダンスをして歌っている	contradiction	3.5	contradiction	contradiction	contradiction	contradiction	4.0	4.0	4.0	4.0			
+6013_ni_o	ni	o	少女は標識を運んでいて、彼女の後にあるグループの人々が続いている	青いシャツを着た幼い女の子が歩道を歩きながらピンク色の標識を掲げている	少女は標識を運んでいて、あるグループの人々が彼女の後に続いている	neutral	2	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0			
+1199_de_d	de	d	男性演壇の上話している	男性が群衆の前にあるステージの上で酔っぱらっている	男性が演壇の上で話している	neutral	2.5	neutral	neutral	neutral	neutral	2.3	3.0	2.0	2.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+7102_ni_o	ni	o	赤と黄色のおもちゃの自動車の中に子供が座っている	子供が赤と黄色で着色されたおもちゃの自動車の中に座っている	子供が赤と黄色のおもちゃの自動車の中に座っている	entailment	5	entailment	entailment	neutral	entailment	3.7	4.0	2.0	5.0			
+4873_ni_c	ni	c	ニンジンに女性が薄切りにされている	女性がジャガイモを切っている	ニンジンが女性に薄切りにされている	neutral	3	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+1508_wo_o	wo	o	組手を空手着を着た三人の男の子がしている	三人の男性が野原で空手の練習をしている	空手着を着た三人の男の子が組手をしている	neutral	2.5	neutral	neutral	neutral	neutral	3.0	3.0	2.0	4.0			
+418_ni_o	ni	o	雪の積もった道路のわきに自転車を伴った二人の男性がいる	二人の男性が雪で覆われた道路を歩くのを休んでいる	自転車を伴った二人の男性が雪の積もった道路のわきにいる	neutral	2.3	neutral	neutral	neutral	neutral	3.0	3.0	2.0	4.0			
+1748_wo_d	wo	d	男性電子レンジのボタン押している	一人の男性が電子レンジの電源を入れている	男性が電子レンジのボタンを押している	neutral	3	neutral	neutral	neutral	neutral	3.7	4.0	3.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+6846_ni_o	ni	o	父親に娘が押されてゴーカートに乗っていて、別の女の子が見ている	二人の幼少の子供が街路でおもちゃの自動車で遊んでいる	娘が父親に押されてゴーカートに乗っていて、別の女の子が見ている	neutral	2	neutral	neutral	neutral	neutral	2.3	3.0	2.0	2.0			
+6806_de_c	de	c	紫、白、黒の服を着た選手でフィールドの端の近くがプレイをしている	スポーツのユニフォームがフィールドを走り下りている男性に着られている	紫、白、黒の服を着た選手はフィールドの端の近くでプレイをしている	neutral	1.7	neutral	neutral	neutral	neutral	2.3	3.0	2.0	2.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+7152_de_o	de	o	木製のフェンスの近くで草で覆われた幼い男の子がジャンプしている	濡れた男の子が、汚れて濡れている草の上で跳び回っている	草で覆われた幼い男の子が木製のフェンスの近くでジャンプしている	neutral	2.3	neutral	neutral	neutral	neutral	2.3	2.0	2.0	3.0			
+2490_wo_o	wo	o	ダンスを男性がしている	男性がしゃべっている	男性がダンスをしている	neutral	2.5	neutral	neutral	neutral	contradiction	2.0	2.0	2.0	2.0			
+5144_wo_o	wo	o	水遊びを男性がしている	男性が手品をしている	男性が水遊びをしている	neutral	1.7	neutral	neutral	neutral	contradiction	2.0	2.0	2.0	2.0			
+2897_wo_o	wo	o	重いものを男性は上げている	男性はバーベルを下げている	男性は重いものを上げている	neutral	2.5	neutral	neutral	neutral	contradiction	2.7	3.0	2.0	3.0			
+4264_ni_o	ni	o	その馬に男性は乗っている	女の子はそれらの植物に水を吹きかけている	男性はその馬に乗っている	neutral	1	neutral	neutral	neutral	neutral	1.0	1.0	1.0	1.0			
+1422_ni_c	ni	c	女性に手がブラシをかけている	女性が足にブラシをかけている	女性が手にブラシをかけている	contradiction	4	neutral	neutral	neutral	contradiction	3.0	3.0	2.0	4.0		文Aが不自然	
+5913_wo_c	wo	c	女性を材料がボウルに注ぎ込んでいる	女性はそのオイルに味付けをしている	女性が材料をボウルに注ぎ込んでいる	neutral	1.7	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+191_de_d	de	d	オートバイ乗り白いオートバイのシートの上立ち上がっている	オートバイ乗りがオートバイを走らせながらシートの上で立ち上がっている	オートバイ乗りが白いオートバイのシートの上で立ち上がっている	neutral	3.3	neutral	neutral	neutral	neutral	2.7	4.0	2.0	2.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+9168_de_d	de	d	小型の茶色と白の犬歩道走っている	小さな茶色と白の犬が歩道で走っている	小型の茶色と白の犬が歩道で走っている	entailment	5	entailment	entailment	neutral	entailment	4.3	4.0	4.0	5.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+6653_de_o	de	o	ステージで白人の女性が青い服を着ている女性の上に立っている	白いドレスを着た女性と青いドレスを着た女性がステージに立っている	白人の女性がステージで青い服を着ている女性の上に立っている	neutral	3.3	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0			
+9256_wo_c	wo	c	男性をきれいなビニールの縁なし帽とマスクが身に着けている	男性がきれいなビニールの縁なし帽とフェイスマスクを身に着けている	男性がきれいなビニールの縁なし帽とマスクを身に着けている	neutral	3.7	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+5290_de_o	de	o	ぬいぐるみのウサちゃんでウサちゃんが遊んでいる	ウサギがおもちゃのウサギで遊んでいる	ウサちゃんがぬいぐるみのウサちゃんで遊んでいる	neutral	3.7	neutral	neutral	neutral	entailment	4.0	4.0	4.0	4.0	文Ａの遊んでいる「ウサちゃん」がウサギとは限らないため中立を選択。		
+5827_wo_c	wo	c	男性をギターが弾いている	男性がギターを弾いていない	男性がギターを弾いている	contradiction	4	neutral	contradiction	neutral	neutral	4.0	4.0	4.0	4.0		文Aが不自然	文Aが不自然
+8863_wo_d	wo	d	子供コート着ておらず、緑色と黒のコートを着た子供の後ろで赤いそりを運んでいる	緑色のコートを着た小さな女の子と赤いそりを抱えている男の子が雪の中を歩いている	子供がコートを着ておらず、緑色と黒のコートを着た子供の後ろで赤いそりを運んでいる	neutral	3	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+670_de_c	de	c	一人の男性で空中が自転車の芸をしている	サイクリストが恐れることなく空中で芸をしている	一人の男性が空中で自転車の芸をしている	neutral	3	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+8575_wo_c	wo	c	黒い猫と小さな白と黒の猫をキッチンの調理台が見上げている	大きな犬と小さな犬が調理台の隣に立っていて、探っている	黒い猫と小さな白と黒の猫がキッチンの調理台を見上げている	neutral	2.7	neutral	neutral	neutral	neutral	2.3	2.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	
+5368_ni_o	ni	o	スクーターに男性が乗っていない	男性がフルートを吹いている	男性がスクーターに乗っていない	neutral	1	neutral	neutral	neutral	neutral	1.0	1.0	1.0	1.0			
+5652_de_c	de	c	ある人でテーブルが食事をしている	ある人がテーブルで食事をしていない	ある人がテーブルで食事をしている	contradiction	4	neutral	neutral	neutral	neutral	3.3	4.0	3.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+2237_wo_c	wo	c	その男の子を一人の男の子が水の中に叩き込んでいる	男の子がその犬に水の中に叩き込まれている	その男の子は一人の男の子を水の中に叩き込んでいる	neutral	3.5	neutral	neutral	neutral	contradiction	3.0	3.0	2.0	4.0			
+4533_ni_o	ni	o	馬に男性が乗っている	自動車を運転している男性は一人もいない	男性が馬に乗っている	neutral	2	neutral	neutral	neutral	neutral	1.7	2.0	1.0	2.0			
+7463_de_c	de	c	ある人で水中のサーブボードの上が芸を行っている	サーファーがその波に乗っている	ある人が水中のサーブボードの上で芸を行っている	neutral	3	neutral	neutral	neutral	neutral	2.0	2.0	2.0	2.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+1060_wo_c	wo	c	オートバイ乗りを砂地の走路の上にいる人が飛び越えている	その人は砂地の走路でオートバイに乗っている	オートバイ乗りが砂地の走路の上にいる人を飛び越えている	neutral	3.5	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0		文Aが不自然	文Aが不自然
+6437_ni_d	ni	d	二人の大人椅子座っていて、海を見ている	何人かの大人が椅子に座っていて、海を見ている	二人の大人が椅子に座っていて、海を見ている	entailment	4.3	entailment	entailment	neutral	entailment	4.0	4.0	4.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+1331_wo_o	wo	o	別の女性の足首をその若い婦人は測定している	その婦人は別の女性の足首を測定している	その若い婦人は別の女性の足首を測定している	entailment	4.5	entailment	entailment	neutral	entailment	4.3	4.0	4.0	5.0			
+7080_wo_o	wo	o	顔を赤い首輪を着けた黒い犬が水の中に入れている	黒い犬が深い水の中で立っている	赤い首輪を着けた黒い犬が顔を水の中に入れている	neutral	2.3	neutral	neutral	neutral	neutral	2.3	3.0	2.0	2.0	文Ａの語順が不自然。	文Aが不自然	文Aが不自然
+2929_wo_c	wo	c	女性をニンジンが切っていない	女性はニンジンを切っている	女性はニンジンを切っていない	contradiction	4	neutral	neutral	neutral	contradiction	3.3	4.0	2.0	4.0	文Ａの助詞が不自然。	文Aが不自然	
+7011_ni_c	ni	c	白い犬に落ち葉の上が立っている	地面にある落ち葉の上に立っている白い犬は一匹もいない	白い犬が落ち葉の上に立っている	neutral	3	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+1058_de_o	de	o	砂地の走路でその人はオートバイに乗っている	その人は砂地の上の走路でオートバイに乗っている	その人は砂地の走路でオートバイに乗っている	entailment	5	neutral	contradiction	neutral	entailment	4.3	4.0	4.0	5.0			
+2733_wo_d	wo	d	男性アコースティックギター弾いている	男性がアコースティックのギターを弾いている	男性がアコースティックギターを弾いている	entailment	5	entailment	entailment	neutral	entailment	4.7	5.0	4.0	5.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+1351_ni_o	ni	o	あおむけにかわいい子犬がなって繰り返し左右に転がっている	子犬があおむけになって繰り返し左右に転がっている	かわいい子犬があおむけになって繰り返し左右に転がっている	entailment	4.5	entailment	entailment	entailment	entailment	4.3	4.0	4.0	5.0	文Ａの語順が不自然。		
+6704_ni_d	ni	d	そのグループの人々遺跡の外側の地面の上座っている	あるグループの人々が赤い石碑の両側に座っている	そのグループの人々は遺跡の外側の地面の上に座っている	neutral	2.7	neutral	neutral	neutral	neutral	2.3	4.0	2.0	1.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+3613_ni_d	ni	d	猿バイク乗っている	男性がその自転車を止めている	猿がバイクに乗っている	neutral	2	neutral	neutral	neutral	neutral	1.7	1.0	1.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+7095_ni_c	ni	c	一人の東洋人の男性と二人の女性にカメラの前がいる	一人の東洋人の男性と二人の女性がカメラの方を向いている	一人の東洋人の男性と二人の女性がカメラの前にいる	neutral	4	neutral	neutral	neutral	entailment	3.3	4.0	2.0	4.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+8638_wo_c	wo	c	男性をロッククライミングがしておらず、都市と港がその背後にある	男性がロッククライミングをしていて、小休止していて、ルートを計算している	男性がロッククライミングをしておらず、都市と港がその背後にある	neutral	2	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａの助詞が不自然。		文Aが不自然
+6465_de_o	de	o	海岸で二人の男性がオレンジ色のいかだに乗っている	救助ボートはオレンジ色で、水の上を突進している	二人の男性が海岸でオレンジ色のいかだに乗っている	neutral	2	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0		文Aが不自然	
+9048_de_d	de	d	大きな白い犬雪の中跳び上がっている	大きな白い犬が雪の多いエリアの上の空中にジャンプしている	大きな白い犬が雪の中で跳び上がっている	entailment	4.3	entailment	entailment	neutral	entailment	3.3	3.0	3.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+5312_wo_o	wo	o	管楽器を女の子が吹いている	男の子が管楽器を吹いている	女の子が管楽器を吹いている	neutral	3.7	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0			
+7324_wo_d	wo	d	三人の男性遠方の大きな緑の丘見つめている	何人かの男性が遠方の大きな緑の丘を見つめている	三人の男性が遠方の大きな緑の丘を見つめている	entailment	5	neutral	entailment	neutral	neutral	3.7	4.0	4.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+6794_de_d	de	d	二人の子供金属製のいくつかのバーの下しゃがんでいる	二人の子供がいくつかの金属のバーの下でしゃがんでいる	二人の子供が金属製のいくつかのバーの下でしゃがんでいる	entailment	5	entailment	entailment	neutral	entailment	4.7	5.0	4.0	5.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+5912_ni_o	ni	o	そのオイルに女性は味付けをしている	材料をボウルに注ぎ込んでいる女性は一人もいない	女性はそのオイルに味付けをしている	neutral	1	neutral	neutral	neutral	contradiction	2.3	3.0	1.0	3.0			
+2985_de_d	de	d	様々なチームフィールドフットボールをしている	二つのチームがサッカーをしている	様々なチームがフィールドでフットボールをしている	neutral	3	neutral	neutral	neutral	contradiction	2.7	4.0	2.0	2.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+1449_wo_d	wo	d	男性パン生地ひとかたまりにしている	男性がパン生地を広げている	男性がパン生地をひとかたまりにしている	contradiction	3	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+9149_wo_d	wo	d	男の子黒いドレス着ていて、白い十字架を運んでいる	婦人が黒いドレスを着ていて、白い十字架を運んでいる	男の子が黒いドレスを着ていて、白い十字架を運んでいる	neutral	3	neutral	neutral	neutral	contradiction	3.3	4.0	2.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+5289_de_c	de	c	ウサギでおもちゃのウサギが遊んでいる	ぬいぐるみのウサちゃんで遊んでいるウサちゃんは一匹もいない	ウサギがおもちゃのウサギで遊んでいる	neutral	2.3	neutral	neutral	neutral	contradiction	3.0	3.0	2.0	4.0	文Ａの助詞が不自然。		
+9824_ni_d	ni	d	スノーボードの練習をしている一人の人空中ジャンプする	ある人が鍋の中の肉を油で炒めている	スノーボードの練習をしている一人の人が空中にジャンプする	neutral	1	neutral	neutral	neutral	contradiction	1.0	1.0	1.0	1.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+2819_wo_o	wo	o	混合物を女性が慎重にボウルに注ぎ込んでいて、それをかき混ぜている	女性が混合物をボウルに注ぎ込んでいて、それをかき混ぜている	女性が混合物を慎重にボウルに注ぎ込んでいて、それをかき混ぜている	entailment	4	entailment	entailment	entailment	entailment	4.7	5.0	4.0	5.0			
+9170_de_o	de	o	歩道で茶色と白の犬がジャンプしている	小型の茶色と白の犬が歩道で走っている	茶色と白の犬が歩道でジャンプしている	neutral	3	neutral	neutral	neutral	neutral	3.3	4.0	2.0	4.0			
+9358_ni_c	ni	c	黒いウェットスーツを着たサーファーに泡立つ波が乗っている	白いウェットスーツを着たサーファーが泡立つ波に乗っている	黒いウェットスーツを着たサーファーが泡立つ波に乗っている	neutral	3	neutral	neutral	neutral	contradiction	3.3	4.0	2.0	4.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+9163_ni_d	ni	d	水着を着た男の子円形の噴水座っている	男の子が噴水の噴出口の隣に立っている	水着を着た男の子が円形の噴水に座っている	neutral	3	neutral	neutral	neutral	neutral	2.3	3.0	2.0	2.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	
+6279_de_c	de	c	黒い犬で草地が走っていて、その舌が垂れ下がっている	黒い犬が草地でうろついていて、舌を出して走っている	黒い犬が草地で走っていて、その舌が垂れ下がっている	entailment	3.7	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+199_ni_o	ni	o	黒と白のオートバイに誰かが乗り、シートの上で立ち上がっている	オートバイ乗りが白いオートバイのシートの上で立ち上がっている	誰かが黒と白のオートバイに乗り、シートの上で立ち上がっている	neutral	3.3	neutral	neutral	neutral	entailment	3.7	4.0	3.0	4.0			
+8592_ni_o	ni	o	アラビア人の男性に白い帽子がかぶられている	白い帽子と茶色のシャツを身に着けた男性が赤い服を着た女性の後ろにいて、左の方を見ている	白い帽子がアラビア人の男性にかぶられている	neutral	2	neutral	neutral	neutral	neutral	2.3	3.0	2.0	2.0			
+2944_ni_o	ni	o	家畜囲いの外に二人の男性がいる	二人の男性が牛の牧草地で喧嘩をしている	二人の男性が家畜囲いの外にいる	neutral	2.5	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0		文Aが不自然	
+5650_wo_d	wo	d	ある人ヤカンの中のチリかき混ぜている	ある人がチリの鍋をスプーンでかき混ぜている	ある人がヤカンの中のチリをかき混ぜている	neutral	3	neutral	neutral	neutral	neutral	2.7	4.0	2.0	2.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+8898_ni_d	ni	d	二人の人オートバイ乗っている	バイク乗りが小道で走行している	二人の人がオートバイに乗っている	neutral	3	neutral	neutral	neutral	neutral	2.3	3.0	2.0	2.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+5190_wo_o	wo	o	卵を女性がフライパンに注ぎ込んでいる	男性が二匹の猫を撫でている	女性が卵をフライパンに注ぎ込んでいる	neutral	1	neutral	neutral	neutral	neutral	1.0	1.0	1.0	1.0			
+270_ni_c	ni	c	カウボーイに馬が乗って樽のところで曲がっている	栗毛の馬はロデオ競技の赤い樽の近くにいる	カウボーイが馬に乗って樽のところで曲がっている	neutral	2.3	neutral	neutral	neutral	neutral	2.0	3.0	2.0	1.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+195_ni_c	ni	c	ライダーに黒と白のバイクが乗り、シートの上で立ち上がっている	オートバイ乗りが白いオートバイのシートの上で立ち上がっている	ライダーが黒と白のバイクに乗り、シートの上で立ち上がっている	neutral	3.3	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+444_ni_o	ni	o	波にブロンドの女の子が乗っている	ブロンドの女の子が波に乗りながら手を振っている	ブロンドの女の子が波に乗っている	neutral	3.7	neutral	neutral	neutral	neutral	3.3	4.0	2.0	4.0			
+8522_de_o	de	o	道路のそばの緑の野原で五人の人が三匹の犬と一緒に立っている	五人の人が三匹の犬と一緒に草地に立っている	五人の人が道路のそばの緑の野原で三匹の犬と一緒に立っている	entailment	3.7	entailment	entailment	neutral	entailment	3.7	3.0	4.0	4.0			
+8088_de_c	de	c	黒と白の犬で茶色の野原で破損したバレーボールが遊んでいる	黒と白の犬が茶色の野原で破れたバレーボールで遊んでいる	黒と白の犬が茶色の野原で破損したバレーボールで遊んでいる	entailment	4.3	neutral	neutral	neutral	neutral	3.7	4.0	4.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+8723_ni_d	ni	d	あるグループの人々サウンドミキシングテーブルの周り立っている	あるグループの人々がサウンドミキシングコンソールの周りに立っている	あるグループの人々がサウンドミキシングテーブルの周りに立っている	neutral	4.3	entailment	entailment	neutral	entailment	4.3	4.0	4.0	5.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+152_wo_c	wo	c	鹿をフェンスが跳んでいる	フェンスを跳んでいる鹿は一匹もいない	鹿がフェンスを跳んでいる	contradiction	3.7	neutral	neutral	neutral	neutral	2.3	3.0	2.0	2.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+875_de_d	de	d	多くの人アイスパークスケートをしている	戸外にあるアイススケートリンクが人々でいっぱいになっている	多くの人がアイスパークでスケートをしている	neutral	3	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+2511_de_c	de	c	女性でケージの中がダンスをしている	婦人はダンスをしている	女性がケージの中でダンスをしている	neutral	3.5	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+6151_ni_o	ni	o	海の中に二人の人が立っていて、夕暮れをじっと見ている	二人の人が水の中を歩いて渡っている	二人の人が海の中に立っていて、夕暮れをじっと見ている	neutral	2.3	neutral	neutral	neutral	neutral	2.3	3.0	2.0	2.0		文Aが不自然	
+8533_de_o	de	o	草地で淡褐色の犬が走っている	淡褐色の犬が水の中で走っている	淡褐色の犬が草地で走っている	neutral	3	neutral	neutral	neutral	contradiction	3.0	4.0	2.0	3.0			
+6677_de_o	de	o	クラスの最前列で制服を着た学生のグループが注意深く聴いている	教室いっぱいの学生たちがバンブー構造の内部の同じ方向を見ている	制服を着た学生のグループがクラスの最前列で注意深く聴いている	neutral	1.7	neutral	neutral	neutral	neutral	2.3	3.0	2.0	2.0			
+9084_wo_d	wo	d	黒と茶色の犬ハエじっと見ている	茶色と黒の犬が鼻を上に向けている	黒と茶色の犬がハエをじっと見ている	neutral	2.7	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+2576_wo_c	wo	c	男性をフルートが吹いている	男性はフルートを吹いていない	男性はフルートを吹いている	contradiction	4	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+4493_ni_d	ni	d	女の子髪ブラシをかけている	男の子が髪を整えている	女の子が髪にブラシをかけている	neutral	2	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+8534_de_c	de	c	黄褐色の犬で池の岸の水の中が飛沫を上げている	黄褐色の犬が池の岸の水の中で遊んでいる	黄褐色の犬が池の岸の水の中で飛沫を上げている	neutral	3.7	neutral	neutral	neutral	neutral	3.3	4.0	2.0	4.0	文Ａの助詞が不自然。	文Aが不自然	
+6601_ni_c	ni	c	小さい蜂に一房の黄色の花の上が降りている	蜂が黄色の花にしがみついている	小さい蜂が一房の黄色の花の上に降りている	neutral	3	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+6972_de_o	de	o	ダートバイクのレースで赤いユニフォームを着た男性がジャンプをしている	赤いユニフォームを着た男性が競争をしていて、泥の中のバイクの上をジャンプしている	赤いユニフォームを着た男性がダートバイクのレースでジャンプをしている	neutral	3.7	neutral	neutral	neutral	neutral	3.7	4.0	3.0	4.0			
+6276_wo_d	wo	d	金色の毛並みをした犬水の中泳いでいる	犬が湖で泳いでいて、太陽がそれに照りつけている	金色の毛並みをした犬が水の中を泳いでいる	neutral	3.3	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+2558_wo_d	wo	d	ある人ギター片付けている	ある人がギターを弾いている	ある人がギターを片付けている	neutral	2.5	neutral	neutral	neutral	contradiction	3.0	4.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+2211_de_d	de	d	二人の子供スイミングプールの中緑色のワニの浮き袋で遊んでいる	二人の子供がプールの中の空気注入式のワニを押している	二人の子供がスイミングプールの中で緑色のワニの浮き袋で遊んでいる	neutral	2.5	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+1743_wo_o	wo	o	電子レンジのボタンを男性が押している	電子レンジのボタンは男性に押されている	男性が電子レンジのボタンを押している	entailment	5	entailment	entailment	entailment	entailment	5.0	5.0	5.0	5.0			
+6734_ni_d	ni	d	三人の人何本かのヤシの木の下にあるベンチ座っている	数人の人が何本かのヤシの木の下にあるベンチに座っている	三人の人が何本かのヤシの木の下にあるベンチに座っている	entailment	4.3	entailment	entailment	neutral	entailment	4.0	4.0	4.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+9794_ni_d	ni	d	猿その犬ブラシをかけている	一人の男性が岩壁から跳び下りていて、別の男性がロープを落としている	猿がその犬にブラシをかけている	neutral	1	neutral	neutral	neutral	neutral	1.0	1.0	1.0	1.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+6312_de_o	de	o	公園で女性は二人の幼い男の子と遊んでいる	女性が三人の子供の近くに立っている	女性は公園で二人の幼い男の子と遊んでいる	neutral	2.3	neutral	neutral	neutral	contradiction	2.3	2.0	2.0	3.0			
+3390_ni_d	ni	d	いくらかの竹ジャイアントパンダ食べられている	パンダは竹を食べている	いくらかの竹がジャイアントパンダに食べられている	neutral	4	entailment	entailment	neutral	entailment	3.7	3.0	4.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+2780_de_d	de	d	女性街路その犬を散歩させている	女性は街路でその犬を散歩させている	女性が街路でその犬を散歩させている	entailment	5	entailment	entailment	neutral	entailment	4.0	4.0	4.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+3175_wo_d	wo	d	幼い男の子管楽器演奏している	子供が楽器を演奏している	幼い男の子が管楽器を演奏している	entailment	3.5	entailment	entailment	neutral	entailment	4.0	4.0	4.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+1760_ni_c	ni	c	フルートに女の子が吹かれている	フルートを吹いている女性は一人もいない	フルートが女の子に吹かれている	contradiction	3.5	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+6839_de_c	de	c	子供たちで砂浜がお互いを追いかけていない	小さな男の子が地面の上を走っていて、小さな女の子と遊んでいる	子供たちは砂浜でお互いを追いかけていない	neutral	2	neutral	neutral	neutral	neutral	2.0	3.0	2.0	1.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+5581_wo_c	wo	c	犬をテニスボールの後が追って泳いでいる	犬がボールの後を追って泳いでいる	犬がテニスボールの後を追って泳いでいる	entailment	4.3	neutral	neutral	neutral	contradiction	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+8542_wo_d	wo	d	子供小さな青いプールの中の水跳ね上げている	子供は大きな赤いプールの中の水を跳ね上げている	子供は小さな青いプールの中の水を跳ね上げている	neutral	3.3	neutral	neutral	neutral	contradiction	3.3	4.0	2.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+8078_de_d	de	d	二人の男の子緑色のマットの上武道をやっている	白い衣服と赤い防具を着た二人の子供がマットの上でスパーリングをしている	二人の男の子が緑色のマットの上で武道をやっている	neutral	2.7	neutral	neutral	neutral	neutral	2.3	3.0	2.0	2.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+8487_de_o	de	o	芝生でシャツを着ていない男性がフットボールをしている	シャツを着ていない男性が野原でフットボールをしている	シャツを着ていない男性が芝生でフットボールをしている	neutral	4	neutral	entailment	neutral	neutral	4.0	4.0	4.0	4.0			
+1286_wo_o	wo	o	ダンスを男性がしている	男性が外を歩いている	男性がダンスをしている	neutral	2.5	neutral	neutral	neutral	contradiction	1.3	2.0	1.0	1.0			文Aが不自然
+2110_ni_c	ni	c	綱に男性が上られている	男性が機械を使ってニンジンを薄切りにしている	綱が男性に上られている	neutral	1.5	neutral	neutral	neutral	neutral	1.0	1.0	1.0	1.0		文Aが不自然	文Aが不自然
+281_de_o	de	o	水の中で男の子が立っている	その男の子は青い海の中を歩いている	男の子が水の中で立っている	neutral	3	neutral	neutral	neutral	neutral	2.7	2.0	2.0	4.0			
+5557_de_d	de	d	男の子おもちゃの電話遊んでいる	男性は銃の絵を描いている	男の子がおもちゃの電話で遊んでいる	neutral	1	neutral	neutral	neutral	neutral	1.0	1.0	1.0	1.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+2325_wo_c	wo	c	一人の人をタマネギが切っている	ある人がタマネギを切っている	一人の人がタマネギを切っている	entailment	4	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+5365_ni_o	ni	o	オートバイに男性が乗っている	男性がスクーターに乗っている	男性がオートバイに乗っている	neutral	4	neutral	neutral	neutral	neutral	3.3	4.0	3.0	3.0			
+7605_de_c	de	c	茶色の犬と灰色の犬で雪の中が遊んでいる	二匹の犬が雪の中で遊んでいる	茶色の犬と灰色の犬が雪の中で遊んでいる	entailment	4	neutral	neutral	neutral	neutral	2.7	4.0	2.0	2.0	文Ａの助詞が不自然。	文Aが不自然	
+4889_de_c	de	c	男性でジムが運動をしている	男性は運動をしている	男性はジムで運動をしている	entailment	4.7	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+4055_de_d	de	d	犬道路走っている	道路で走っている犬は一匹もいない	犬が道路で走っている	contradiction	4	contradiction	contradiction	neutral	contradiction	3.3	3.0	3.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+8808_de_d	de	d	動物水域の中泳いでいる	茶色の犬が湖の中で立っている	動物が水域の中で泳いでいる	neutral	2.3	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+6744_ni_c	ni	c	三人の人に何本かのヤシの木の下にあるベンチが座っている	その人々はレストランの前にあるベンチに座っている	三人の人が何本かのヤシの木の下にあるベンチに座っている	neutral	2.3	neutral	neutral	neutral	neutral	2.0	2.0	2.0	2.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+9865_de_o	de	o	公園で二人の子供がサッカーをしている	クリスマスのトナカイのヘッドバンドを着けていて草地で茶色の犬と遊んでいる白い犬は一匹もいない	二人の子供が公園でサッカーをしている	neutral	1	neutral	neutral	neutral	neutral	1.0	1.0	1.0	1.0			
+4775_wo_d	wo	d	男の子ギター弾いている	ギターが男の子に弾かれている	男の子がギターを弾いている	entailment	5	entailment	entailment	neutral	entailment	4.3	4.0	4.0	5.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+590_de_d	de	d	男の子たちのグループ木製の大きな扉の前ボール遊びをしている	その子供たちは大きな扉の前で遊んでいる	男の子たちのグループが木製の大きな扉の前でボール遊びをしている	neutral	3.7	entailment	entailment	neutral	entailment	3.7	3.0	4.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+3811_wo_c	wo	c	男性をギターが弾いている	帽子をかぶった男性がハープを弾いている	男性がギターを弾いている	neutral	2.5	neutral	neutral	contradiction	neutral	2.0	3.0	2.0	1.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+707_ni_o	ni	o	公園のベンチに二人の大きな人が座っていて、彼らの間にソーダのボトルを置いている	二人の人が心地よさそうにベンチに座っている	二人の大きな人が公園のベンチに座っていて、彼らの間にソーダのボトルを置いている	neutral	2.5	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0			
+1265_de_c	de	c	バンドでステージが演奏している	楽器を弾いているバンドはいない	バンドがステージで演奏している	neutral	3.5	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+3950_de_d	de	d	男性たちリングの中拳での殴り合いをしていない	二人の男性がリングの中で拳での殴り合いをしている	男性たちはリングの中で拳での殴り合いをしていない	contradiction	4	contradiction	contradiction	neutral	contradiction	3.3	3.0	4.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+271_ni_o	ni	o	ロデオ競技の赤い樽の近くに栗毛の馬はいる	カウガールがコーナーにいる馬の近くにある樽に乗っている	栗毛の馬はロデオ競技の赤い樽の近くにいる	neutral	2.3	neutral	neutral	neutral	neutral	2.0	2.0	2.0	2.0			
+3076_wo_c	wo	c	ある人を猫の毛がクシャクシャにしている	ある人が猫にブラシをかけている	ある人が猫の毛をクシャクシャにしている	contradiction	2.5	neutral	neutral	neutral	entailment	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+7655_de_d	de	d	黒い帽子をかぶった女の子海辺ビキニを着ている	黒い帽子をかぶった女の子が海辺でビキニを着ている	黒い帽子をかぶった女の子は海辺でビキニを着ている	entailment	5	entailment	entailment	neutral	entailment	4.3	4.0	4.0	5.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+1181_wo_d	wo	d	女性クルマエビ調理している	女性が髪を櫛でとかしている	女性がクルマエビを調理している	neutral	1.5	neutral	neutral	neutral	contradiction	1.0	1.0	1.0	1.0		文Aが不自然	文Aが不自然
+9533_ni_d	ni	d	二台のレースカー草の多い駐車場の前の道路上ある	レースカーが草の多い駐車場の前の道路上にない	二台のレースカーが草の多い駐車場の前の道路上にある	contradiction	3.7	neutral	contradiction	neutral	entailment	4.3	4.0	4.0	5.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+1515_wo_o	wo	o	ピンポンを二人の男性がしている	数人の女性が抱き合い、一緒にダンスをしている	二人の男性がピンポンをしている	neutral	1	neutral	neutral	neutral	neutral	1.0	1.0	1.0	1.0			
+6520_ni_c	ni	c	茶色のドレスを着た女の子に子供たちが囲まれていて、目を閉じている	太陽は、黄色で染められたドレスを着ている女の子の顔を照りつけている	茶色のドレスを着た女の子が子供たちに囲まれていて、目を閉じている	neutral	1.3	neutral	neutral	neutral	contradiction	2.0	1.0	2.0	3.0			
+5493_ni_c	ni	c	ブロッコリーに女性が切られている	男性がトマトを切っている	ブロッコリーが女性に切られている	neutral	2.7	neutral	neutral	neutral	neutral	1.3	2.0	1.0	1.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+5971_ni_d	ni	d	青いシャツを着た男の子顔泥をつけている	ブロンドの子供が黄色のボトルを抱えている	青いシャツを着た男の子が顔に泥をつけている	neutral	1.3	neutral	neutral	neutral	neutral	1.0	1.0	1.0	1.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+7600_de_o	de	o	雪の中で茶色の犬と灰色の犬は遊んでいる	二匹の犬が雪の中で遊んでいる	茶色の犬と灰色の犬は雪の中で遊んでいる	entailment	4.3	entailment	entailment	entailment	entailment	4.0	4.0	4.0	4.0			
+1692_ni_c	ni	c	そのミルクに猫が飲まれている	酔った男性が猫の乳を搾っている	そのミルクは猫に飲まれている	neutral	2	neutral	neutral	neutral	neutral	1.3	1.0	2.0	1.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+1539_wo_d	wo	d	猫キーボード弾いている	キーボードを弾いている猫は一匹もいない	猫がキーボードを弾いている	contradiction	4	contradiction	contradiction	neutral	contradiction	3.3	3.0	3.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+8000_ni_c	ni	c	子供たちは水着を着ていて、水に周りが飛び散っている	水着を着た子供たちが水の中で遊んでいる	子供たちは水着を着ていて、水が周りに飛び散っている	neutral	3.3	neutral	neutral	neutral	neutral	2.3	3.0	1.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+7296_de_o	de	o	枯れ葉で幼い子供が覆われた砂利道を走っている	幼い子供が枯れ葉で覆われた砂利道で横たわっている	幼い子供が枯れ葉で覆われた砂利道を走っている	neutral	3.3	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａの語順が不自然。	文Aが不自然	文Aが不自然
+3877_de_o	de	o	部屋の天井板の上で男性がダンスをしている	男性が床の上でダラダラと過ごしている	男性が部屋の天井板の上でダンスをしている	neutral	2.5	neutral	neutral	neutral	contradiction	2.3	3.0	1.0	3.0			
+156_wo_c	wo	c	鹿をフェンスが跳び越えている	鹿がフェンスを跳び越えていない	鹿がフェンスを跳び越えている	contradiction	4.3	neutral	contradiction	neutral	neutral	3.0	4.0	2.0	3.0		文Aが不自然	文Aが不自然
+8167_ni_o	ni	o	黄色の車両の屋根の上にブロンドの髪をした女性が座っていて、車内に二人の人がいる	二人の人がジープを運転していて、一人の婦人がその上に座っている	ブロンドの髪をした女性が黄色の車両の屋根の上に座っていて、二人の人が車内にいる	neutral	3	neutral	neutral	neutral	neutral	3.3	4.0	3.0	3.0			
+7079_wo_o	wo	o	顔を赤い首輪を着けた黒い犬が水の中に入れている	黒いコートを着た犬が浅い水の中に立っている	赤い首輪を着けた黒い犬が顔を水の中に入れている	neutral	2.3	neutral	neutral	neutral	neutral	2.3	3.0	2.0	2.0	文Ａの語順が不自然。	文Aが不自然	
+4980_ni_c	ni	c	タマネギに薄切りがされている	ある人がハリネズミを抱いている	タマネギが薄切りにされている	neutral	1	neutral	neutral	neutral	neutral	1.0	1.0	1.0	1.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+1209_de_o	de	o	電話で二人の男の子たちがしゃべっている	二人の男の子たちは電話でしゃべっていない	二人の男の子たちが電話でしゃべっている	contradiction	4	contradiction	contradiction	contradiction	contradiction	4.0	4.0	4.0	4.0			
+8087_de_c	de	c	黒と白の犬で茶色の野原がボロボロのバレーボールで遊んでいる	黒と白の犬が新しいバレーボールで遊んでいる	黒と白の犬が茶色の野原でボロボロのバレーボールで遊んでいる	neutral	2.7	neutral	neutral	neutral	neutral	2.3	3.0	2.0	2.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+2923_wo_c	wo	c	カリブーの群れを道路が横切っている	鹿の一群が街路を横切っている	カリブーの群れは道路を横切っている	neutral	3	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+6900_ni_o	ni	o	いくつかのソーダの缶の前に茶色の髪をしてサングラスをかけた若い男性が座っている	いくつかのソーダの缶の前に座っている茶色の髪をしてサングラスをかけた若い男性は一人もいない	茶色の髪をしてサングラスをかけた若い男性がいくつかのソーダの缶の前に座っている	contradiction	4	contradiction	contradiction	contradiction	contradiction	4.0	4.0	4.0	4.0			
+2138_ni_d	ni	d	ジャガイモの皮女性の向こう側落ちている	女性がジャガイモの皮をむいている	ジャガイモの皮が女性の向こう側に落ちている	neutral	2.5	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+4930_de_d	de	d	ある人ナイフニンニクを細かく切っていない	ある人が材料を中華鍋の中に入れている	ある人がナイフでニンニクを細かく切っていない	neutral	1	neutral	neutral	neutral	neutral	2.3	3.0	2.0	2.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+9906_wo_c	wo	c	女性を二つの卵が水の入った鍋から取り出している	ある人がトレイにバターを塗っている	女性が二つの卵を水の入った鍋から取り出している	neutral	1	neutral	neutral	neutral	neutral	1.0	1.0	1.0	1.0	文Ａの助詞が不自然。	文Aが不自然	
+2993_ni_o	ni	o	部屋の中に男の子が座っていて、ランプのそばでピアノを弾いている	キーボードを弾いている男の子は一人もいない	男の子が部屋の中に座っていて、ランプのそばでピアノを弾いている	neutral	2.5	neutral	neutral	neutral	neutral	3.0	3.0	3.0	3.0			
+4930_de_o	de	o	ナイフである人がニンニクを細かく切っていない	ある人が材料を中華鍋の中に入れている	ある人がナイフでニンニクを細かく切っていない	neutral	1	neutral	neutral	neutral	neutral	2.0	2.0	2.0	2.0			
+7014_ni_o	ni	o	地面にある落ち葉の上に白い犬が立っている	白い犬が落ち葉の上に立っている	白い犬が地面にある落ち葉の上に立っている	entailment	4.3	entailment	entailment	entailment	entailment	4.3	4.0	4.0	5.0			
+7003_ni_d	ni	d	ラグビー選手お互いタックルしている	対戦相手がサッカー選手にタックルしている	ラグビー選手がお互いにタックルしている	neutral	2.7	neutral	neutral	neutral	contradiction	3.0	4.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+6244_ni_d	ni	d	茶色の犬空中跳んでいる	健康そうに見える犬が地面の上に横たわっている	茶色の犬が空中に跳んでいる	neutral	1.7	neutral	neutral	neutral	contradiction	2.3	3.0	2.0	2.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	
+554_de_o	de	o	草原で茶色の犬と黒い犬が競争をしている	茶色の犬と黒い犬が草原で走っている	茶色の犬と黒い犬が草原で競争をしている	entailment	3.7	neutral	neutral	neutral	entailment	4.3	4.0	4.0	5.0	何の競争かわからないため中立を選択。		
+4081_wo_d	wo	d	馬男性の上走り過ぎている	男性が馬に乗っている	馬が男性の上を走り過ぎている	contradiction	1.5	neutral	neutral	neutral	contradiction	2.3	3.0	2.0	2.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+220_de_o	de	o	音響機器の前でそのダンサーはダンスをしている	そのブロンドの女の子は音響機器の前でダンスをしている	そのダンサーは音響機器の前でダンスをしている	neutral	3.3	neutral	neutral	neutral	neutral	3.3	4.0	3.0	3.0			
+6856_de_c	de	c	犬で草がいっぱいの丘を走り上がっている	犬が上り坂を走っている	犬が草でいっぱいの丘を走り上がっている	entailment	4.3	neutral	neutral	neutral	entailment	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	
+2280_wo_c	wo	c	犬を缶が落としている	犬が食物の缶を開いている	犬が缶を落としている	neutral	2.5	neutral	neutral	neutral	neutral	2.3	3.0	2.0	2.0		文Aが不自然	文Aが不自然
+8257_de_o	de	o	水域の近くの遊歩道で高齢の男性と女性がバイクに乗っている	中年の男性と女性がバイクに乗って水域のそばの道路を走っている	高齢の男性と女性が水域の近くの遊歩道でバイクに乗っている	neutral	2.7	neutral	neutral	neutral	neutral	3.3	4.0	3.0	3.0			
+5283_de_c	de	c	ウサちゃんでぬいぐるみのウサちゃんが遊んでいる	ぬいぐるみのウサちゃんで遊んでいるウサちゃんは一匹もいない	ウサちゃんがぬいぐるみのウサちゃんで遊んでいる	contradiction	4	neutral	neutral	neutral	contradiction	3.0	3.0	2.0	4.0	文Ａの助詞が不自然。	文Aが不自然	
+31_de_o	de	o	バスケットボールの試合でジャージを着た男性がボールをダンクしている	バスケットボールの試合でボールをダンクしている男性は一人もいない	ジャージを着た男性がバスケットボールの試合でボールをダンクしている	contradiction	3.3	contradiction	contradiction	contradiction	contradiction	4.0	4.0	4.0	4.0			
+9304_ni_c	ni	c	スケートボーダーに空中がジャンプしている	スケートボーダーが空中にジャンプしていない	スケートボーダーが空中にジャンプしている	contradiction	4	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+9536_ni_c	ni	c	二台のレースカーに草の多い駐車場の前の道路上がある	二台の自動車が走路でレースをしている	二台のレースカーが草の多い駐車場の前の道路上にある	neutral	2.3	neutral	neutral	neutral	neutral	2.0	3.0	1.0	2.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+8171_ni_d	ni	d	ブロンドの女性黄色の車両の屋根の上座っていて、二人の人車内いる	二人の人がジープを運転していて、一人の婦人がその上に座っている	ブロンドの女性が黄色の車両の屋根の上に座っていて、二人の人が車内にいる	neutral	2.7	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+5355_wo_c	wo	c	女性をジャガイモの皮がむいている	女性がジャガイモの皮をむいていない	女性がジャガイモの皮をむいている	contradiction	4	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+6172_de_d	de	d	黄色のシャツを着た女性ピンク色のサーブボードサーフィンをしている	ピンク色のシャツを着た女性が、散らばった黄色のサーフボードの間でサーフィンをしている	黄色のシャツを着た女性がピンク色のサーブボードでサーフィンをしている	neutral	3	neutral	neutral	neutral	contradiction	3.0	3.0	2.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	
+2158_wo_o	wo	o	カメラを男性は据え付けており、海辺で夕暮れの写真を撮っている	男性が注意深く湖の写真を撮っている	男性はカメラを据え付けており、海辺で夕暮れの写真を撮っている	neutral	2.5	neutral	neutral	neutral	neutral	2.3	3.0	2.0	2.0			
+971_ni_c	ni	c	ポーズをとっている男性に別の男性が見られている	紫色のシャツを着た男性が別のシャツを黒く染めていて、そのシャツには面白い顔をしている犬を見ている男性が描かれている	ポーズをとっている男性が別の男性に見られている	neutral	1	neutral	neutral	neutral	neutral	1.0	1.0	1.0	1.0			
+9355_de_d	de	d	三人の男性金網の壁の近く一緒に座っている	三人の女性が村で座っている	三人の男性が金網の壁の近くで一緒に座っている	neutral	2	neutral	neutral	neutral	neutral	2.0	2.0	1.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+1953_de_d	de	d	バンド大声歌っている	バンドは歌っている	バンドは大声で歌っている	entailment	4	entailment	entailment	neutral	entailment	3.7	4.0	3.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+1146_wo_o	wo	o	エビを女性が衣に浸けている	車を運転している男性は一人もいない	女性がエビを衣に浸けている	neutral	1	neutral	neutral	neutral	neutral	1.0	1.0	1.0	1.0			
+6314_ni_d	ni	d	女性三人の子供の近く立っている	女性が公園で二人の幼い男の子と遊んでいる	女性が三人の子供の近くに立っている	neutral	2.3	neutral	neutral	neutral	neutral	2.0	3.0	2.0	1.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+281_de_d	de	d	男の子水の中立っている	その男の子は青い海の中を歩いている	男の子が水の中で立っている	neutral	3	neutral	neutral	neutral	entailment	2.7	3.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+7181_de_c	de	c	子供で顔の前がカメラを持っている	黒い髪の幼い子供がカメラで写真を撮っている	子供が顔の前でカメラを持っている	neutral	3	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+2612_ni_o	ni	o	ブルドッグに猿はブラシをかけている	猿がその犬にブラシをかけている	猿はブルドッグにブラシをかけている	entailment	4	entailment	entailment	neutral	entailment	4.0	4.0	4.0	4.0			
+6329_wo_d	wo	d	女の子ジーンズとピンク色のシャツ着ていて、走っている	ピンク色のシャツを着た幼い女の子が砂漠の木の下で走っている	女の子がジーンズとピンク色のシャツを着ていて、走っている	neutral	4	neutral	neutral	neutral	neutral	2.7	4.0	2.0	2.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+3476_wo_c	wo	c	男性をダンスがしている	女性がある男性のことを考えている	男性がダンスをしている	neutral	2	neutral	neutral	neutral	neutral	1.0	1.0	1.0	1.0		文Aが不自然	文Aが不自然
+7488_ni_d	ni	d	青いボールその犬キャッチされている	犬は青いボールをキャッチしている	青いボールがその犬にキャッチされている	entailment	4.7	entailment	entailment	neutral	entailment	3.7	3.0	3.0	5.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+9100_de_c	de	c	灰色の犬で芝生がサッカーボールを頭で跳ね返している	青い首輪をした犬が外でボールで遊んでいる	灰色の犬が芝生でサッカーボールを頭で跳ね返している	neutral	2.7	neutral	neutral	neutral	neutral	2.3	3.0	2.0	2.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+3475_wo_c	wo	c	男性をダンスがしている	考えている男性は一人もいない	男性がダンスをしている	neutral	2.5	neutral	neutral	neutral	neutral	1.0	1.0	1.0	1.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+5771_ni_o	ni	o	自転車に男性が乗っている	男性が自転車に乗っていない	男性が自転車に乗っている	contradiction	4	contradiction	contradiction	contradiction	contradiction	3.7	3.0	4.0	4.0			
+7122_de_o	de	o	砂地の上で黒い犬はその茶色の犬と遊んでいる	黒い犬が砂地の上で茶色の犬と遊んでいる	黒い犬は砂地の上でその茶色の犬と遊んでいる	entailment	4.7	entailment	entailment	entailment	entailment	4.7	4.0	5.0	5.0			
+8_de_d	de	d	子供たちのグループ家の中遊んでいて、後ろの方に立っている男性は一人もいない	幼い男の子たちが戸外で遊んでいて、その男性が近くで微笑んでいる	子供たちのグループが家の中で遊んでいて、後ろの方に立っている男性は一人もいない	neutral	2.7	neutral	neutral	neutral	neutral	2.0	3.0	2.0	1.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+5759_ni_d	ni	d	男性女性話しかけている	男性と女性が話している	男性が女性に話しかけている	entailment	4	neutral	entailment	neutral	neutral	3.3	4.0	2.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+9881_de_d	de	d	ある人屋根の上ダンスをしている	白い犬が落ち葉の上に立っている	ある人が屋根の上でダンスをしている	neutral	1	neutral	neutral	neutral	neutral	1.0	1.0	1.0	1.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+8733_de_c	de	c	若いカップルでベッドが横たわっている	若いカップルがベッドで横たわっていない	若いカップルがベッドで横たわっている	contradiction	3.7	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+5250_wo_o	wo	o	カエルをある人がもてあそんでいる	男性がそのトランペットを吹いている	ある人がカエルをもてあそんでいる	neutral	1	neutral	neutral	neutral	neutral	1.0	1.0	1.0	1.0			
+8539_de_d	de	d	黄褐色の犬池の岸の水の中飛沫を上げている	淡褐色の犬が草地で走っている	黄褐色の犬が池の岸の水の中で飛沫を上げている	neutral	2	neutral	neutral	neutral	contradiction	2.0	2.0	2.0	2.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+195_ni_d	ni	d	ライダー黒と白のバイク乗り、シートの上で立ち上がっている	オートバイ乗りが白いオートバイのシートの上で立ち上がっている	ライダーが黒と白のバイクに乗り、シートの上で立ち上がっている	neutral	3.3	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+2681_ni_d	ni	d	男性ガレージにある車乗り込んでいる	男性が自動車に乗り込んでいる	男性がガレージにある車に乗り込んでいる	neutral	4	entailment	entailment	neutral	entailment	3.7	4.0	3.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+4547_ni_c	ni	c	女性に馬が乗っている	馬に乗っている女性は一人もいない	女性が馬に乗っている	contradiction	4	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+3263_wo_o	wo	o	ギターを男性は弾いている	男性がギターを弾いている	男性はギターを弾いている	entailment	5	entailment	entailment	entailment	entailment	4.7	4.0	5.0	5.0			
+6273_de_d	de	d	犬湖泳いでいて、太陽がそれに照りつけている	金色の毛並みをした犬が歩いて水から出ている	犬が湖で泳いでいて、太陽がそれに照りつけている	neutral	2.3	neutral	neutral	neutral	neutral	2.3	2.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+1603_ni_c	ni	c	男性に速記用が使われる機械でタイプしている	男性は操作する速記タイプライターを必要としている	男性が速記用に使われる機械でタイプしている	neutral	3	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+2403_wo_o	wo	o	トマトを誰かが切っている	婦人はトマトを薄切りにしている	誰かがトマトを切っている	neutral	3	neutral	neutral	entailment	neutral	4.0	4.0	4.0	4.0			
+5266_wo_c	wo	c	誰かを一枚の紙が折りたたんでいる	ある人が一枚の紙を折りたたんでいる	誰かが一枚の紙を折りたたんでいる	entailment	4.7	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+8341_ni_d	ni	d	男性自転車乗って芸をしている	男性が屋外の公園のポーチの上でスケートボードの芸をしている	男性が自転車に乗って芸をしている	neutral	2	neutral	neutral	neutral	contradiction	2.0	2.0	2.0	2.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+6408_de_o	de	o	歩道で黒人男性がブレイクダンスを踊っている	黒人男性が歩道を歩いている	黒人男性が歩道でブレイクダンスを踊っている	neutral	3	neutral	neutral	neutral	contradiction	2.7	3.0	2.0	3.0			
+8172_wo_d	wo	d	大きな茶色の犬赤いハードル跳び越えている	赤いハードルが大きな茶色の犬に跳び越えられている	大きな茶色の犬が赤いハードルを跳び越えている	entailment	5	entailment	entailment	neutral	entailment	3.7	3.0	4.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+2940_de_c	de	c	二人の男性で牛のための牧草地が喧嘩をしている	二人の男性が家畜囲いの中で喧嘩をしている	二人の男性が牛のための牧草地で喧嘩をしている	neutral	3.5	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+7530_de_c	de	c	子供で屋外が雨どいで遊んでいて、他の家族は見守っている	男の子が男性の隣にホースを置いていて、別の男の子が逃げている	子供が屋外で雨どいで遊んでいて、他の家族は見守っている	neutral	1.3	neutral	neutral	neutral	neutral	1.3	1.0	1.0	2.0	文Ａの助詞が不自然。	文Aが不自然	
+9634_ni_d	ni	d	男性滝壺の水の中立っている	男性が滝壺の水の中に立っている	男性は滝壺の水の中に立っている	entailment	4.7	entailment	entailment	neutral	entailment	4.3	4.0	4.0	5.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+3815_ni_o	ni	o	女性にトウガラシがナイフで薄切りにされている	ナイフを持った女性はトウガラシを薄切りにしている	トウガラシが女性にナイフで薄切りにされている	entailment	4.5	neutral	entailment	neutral	neutral	3.7	3.0	5.0	3.0			文Aが不自然
+8043_ni_c	ni	c	幼い男の子に静かな湖が跳び込んでいる	青いシャツを着た幼い男の子が水の中に跳び込んでいる	幼い男の子が静かな湖に跳び込んでいる	neutral	3	neutral	neutral	neutral	neutral	2.3	3.0	2.0	2.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+3138_wo_o	wo	o	猿の手を手袋をはめている人が蹴っている	猿が、ある人の手袋をはめた手を蹴っている	手袋をはめている人が猿の手を蹴っている	neutral	2.5	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0			文Aが不自然
+9959_ni_c	ni	c	犬が赤い色をしたボールの近くにいて、そのボールに空中がある	男性がギターを弾いている	犬が赤い色をしたボールの近くにいて、そのボールは空中にある	neutral	1	neutral	neutral	neutral	neutral	1.0	1.0	1.0	1.0	文Ａの助詞が不自然。		
+8224_de_c	de	c	二匹の大きな犬で駐車場が遊び戯れている	二匹の犬が丈の高い草の中を走っている	二匹の大きな犬が駐車場で遊び戯れている	neutral	2	neutral	neutral	neutral	contradiction	2.3	3.0	2.0	2.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+5402_wo_o	wo	o	串を女性が棚の上に置いている	串を棚の上に置いている女性は一人もいない	女性が串を棚の上に置いている	contradiction	3.7	contradiction	contradiction	contradiction	contradiction	3.7	3.0	4.0	4.0			
+2258_wo_c	wo	c	男性をフルートが吹いていない	男性はフルートを吹いている	男性はフルートを吹いていない	contradiction	4	neutral	neutral	neutral	neutral	3.3	4.0	2.0	4.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+701_ni_d	ni	d	毛のふわふわした黒い犬裏の庭いて、パスケットを口にくわえて運んでいる	たぶん松である木のそばにいる犬がバケツに噛みついている	毛のふわふわした黒い犬が裏の庭にいて、パスケットを口にくわえて運んでいる	neutral	1.5	neutral	neutral	neutral	neutral	2.3	2.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+5364_wo_c	wo	c	男性をフルートが吹いている	フルートを吹いている男性は一人もいない	男性がフルートを吹いている	contradiction	4	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+9826_ni_o	ni	o	芝生の上に男性が座っていて、水のボトルから飲んでいる	女性は外でダンスをしている	男性が芝生の上に座っていて、水のボトルから飲んでいる	neutral	1	neutral	neutral	neutral	neutral	1.0	1.0	1.0	1.0		文Aが不自然	
+818_de_c	de	c	自転車用の衣服を着た人でいくつかの山々の前がしっかりと立っている	自転車に乗るために使われる衣服を着た人が山々の前でしっかりと立っている	自転車用の衣服を着た人がいくつかの山々の前でしっかりと立っている	entailment	5	neutral	neutral	neutral	neutral	3.3	4.0	2.0	4.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+4192_wo_c	wo	c	男性をダンスがしている	男性がダンスを演じている	男性がダンスをしている	entailment	4	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+2644_wo_o	wo	o	ジャガイモを女性が切っている	女性がジャガイモを薄切りにしている	女性がジャガイモを切っている	neutral	3.5	neutral	neutral	neutral	neutral	3.7	4.0	3.0	4.0			
+3599_wo_o	wo	o	床運動を男性はしていない	男性が運動をしている	男性は床運動をしていない	neutral	2.5	neutral	neutral	neutral	neutral	3.0	3.0	2.0	4.0			
+1067_de_c	de	c	その人で砂地の上の走路がオートバイに乗っている	ある人がモトクロスに関係するイベントでオートバイに乗っている	その人は砂地の上の走路でオートバイに乗っている	neutral	2.5	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+144_de_d	de	d	仲間のグループ筏流れに乗っている	救命胴着が水難救助を練習しているあるグループの人々に着られている	仲間のグループが筏で流れに乗っている	neutral	2	neutral	neutral	neutral	neutral	2.0	3.0	1.0	2.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+4533_ni_d	ni	d	男性馬乗っている	自動車を運転している男性は一人もいない	男性が馬に乗っている	neutral	2	neutral	neutral	neutral	entailment	1.7	2.0	1.0	2.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+5913_wo_d	wo	d	女性材料ボウルに注ぎ込んでいる	女性はそのオイルに味付けをしている	女性が材料をボウルに注ぎ込んでいる	neutral	1.7	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+2671_ni_c	ni	c	フェレットに棚がよじ登っている	何匹かのフェレットがケージから這い出ている	フェレットが棚によじ登っている	neutral	3	neutral	neutral	neutral	neutral	2.3	3.0	2.0	2.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+3194_wo_o	wo	o	ボウルの中の肉混合物を婦人が混ぜ合わせている	婦人がボウルの中の肉の混合物を混ぜ合わせている	婦人がボウルの中の肉混合物を混ぜ合わせている	entailment	5	entailment	entailment	entailment	entailment	4.7	4.0	5.0	5.0			文Aが不自然
+6763_wo_o	wo	o	川に沿った岩の上を三人の男の子が注意深く歩いている	三人の男の子が川に沿った岩の上を歩いている	三人の男の子が川に沿った岩の上を注意深く歩いている	entailment	4.3	entailment	entailment	entailment	entailment	4.3	4.0	4.0	5.0			
+7447_ni_d	ni	d	小さな女の子ブランコ乗っていて、女性彼女の後ろ立っている	女の子はブランコに乗っている小さな女性の後ろに立っている	小さな女の子はブランコに乗っていて、女性は彼女の後ろに立っている	neutral	3.7	neutral	neutral	neutral	neutral	3.0	3.0	2.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+1689_ni_d	ni	d	男性数個のトマトオイルをかけている	男性はいくらかのオイルをトマトにかけている	男性は数個のトマトにオイルをかけている	neutral	4	entailment	entailment	neutral	entailment	3.7	4.0	2.0	5.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+1685_ni_c	ni	c	男性に数個のトマトがオイルをかけている	誰かがトマト油をその男性にかけている	男性は数個のトマトにオイルをかけている	neutral	3	neutral	neutral	neutral	neutral	3.3	4.0	2.0	4.0	文Ａの助詞が不自然。オイルがトマト油かわからないため中立を選択。	文Aが不自然	文Aが不自然
+9105_wo_o	wo	o	何かをぼろ切れの入ったいくつかのバケツの隣にいる男の子がつかんでいる	ぼろ切れの入ったいくつかのバケツの隣にいる男の子がある物をつかんでいる	ぼろ切れの入ったいくつかのバケツの隣にいる男の子が何かをつかんでいる	entailment	4.3	entailment	entailment	entailment	entailment	4.7	4.0	5.0	5.0			
+2922_wo_d	wo	d	カリブーの群れ道路横切っていない	鹿の群れが街路を横切っている	カリブーの群れは道路を横切っていない	neutral	2.5	neutral	neutral	neutral	contradiction	2.7	3.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+7574_wo_c	wo	c	バイクに乗っている人を空中が跳んでいて、太陽がバイクのフレームを通して揺らめいている	その人は自転車に乗って空中を飛んでいる	バイクに乗っている人が空中を跳んでいて、太陽がバイクのフレームを通して揺らめいている	neutral	2.7	neutral	neutral	neutral	entailment	2.3	2.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	
+3334_wo_o	wo	o	ハーブを女性は薄切りにしている	男性はパンを薄切りにしている	女性はハーブを薄切りにしている	neutral	2.5	neutral	neutral	neutral	neutral	2.3	2.0	2.0	3.0			
+6753_ni_o	ni	o	芝生用の椅子に二人の人が座っていて、本を読んでいる	二つの椅子に座っている二人の人が読書をしている	二人の人が芝生用の椅子に座っていて、本を読んでいる	neutral	3.7	neutral	neutral	neutral	neutral	3.0	3.0	2.0	4.0			
+9454_de_o	de	o	田舎で犬が空中に高くジャンプしている	犬は何本かの木の陰でジャンプしている	犬が田舎で空中に高くジャンプしている	neutral	2.7	neutral	neutral	neutral	neutral	3.0	3.0	2.0	4.0			
+5364_wo_o	wo	o	フルートを男性が吹いている	フルートを吹いている男性は一人もいない	男性がフルートを吹いている	contradiction	4	contradiction	contradiction	contradiction	contradiction	4.0	4.0	4.0	4.0			
+7467_de_d	de	d	そのグループの人々薄暗い部屋の中座っていない	そのグループの人々は薄暗い部屋の中で座っている	そのグループの人々は薄暗い部屋の中で座っていない	contradiction	4	contradiction	contradiction	neutral	contradiction	3.3	4.0	2.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+8205_wo_o	wo	o	下を白いドレスを着た花嫁が見ている	女性が下を見ていて、ウェディングベールを着けている	白いドレスを着た花嫁が下を見ている	neutral	3.3	neutral	neutral	neutral	neutral	3.0	3.0	2.0	4.0			
+707_ni_d	ni	d	二人の大きな人公園のベンチ座っていて、彼らの間にソーダのボトルを置いている	二人の人が心地よさそうにベンチに座っている	二人の大きな人が公園のベンチに座っていて、彼らの間にソーダのボトルを置いている	neutral	2.5	neutral	neutral	neutral	neutral	3.0	3.0	3.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+2010_ni_o	ni	o	その馬に男性が乗っている	男性がオートバイに乗っている	男性がその馬に乗っている	neutral	2.5	neutral	neutral	neutral	contradiction	3.0	3.0	2.0	4.0			文Aが不自然
+5652_de_d	de	d	ある人テーブル食事をしている	ある人がテーブルで食事をしていない	ある人がテーブルで食事をしている	contradiction	4	contradiction	contradiction	neutral	contradiction	4.0	4.0	4.0	4.0	文Ａが不自然。助詞が抜けている。		文Aが不自然
+5566_ni_d	ni	d	女の子馬乗っている	男の子は馬に乗って早足に駆けている	女の子が馬に乗っている	neutral	2.3	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+577_de_d	de	d	茶色と白の毛並みをしている犬浅瀬座っている	白と茶色の犬がやっとのことで水の中を歩いている	茶色と白の毛並みをしている犬が浅瀬で座っている	contradiction	2.3	neutral	neutral	neutral	contradiction	2.7	3.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+8542_wo_c	wo	c	子供を小さな青いプールの中の水が跳ね上げている	子供は大きな赤いプールの中の水を跳ね上げている	子供は小さな青いプールの中の水を跳ね上げている	neutral	3.3	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+1477_wo_c	wo	c	鹿を低いフェンスが跳び越えている	鹿がフェンスを跳び越えている	鹿が低いフェンスを跳び越えている	entailment	4	neutral	neutral	neutral	contradiction	2.7	3.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+429_wo_o	wo	o	釣り竿を二人の男性が持っている	二人の男性がいくらかの水を持って釣り竿の近くに立っている	二人の男性が釣り竿を持っている	neutral	3	neutral	neutral	neutral	contradiction	2.7	3.0	2.0	3.0			
+7034_de_d	de	d	男の子と女の子屋外のジム遊んでいる	何人かの児童たちが遊び場で遊んでいる	男の子と女の子は屋外のジムで遊んでいる	neutral	3.7	entailment	entailment	neutral	entailment	2.7	3.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+6676_de_o	de	o	クラスの最前列で制服を着た学生のグループが話を聴いていない	教室いっぱいの学生たちがバンブー構造の内部の同じ方向を見ている	制服を着た学生のグループがクラスの最前列で話を聴いていない	neutral	1	neutral	neutral	neutral	neutral	2.0	2.0	2.0	2.0			
+9381_wo_d	wo	d	選手たちボールを奪うための駆け引き行っている	緑色の服を着た男性がサッカーボールを蹴っていて、紫色と白の服を着た男性が転んでいる	選手たちはボールを奪うための駆け引きを行っている	neutral	2.3	neutral	neutral	neutral	neutral	2.0	2.0	2.0	2.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+7179_de_c	de	c	子供で顔の前がカメラを持っている	黒い色の髪をした幼い子供がカメラで写真を撮っている	子供が顔の前でカメラを持っている	neutral	3	neutral	neutral	neutral	neutral	2.0	2.0	2.0	2.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+1173_wo_d	wo	d	女性ジャガイモ薄切りにしている	ニンジンを薄切りにしている女性は一人もいない	女性がジャガイモを薄切りにしている	neutral	3	neutral	neutral	neutral	entailment	2.7	3.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+3337_ni_d	ni	d	男性屋根の上立っていて、バイオリンを弾いている	男性が屋上に立っていて、バイオリンを弾いている	男性が屋根の上に立っていて、バイオリンを弾いている	entailment	3.5	neutral	neutral	neutral	neutral	4.0	4.0	4.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+5628_wo_c	wo	c	シェフをスープのボウルが洗っている	男性がボウルの縁をきれいにしている	シェフがスープのボウルを洗っている	neutral	2.7	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+5190_wo_d	wo	d	女性卵フライパンに注ぎ込んでいる	男性が二匹の猫を撫でている	女性が卵をフライパンに注ぎ込んでいる	neutral	1	neutral	neutral	neutral	neutral	1.0	1.0	1.0	1.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+828_ni_d	ni	d	そのフットボール芝生で横たわっている男の子の両足の間ある	そのフットボールは芝生で横たわっている男の子の両足の間にない	そのフットボールは芝生で横たわっている男の子の両足の間にある	contradiction	4	contradiction	contradiction	neutral	contradiction	3.7	4.0	3.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+271_ni_d	ni	d	栗毛の馬ロデオ競技の赤い樽の近くいる	カウガールがコーナーにいる馬の近くにある樽に乗っている	栗毛の馬はロデオ競技の赤い樽の近くにいる	neutral	2.3	neutral	neutral	neutral	neutral	2.3	3.0	2.0	2.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+6235_de_d	de	d	二匹の犬草地の上一緒に遊んでいる	大きな犬と小さな白い犬がお互いの横を通り過ぎている	二匹の犬が草地の上で一緒に遊んでいる	neutral	2.3	neutral	neutral	neutral	neutral	2.0	2.0	2.0	2.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+1666_ni_c	ni	c	ボートの帆に穏やかな水面が映っている	ボートが水の上を穏やかに進んでいる	ボートの帆が穏やかな水面に映っている	neutral	3	neutral	neutral	neutral	neutral	3.0	3.0	2.0	4.0	文Ａの助詞が不自然。	文Aが不自然	
+4367_wo_o	wo	o	ノートを男性が切っている	ある人が紙を引き裂いている	男性がノートを切っている	neutral	2.5	neutral	neutral	neutral	neutral	3.0	3.0	2.0	4.0			
+8619_ni_o	ni	o	バイクに灰色のあごひげを生やした年を取った男性が乗っている	その自転車はベレー帽をかぶった男性に遊歩道で乗られている	灰色のあごひげを生やした年を取った男性がバイクに乗っている	neutral	1.7	neutral	neutral	neutral	neutral	2.0	3.0	1.0	2.0			
+6418_ni_o	ni	o	ダートバイクの上に黒と赤のユニフォームを着たバイク乗りが立っている	黒と赤のユニフォームを着たバイク乗りがダートバイクから跳び下りている	黒と赤のユニフォームを着たバイク乗りがダートバイクの上に立っている	contradiction	3.3	contradiction	contradiction	neutral	contradiction	3.0	3.0	2.0	4.0	バイク乗りが同一人物と考えて矛盾を選択。	文Aが不自然	
+8870_ni_o	ni	o	座席に男の子が座っている	女の子が座席に座っている	男の子が座席に座っている	neutral	3.3	neutral	neutral	neutral	neutral	3.0	3.0	2.0	4.0			
+2108_wo_d	wo	d	男性ニンジン機械から取り除いている	ロープが男性によじ登られている	男性がニンジンを機械から取り除いている	neutral	1.5	neutral	neutral	neutral	neutral	1.0	1.0	1.0	1.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+1883_ni_o	ni	o	子猫たちにトレイの上の食物は食べられている	男性が子猫たちの近くで食事をしている	トレイの上の食物は子猫たちに食べられている	neutral	2.5	neutral	neutral	neutral	neutral	1.7	1.0	2.0	2.0			
+9409_de_c	de	c	芝生の上にいる二匹の犬でプラスチック製のおもちゃが遊んでいる	二匹の犬が走っていて、テニスボールをキャッチしている	芝生の上にいる二匹の犬がプラスチック製のおもちゃで遊んでいる	neutral	2	neutral	neutral	neutral	neutral	1.7	1.0	2.0	2.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+9674_de_c	de	c	幼い男の子と黄色のシャツを着た女性で都市の噴水のそばが水をはねかけられている	幼い女の子が噴水の縁の上で遊んでいて、年を取った女性が彼女を見守っている	幼い男の子と黄色のシャツを着た女性が都市の噴水のそばで水をはねかけられている	neutral	2.3	neutral	neutral	neutral	neutral	2.0	2.0	2.0	2.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+3011_ni_d	ni	d	スーツを着た男性マイクのところ立っていて、歌っている	男性はみごとなマイクさばきで歌っている	スーツを着た男性がマイクのところに立っていて、歌っている	neutral	3	neutral	neutral	neutral	neutral	3.0	3.0	2.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+5759_ni_c	ni	c	男性に女性が話しかけている	男性と女性が話している	男性が女性に話しかけている	entailment	4	entailment	entailment	neutral	entailment	4.0	4.0	4.0	4.0			
+1850_ni_o	ni	o	一切れのガーリック風味のパンに男性がぞんざいにバターを塗っている	男性は一切れのガーリック風味のパンにぞんざいにバターを塗っている	男性が一切れのガーリック風味のパンにぞんざいにバターを塗っている	entailment	5	entailment	entailment	entailment	entailment	5.0	5.0	5.0	5.0			
+8097_ni_o	ni	o	ヘルメットをかぶった幼い男の子にバイクが道路で乗られている	小さな男の子はレースで自転車に乗っている	バイクがヘルメットをかぶった幼い男の子に道路で乗られている	neutral	2.3	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0			
+2906_wo_c	wo	c	男性を木が斧で切っている	ある人が木を植えている	男性が木を斧で切っている	neutral	2	neutral	neutral	neutral	neutral	1.7	2.0	1.0	2.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+8970_wo_o	wo	o	自分の頭を犬が赤と緑のギフトバッグの中に入れている	赤と茶色の犬が自分の鼻をホリデーギフトバッグの中に突っ込んでいる	犬が自分の頭を赤と緑のギフトバッグの中に入れている	neutral	3	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａの語順が不自然。		文Aが不自然
+1183_wo_d	wo	d	女性エビゆでている	女性が髪を櫛でとかしている	女性がエビをゆでている	neutral	1.5	neutral	neutral	neutral	neutral	1.0	1.0	1.0	1.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+3628_ni_o	ni	o	その肉の上に鍋が落とされている	その肉は鍋の中に落とされている	鍋がその肉の上に落とされている	neutral	4	neutral	neutral	neutral	entailment	3.3	3.0	2.0	5.0		文Aが不自然	
+5292_de_o	de	o	戸外で男性が縄跳びをしている	女性が戸外で縄跳びをしている	男性が戸外で縄跳びをしている	neutral	3.7	neutral	neutral	neutral	neutral	3.7	4.0	3.0	4.0			
+2603_ni_c	ni	c	猿にその犬がブラシをかけている	その犬にブラシをかけている猿は一匹もいない	猿がその犬にブラシをかけている	contradiction	4	neutral	neutral	neutral	contradiction	3.0	3.0	2.0	4.0		文Aが不自然	
+7661_de_c	de	c	ビキニを着た若い婦人で海辺が立っている	黒い帽子をかぶった女の子が海辺でビキニを着ている	ビキニを着た若い婦人が海辺で立っている	neutral	2.3	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+4130_de_d	de	d	犬トランポリンの上横たわっている	犬がトランポリンの上でジャンプしている	犬がトランポリンの上で横たわっている	neutral	2.5	contradiction	contradiction	neutral	contradiction	3.0	3.0	2.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+464_ni_d	ni	d	緑色の服を着た黒人男性自転車乗っている	黒い服を着た男性が自転車に乗っている	緑色の服を着た黒人男性が自転車に乗っている	neutral	3	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+8833_ni_c	ni	c	白い口ひげの生えた男性にバルコニーが立っていて、下の道路を見ている	口ひげの生えた男性がバルコニーに立っていて、下の道路を見ている	白い口ひげの生えた男性がバルコニーに立っていて、下の道路を見ている	entailment	4.7	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+794_wo_d	wo	d	二人の男性金色の毛並みした二匹の犬を雪の中で散歩させている	二人の人が金色の毛並みをした二匹の犬を雪の中で散歩させている	二人の男性が金色の毛並みをした二匹の犬を雪の中で散歩させている	entailment	5	neutral	entailment	neutral	neutral	4.0	4.0	5.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+9209_ni_o	ni	o	バイクに奇妙な服を着た男の子が乗っている	女性がペイントとコスチュームの断片を身に着けていて、混雑した街路でバイクに乗っている	奇妙な服を着た男の子がバイクに乗っている	neutral	2	neutral	neutral	neutral	neutral	2.3	3.0	2.0	2.0			
+6244_ni_o	ni	o	空中に茶色の犬が跳んでいる	健康そうに見える犬が地面の上に横たわっている	茶色の犬が空中に跳んでいる	neutral	1.7	neutral	neutral	neutral	contradiction	2.7	3.0	2.0	3.0			
+6498_wo_d	wo	d	男性電子機器下に置いている	男性が電子機器を持ち上げている	男性が電子機器を下に置いている	neutral	3.3	contradiction	contradiction	neutral	contradiction	2.7	3.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+721_ni_c	ni	c	男性にレースの先頭が立っている	数人の男性が屋外での競技会を運営している	男性がレースの先頭に立っている	neutral	1.5	neutral	neutral	neutral	neutral	1.7	3.0	1.0	1.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+3108_ni_d	ni	d	男性部屋の中の床の上座っていてギターをかき鳴らしている	男性が床の上に座っていてギターを弾いている	男性が部屋の中の床の上に座っていてギターをかき鳴らしている	entailment	3	entailment	entailment	neutral	entailment	3.7	3.0	4.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+7978_ni_o	ni	o	雪の中に二匹のプードルがいて、一匹がジャンプしている	灰色の犬が、雪の中にいる黒と白の犬の方にジャンプしている	二匹のプードルが雪の中にいて、一匹がジャンプしている	neutral	3.3	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0			
+6797_de_c	de	c	二人の子供でいくつかの金属のバーの上が伸びをしている	二人の子供が錆びた棚ごしにのぞき込んでいる	二人の子供がいくつかの金属のバーの上で伸びをしている	neutral	2	neutral	neutral	neutral	neutral	1.7	2.0	1.0	2.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+1858_ni_c	ni	c	男性に一切れのガーリック風味のパンがぞんざいにバターを塗っている	男性が一片の大きなパンにバターを塗っている	男性は一切れのガーリック風味のパンにぞんざいにバターを塗っている	neutral	4	neutral	neutral	neutral	neutral	2.3	3.0	2.0	2.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+2869_ni_c	ni	c	二台のバイクに二人の人が乗られている	二人の人がオートバイに乗っている	二台のバイクが二人の人に乗られている	neutral	4	neutral	neutral	neutral	neutral	3.3	3.0	3.0	4.0	文Ａの助詞が不自然。	文Aが不自然	
+29_de_o	de	o	後輪走行である人がその自転車に乗っている	黒いジャケットを着た人がバイクに乗って芸をしている	ある人が後輪走行でその自転車に乗っている	neutral	1.7	neutral	neutral	neutral	neutral	3.0	3.0	2.0	4.0			
+67_de_o	de	o	雪の中でスノースーツを着た二人の人が寝そべってスノーエンジェルを作っている	雪の中で寝そべってスノーエンジェルを作っているスノースーツを着た人は一人もいない	スノースーツを着た二人の人が雪の中で寝そべってスノーエンジェルを作っている	contradiction	3.3	contradiction	contradiction	contradiction	contradiction	3.7	3.0	4.0	4.0			
+4931_de_o	de	o	ナイフである人がニンニクを細かく切っている	ある人が材料を中華鍋の中に入れている	ある人がナイフでニンニクを細かく切っている	neutral	1.3	neutral	neutral	neutral	contradiction	1.7	1.0	1.0	3.0			
+7163_ni_c	ni	c	黒い犬に岩の上がよじ登っている	黒い犬は岩の上によじ登っていない	黒い犬は岩の上によじ登っている	contradiction	4	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+8526_wo_o	wo	o	レインボーアフガンを金色と紫色の服を着た女の子がつかんでいる	金色と紫色の服を着た男性がレインボーアフガンをつかんでいる	金色と紫色の服を着た女の子がレインボーアフガンをつかんでいる	neutral	3.7	neutral	neutral	neutral	neutral	3.3	4.0	2.0	4.0			
+5767_wo_d	wo	d	女性卵割っている	男性が男の子に話しかけている	女性が卵を割っている	neutral	1.3	neutral	neutral	neutral	neutral	1.0	1.0	1.0	1.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+9547_wo_d	wo	d	黄色のスポーツバイクに乗った男性後輪走行していて、黒いバイクに乗った仲間が追い上げている	オレンジ色のライダーがオートバイの後輪走行をしている	黄色のスポーツバイクに乗った男性が後輪走行をしていて、黒いバイクに乗った仲間が追い上げている	neutral	1.7	neutral	neutral	neutral	neutral	2.0	2.0	2.0	2.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+1560_ni_d	ni	d	木男性拾い上げられている	男性が木を運んでいる	木が男性に拾い上げられている	neutral	2.5	neutral	neutral	neutral	neutral	3.0	3.0	2.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+7069_de_d	de	d	ローラーブレーダー斜面芸を行っている	インラインスケートをはいた男性がスケート場で休憩している	ローラーブレーダーが斜面で芸を行っている	neutral	2.3	neutral	neutral	neutral	contradiction	1.7	2.0	1.0	2.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+7159_wo_d	wo	d	黒い犬いくらかの丈が高い草の中歩いている	黒い犬は草地を走り抜けている	黒い犬がいくらかの丈が高い草の中を歩いている	neutral	3	contradiction	contradiction	neutral	contradiction	2.7	3.0	2.0	3.0	文Ａが不自然。助詞が抜けている。黒い犬は同一の犬と考えて矛盾を選択。	文Aが不自然	文Aが不自然
+6013_wo_d	wo	d	少女標識運んでいて、あるグループの人々が彼女の後に続いている	青いシャツを着た幼い女の子が歩道を歩きながらピンク色の標識を掲げている	少女は標識を運んでいて、あるグループの人々が彼女の後に続いている	neutral	2	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+1456_de_c	de	c	女性でナイフが肉を薄切りにしている	男性がパン生地を広げている	女性がナイフで肉を薄切りにしている	neutral	1.5	neutral	neutral	neutral	neutral	1.0	1.0	1.0	1.0	文Ａの助詞が不自然。	文Aが不自然	
+6081_ni_c	ni	c	ジーンズをはいている人に馬の鞍の上が座っている	ジーンズをはいた女性が鞍を着けられた馬の近くに立っている	ジーンズをはいている人が馬の鞍の上に座っている	neutral	3	neutral	neutral	neutral	neutral	2.0	3.0	2.0	1.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+7918_wo_d	wo	d	犬野原走り抜けていて、ボールを追いかけている	犬が野原を走り抜けていて、おもちゃを追いかけている	犬が野原を走り抜けていて、ボールを追いかけている	entailment	3.7	entailment	entailment	neutral	entailment	4.0	4.0	4.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+2271_ni_d	ni	d	女性その肉砂糖を加えている	いくつかの肉にスパイスを加えている女性は一人もいない	女性はその肉に砂糖を加えている	neutral	3	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａが不自然。助詞が抜けている。砂糖は昔スパイスと捉えられていたという説もあるようですが、現在はスパイスではないと考えて中立を選択。	文Aが不自然	文Aが不自然
+5974_ni_c	ni	c	歩行者に男性向けの帽子店の中がいる	帽子をかぶった男性が店の中を歩いている	歩行者が男性向けの帽子店の中にいる	neutral	3	neutral	neutral	neutral	neutral	2.3	4.0	1.0	2.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+8491_de_d	de	d	シャツを着ていない男性芝生フットボールをしている	フットボールがシャツを着ていない男性につかまれている	シャツを着ていない男性が芝生でフットボールをしている	entailment	3.3	neutral	neutral	neutral	entailment	3.0	4.0	1.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+8534_de_d	de	d	黄褐色の犬池の岸の水の中飛沫を上げている	黄褐色の犬が池の岸の水の中で遊んでいる	黄褐色の犬が池の岸の水の中で飛沫を上げている	neutral	3.7	neutral	neutral	neutral	entailment	3.3	4.0	2.0	4.0	文Ａが不自然。助詞が抜けている。遊んでいるとは限らないため中立を選択。	文Aが不自然	文Aが不自然
+123_ni_o	ni	o	木造小屋の前に五人の子供たちが立っている	五人の子供たちが寄り添って立っていて、一人の子供が武器を持っている	五人の子供たちが木造小屋の前に立っている	neutral	3.3	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0		文Aが不自然	
+9154_wo_c	wo	c	黒いドレスを着た女性をカートが引いていて、公園のベンチに腰掛けている二人の男性の前に立っている	婦人が黒い服を着ていて、白い十字架を運んでいる	黒いドレスを着た女性がカートを引いていて、公園のベンチに腰掛けている二人の男性の前に立っている	neutral	2	neutral	neutral	neutral	neutral	1.7	1.0	1.0	3.0	文Ａの助詞が不自然。	文Aが不自然	
+4613_ni_d	ni	d	自動車男性運転されている	男性が車を運転している	自動車が男性に運転されている	entailment	5	entailment	entailment	neutral	entailment	4.0	4.0	3.0	5.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+8308_wo_d	wo	d	子供たち衣装着ていて、ゲームをしている	子供たちが衣装を着ておらず、ゲームをしていない	子供たちが衣装を着ていて、ゲームをしている	contradiction	3.7	contradiction	contradiction	neutral	contradiction	3.7	3.0	4.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+3193_wo_c	wo	c	男性をトマトが薄切りにしている	女性がニンジンを薄切りにしている	男性がトマトを薄切りにしている	neutral	3.5	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+1217_de_d	de	d	小さな猿川の中歩いている	小さな猿が水の中を歩いて渡っている	小さな猿が川の中で歩いている	neutral	3.5	entailment	entailment	neutral	entailment	3.3	4.0	2.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+3146_wo_o	wo	o	武術を猿は練習している	猿が、ある人の手袋をはめた手を蹴っている	猿は武術を練習している	neutral	2.5	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0			
+2830_de_o	de	o	ペンシルで女性はアイシャドウを塗っている	女性はペンシルでアイシャドウを塗っていない	女性はペンシルでアイシャドウを塗っている	contradiction	4	contradiction	contradiction	contradiction	contradiction	3.3	4.0	2.0	4.0			
+4704_de_o	de	o	海辺で女性たちのグループがボールで遊んでいる	男の子たちのグループが海辺でサッカーをしている	女性たちのグループが海辺でボールで遊んでいる	neutral	3	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0		文Aが不自然	
+5240_ni_d	ni	d	女性熱い湯の入った鍋食べ物を入れている	女性が冷たい水の入った鍋に食べ物を入れている	女性が熱い湯の入った鍋に食べ物を入れている	contradiction	3.3	contradiction	contradiction	neutral	contradiction	3.3	4.0	2.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+7065_de_c	de	c	ローラーブレーダーで斜面が芸を行っていない	ローラーブレーダーが斜面で芸を行っている	ローラーブレーダーは斜面で芸を行っていない	contradiction	4	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	
+5328_ni_c	ni	c	男性にプールが潜っている	女性がプールに潜っている	男性がプールに潜っている	neutral	3.7	neutral	neutral	neutral	neutral	3.3	4.0	2.0	4.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+3585_wo_d	wo	d	男性それらのドラム叩いている	それらのドラムを叩いている男性は一人もいない	男性がそれらのドラムを叩いている	contradiction	4	contradiction	contradiction	neutral	contradiction	3.7	3.0	4.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+2560_wo_d	wo	d	男性ギター弾いている	ある人がギターを片付けている	男性がギターを弾いている	neutral	2.5	neutral	neutral	neutral	contradiction	3.0	3.0	2.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+4532_ni_d	ni	d	男性馬乗っている	男性が車両を運転している	男性が馬に乗っている	neutral	2.5	neutral	neutral	neutral	neutral	2.3	3.0	1.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+5896_de_c	de	c	一人の男性と一人の女性で自動車が道路を走行している	一人の男性と一人の女性がオープンカーで道路を走行している	一人の男性と一人の女性が自動車で道路を走行している	neutral	3.7	neutral	neutral	neutral	neutral	3.3	4.0	2.0	4.0	文Ａの助詞が不自然。	文Aが不自然	
+7109_ni_o	ni	o	ライディングカーの中に小さなおもちゃの女の子がいる	子供が赤と黄色のおもちゃの自動車の中に座っている	小さなおもちゃの女の子がライディングカーの中にいる	neutral	2	neutral	neutral	neutral	neutral	2.3	3.0	1.0	3.0			
+5528_wo_o	wo	o	豆腐を女性が切っている	女性が豆腐を切っていない	女性が豆腐を切っている	contradiction	4	contradiction	contradiction	contradiction	contradiction	4.0	4.0	4.0	4.0			
+850_ni_o	ni	o	垂直な白い岩の下に登山に使われる道具を持った男性がいる	ポニーテールの女性が岩の壁を登っている	登山に使われる道具を持った男性が垂直な白い岩の下にいる	neutral	1.5	neutral	neutral	neutral	neutral	1.7	2.0	1.0	2.0		文Aが不自然	
+4413_wo_c	wo	c	競争における二人の人をトラクターのタイヤがひっくり返している	二人の男性がタイヤ転がし競技会で競争している	競争における二人の人がトラクターのタイヤをひっくり返している	neutral	2.5	neutral	neutral	neutral	neutral	2.0	3.0	1.0	2.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+4587_ni_c	ni	c	女性に馬が乗っている	女性が馬に乗っていない	女性が馬に乗っている	contradiction	4	entailment	entailment	neutral	entailment	3.3	4.0	2.0	4.0	文Ａの助詞が不自然。747では中立としましたが、ここでは女性が同一人物と考えて含意を選択。	文Aが不自然	
+3698_wo_o	wo	o	スーツケースを男性たちは車のトランクの中に入れている	男性たちはスーツケースを車のトランクに詰め込んでいる	男性たちはスーツケースを車のトランクの中に入れている	neutral	3.5	entailment	entailment	entailment	entailment	4.3	4.0	4.0	5.0			
+5281_de_c	de	c	女の子で手話がコミュニケーションしている	幼い女の子が手話を使っている	女の子が手話でコミュニケーションしている	neutral	4	neutral	neutral	neutral	entailment	3.3	3.0	2.0	5.0	文Ａの助詞が不自然。	文Aが不自然	
+8587_wo_d	wo	d	アラビア人の男性白い帽子かぶっていない	アラビア人の男性が白い帽子をかぶっている	アラビア人の男性が白い帽子をかぶっていない	contradiction	4	contradiction	contradiction	neutral	contradiction	4.0	4.0	4.0	4.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+3193_wo_d	wo	d	男性トマト薄切りにしている	女性がニンジンを薄切りにしている	男性がトマトを薄切りにしている	neutral	3.5	neutral	neutral	neutral	neutral	3.0	4.0	2.0	3.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+2301_de_c	de	c	女性で湖がウェイクボーディングをしている	女性が湖を見ている	女性が湖でウェイクボーディングをしている	neutral	3	neutral	neutral	neutral	neutral	2.3	3.0	2.0	2.0	文Ａの助詞が不自然。	文Aが不自然	
+3030_de_c	de	c	数人の子供たちでトランポリンの上が跳ねている	二人の男の子がトランポリンの上で遊んでいる	数人の子供たちがトランポリンの上で跳ねている	neutral	3	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+6574_wo_o	wo	o	青いヘルメットを女性が着けていて、駐車場で自転車に乗っている	自転車乗りは街路で走っている	女性が青いヘルメットを着けていて、駐車場で自転車に乗っている	neutral	2.3	neutral	neutral	neutral	contradiction	2.7	3.0	2.0	3.0			
+8226_wo_d	wo	d	黒い犬岩の多い風景の中走り抜けている	犬が岩の多い風景の中を走り抜けている	黒い犬が岩の多い風景の中を走り抜けている	entailment	4	entailment	entailment	neutral	entailment	4.3	4.0	4.0	5.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+8466_ni_o	ni	o	地面の上に後ろ向きの帽子をかぶった人が座っている	白いシャツと金色と黒の帽子を身に着けている若い男性が脚を組んで座っている	後ろ向きの帽子をかぶった人が地面の上に座っている	neutral	2.3	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0		文Aが不自然	
+7945_de_d	de	d	白いＴシャツを着た男の子浅い水の中飛沫を飛ばしている	白いＴシャツを着た子供が浅い水の中で飛沫を飛ばしている	白いＴシャツを着た男の子が浅い水の中で飛沫を飛ばしている	entailment	4.3	entailment	entailment	neutral	entailment	4.3	4.0	4.0	5.0	文Ａが不自然。助詞が抜けている。	文Aが不自然	文Aが不自然
+6959_de_c	de	c	白い帽子をかぶった男性でステージがギターを弾いている	白い帽子をかぶった男性がステージでギターを弾いている	白い帽子をかぶった男性はステージでギターを弾いている	entailment	5	neutral	neutral	neutral	neutral	3.3	4.0	2.0	4.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
+3928_de_o	de	o	何人かの人々の前で男の子たちがダンスをしている	一匹の犬を連れた二人の男性が大勢の人々を押し分けて進んでいる	男の子たちが何人かの人々の前でダンスをしている	neutral	1	neutral	neutral	neutral	neutral	1.0	1.0	1.0	1.0			
+2452_wo_o	wo	o	大人のサイの後をサイの赤ちゃんが追っている	サイの子供が囲いの中を母親と一緒に歩き回っている	サイの赤ちゃんが大人のサイの後を追っている	neutral	3	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0			
+5713_wo_o	wo	o	ショットガンを男性が撃っている	男性がショットガンを発砲している	男性がショットガンを撃っている	entailment	4.7	entailment	entailment	entailment	entailment	4.3	4.0	4.0	5.0			
+9582_wo_o	wo	o	棒を小さな黒と白の犬が運んでいて、泳いでいる	犬がとても汚れた水から棒を取ってきている	小さな黒と白の犬が棒を運んでいて、泳いでいる	neutral	2.3	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0			
+9219_wo_o	wo	o	丸太をシャツなしの男性が跳び越えている	男が森林地域で空中に飛び跳ねている	シャツなしの男性が丸太を跳び越えている	neutral	2.3	neutral	neutral	neutral	neutral	2.7	3.0	2.0	3.0			
+6737_ni_o	ni	o	レストランの前にあるベンチにその人々は座っていない	その人々はレストランの前にあるベンチに座っている	その人々はレストランの前にあるベンチに座っていない	contradiction	4	contradiction	contradiction	contradiction	contradiction	4.0	4.0	4.0	4.0			
+6774_de_o	de	o	雪の中で犬がフリスビーに向かってジャンプしている	犬は雪の中でフリスビーに向かってジャンプしている	犬が雪の中でフリスビーに向かってジャンプしている	entailment	5	entailment	entailment	entailment	entailment	5.0	5.0	5.0	5.0			
+1742_ni_c	ni	c	ピアノにある人が弾かれている	ある人が動物に食物を与えている	ピアノはある人に弾かれている	neutral	1	neutral	neutral	neutral	neutral	1.0	1.0	1.0	1.0	文Ａの助詞が不自然。	文Aが不自然	文Aが不自然
