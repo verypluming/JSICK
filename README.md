@@ -38,7 +38,7 @@ The file `jsick/jsick-all-annotations.tsv` contains the JSICK raw annotations, a
 ## References
 1. Hitomi Yanaka, Koji Mineshima. [Compositional Evaluation on Japanese Textual Entailment and Similarity](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00518/113850/Compositional-Evaluation-on-Japanese-Textual).
     Transactions of the Association for Computational Linguistics, 2022. (TACL2022)
-    [arXiv](https://arxiv.org/abs/2208.04826)
+    [[arXiv]](https://arxiv.org/pdf/2208.04826.pdf)
 2. 谷中瞳, 峯島宏次. [JSICK: 日本語構成的推論・類似度データセットの構築](https://www.jstage.jst.go.jp/article/pjsai/JSAI2021/0/JSAI2021_4J3GS6f02/_pdf/-char/ja). 人工知能学会第35回全国大会, 2021.
 
 If you use this dataset in any published research, please cite the following:
