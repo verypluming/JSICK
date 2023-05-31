@@ -3,6 +3,8 @@
 ## Japanese Sentences Involving Compositional Knowledge (JSICK) Dataset
 JSICK is the Japanese NLI and STS dataset by manually translating the English dataset [SICK](https://marcobaroni.org/composes/sick.html) (Marelli et al., 2014) into Japanese.
 We hope that our dataset will be useful in research for realizing more advanced models that are capable of appropriately performing multilingual compositional inference.
+**You can use the JSICK dataset/JSICK-stress test set at [huggingface dataset](https://huggingface.co/datasets/hpprc/jsick)!** 
+
 The dataset is splitted into `train.tsv` and `test.tsv`.
 
 |Name|Description|
